@@ -4,3 +4,6 @@
 [submodule "cs162"]
 	path = cs162
 	url = https://github.com/Lyon-K/CS162
+[submodule "cs340/groupProj/snacc-frontend"]
+	path = cs340/groupProj/snacc-frontend
+	url = https://github.com/snacc-io/snacc-frontend
