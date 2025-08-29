@@ -1,0 +1,6 @@
+[submodule "cs161"]
+	path = cs161
+	url = https://github.com/Lyon-K/CS161
+[submodule "cs162"]
+	path = cs162
+	url = https://github.com/Lyon-K/CS162
