@@ -1,0 +1,104 @@
+      1024 ,        8 ,    18.1818 ,  84.08
+      1024 ,       32 ,    20.4082 ,  85.35
+      1024 ,       64 ,    20.4082 ,  84.67
+      1024 ,      128 ,    19.6078 ,  82.23
+      1024 ,      256 ,    20.4082 ,  83.50
+      1024 ,      512 ,    19.6078 ,  84.38
+      1024 ,     1024 ,    20.4082 ,  83.11
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+      1024 ,     2048 ,    25.6410 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+      1024 ,     4096 ,    25.6410 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+      1024 ,     8192 ,    25.6410 ,   0.00
+      4096 ,        8 ,    80.0000 ,  84.16
+      4096 ,       32 ,    68.9655 ,  83.45
+      4096 ,       64 ,    80.0000 ,  83.64
+      4096 ,      128 ,    78.4314 ,  85.23
+      4096 ,      256 ,    85.1064 ,  83.81
+      4096 ,      512 ,    72.7273 ,  83.47
+      4096 ,     1024 ,    81.6327 ,  84.06
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+      4096 ,     2048 ,    97.5610 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+      4096 ,     4096 ,    83.3333 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+      4096 ,     8192 ,   100.0000 ,   0.00
+     16384 ,        8 ,   280.7017 ,  83.97
+     16384 ,       32 ,   320.0000 ,  83.86
+     16384 ,       64 ,   320.0000 ,  83.87
+     16384 ,      128 ,   326.5306 ,  84.23
+     16384 ,      256 ,   320.0000 ,  84.05
+     16384 ,      512 ,   313.7255 ,  83.97
+     16384 ,     1024 ,   313.7255 ,  83.76
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+     16384 ,     2048 ,   400.0000 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+     16384 ,     4096 ,   380.9524 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+     16384 ,     8192 ,   400.0000 ,   0.00
+     65536 ,        8 ,  1003.9216 ,  83.65
+     65536 ,       32 ,  1211.1177 ,  83.78
+     65536 ,       64 ,  1159.6829 ,  83.61
+     65536 ,      128 ,  1227.0821 ,  83.74
+     65536 ,      256 ,  1264.1975 ,  83.75
+     65536 ,      512 ,  1183.1311 ,  83.84
+     65536 ,     1024 ,  1284.0125 ,  83.86
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+     65536 ,     2048 ,  1630.5732 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+     65536 ,     4096 ,  1678.6886 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+     65536 ,     8192 ,  1621.5361 ,   0.00
+    262144 ,        8 ,  2208.6815 ,  83.74
+    262144 ,       32 ,  3972.8417 ,  83.80
+    262144 ,       64 ,  3730.4190 ,  83.79
+    262144 ,      128 ,  4192.4258 ,  83.74
+    262144 ,      256 ,  4735.2601 ,  83.89
+    262144 ,      512 ,  4636.1065 ,  83.83
+    262144 ,     1024 ,  4432.9005 ,  83.76
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+    262144 ,     2048 ,  6420.0624 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+    262144 ,     4096 ,  6365.1903 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+    262144 ,     8192 ,  6660.1623 ,   0.00
+   1048576 ,        8 ,  3852.3395 ,  83.85
+   1048576 ,       32 ,  9688.9417 ,  83.82
+   1048576 ,       64 , 12379.2978 ,  83.80
+   1048576 ,      128 , 12967.1552 ,  83.77
+   1048576 ,      256 , 13369.2368 ,  83.76
+   1048576 ,      512 , 12865.3314 ,  83.81
+   1048576 ,     1024 , 13107.2003 ,  83.89
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+   1048576 ,     2048 , 26214.4006 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+   1048576 ,     4096 , 25985.7245 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+   1048576 ,     8192 , 26319.6776 ,   0.00
+   2097152 ,        8 ,  4259.4566 ,  83.78
+   2097152 ,       32 , 12639.5368 ,  83.77
+   2097152 ,       64 , 18184.2399 ,  83.80
+   2097152 ,      128 , 19974.3976 ,  83.77
+   2097152 ,      256 , 19084.4492 ,  83.77
+   2097152 ,      512 , 19446.8840 ,  83.85
+   2097152 ,     1024 , 19469.9939 ,  83.78
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+   2097152 ,     2048 , 49723.8231 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+   2097152 ,     4096 , 50567.9023 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+   2097152 ,     8192 , 51441.1287 ,   0.00
+   4194304 ,        8 ,  4514.4314 ,  83.78
+   4194304 ,       32 , 14778.6676 ,  83.80
+   4194304 ,       64 , 21936.7361 ,  83.80
+   4194304 ,      128 , 27426.6592 ,  83.80
+   4194304 ,      256 , 26058.0511 ,  83.79
+   4194304 ,      512 , 26930.7579 ,  83.82
+   4194304 ,     1024 , 25530.1910 ,  83.82
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+   4194304 ,     2048 , 88983.0254 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+   4194304 ,     4096 , 87497.9975 ,   0.00
+Cuda failure proj05.cu:86: 'invalid configuration argument'
+   4194304 ,     8192 , 87381.3326 ,   0.00
