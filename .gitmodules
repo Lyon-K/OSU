@@ -7,3 +7,6 @@
 [submodule "cs340/groupProj/snacc-frontend"]
 	path = cs340/groupProj/snacc-frontend
 	url = https://github.com/snacc-io/snacc-frontend
+[submodule "cs535/AI535-ultralytics"]
+	path = cs535/AI535-ultralytics
+	url = https://github.com/ultralytics/ultralytics
