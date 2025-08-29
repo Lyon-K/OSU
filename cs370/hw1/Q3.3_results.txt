@@ -1,0 +1,3 @@
+[Thu Oct 26 00:55:10 2023]
+Weak collision: Average iterations for 20 runs: 15159363.55
+Strong collision: Average iterations for 20 runs: 4473.75
