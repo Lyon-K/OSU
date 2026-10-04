@@ -1,0 +1,105 @@
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.24, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.24, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.24, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+clEnqueueNDRangeKernel failed: -54
+** m =     -nan, b =     -nan **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.24, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.24, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.24, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.05, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.05, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.05, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+clEnqueueNDRangeKernel failed: -54
+** m =     -nan, b =     -nan **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.05, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.05, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.05, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     4.90, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     4.90, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     4.90, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+clEnqueueNDRangeKernel failed: -54
+** m =     -nan, b =     -nan **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     4.90, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     4.90, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     4.90, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+clEnqueueNDRangeKernel failed: -54
+** m =     -nan, b =     -nan **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+clEnqueueNDRangeKernel failed: -54
+** m =     -nan, b =     -nan **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+clEnqueueNDRangeKernel failed: -54
+** m =     -nan, b =     -nan **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.02, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.02, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.02, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+clEnqueueNDRangeKernel failed: -54
+** m =     -nan, b =     -nan **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.02, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.02, b =     1.75 **
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.02, b =     1.75 **

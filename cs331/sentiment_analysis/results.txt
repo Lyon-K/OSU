@@ -1,0 +1,12 @@
+accuracy: 100.00%;	#examples:125;	trainingSet.txt
+accuracy: 62.40%;	#examples:125;	testSet.txt
+
+accuracy: 96.80%;	#examples:250;	trainingSet.txt
+accuracy: 70.80%;	#examples:250;	testSet.txt
+
+accuracy: 96.00%;	#examples:375;	trainingSet.txt
+accuracy: 72.00%;	#examples:375;	testSet.txt
+
+accuracy: 96.59%;	#examples:499;	trainingSet.txt
+accuracy: 79.28%;	#examples:497;	testSet.txt
+

@@ -1,0 +1,73 @@
+CS531: Answers to Homework 5 
+
+1. a-b. The variables X1..Xk are the knights and the values 
+are their X-Y coordinates loc(X1),...,loc(Xk). 
+c. The constraints are that all-diff(X1..Xk) and 
+~attacks(Xi,Xj) for any i and j. attacks(Xi,Xj) is true 
+if sqauredDistance(loc(Xi),loc(Xj))=5. 
+d. We can start with an assignment of all knights to the first few 
+rows, and use the min-conflicts heuristic to move them around systematically,
+i.e., only increase their row or column index.  
+The operators move a knight which is attacking some 
+other knight, or add a new knight in a randomly selected open 
+position. We evaluate each state by the number of knights not 
+in conflict. If a solution for k knights has already been found, 
+then any path that cannot fit at least k knights can be pruned 
+immediately.
+
+2. a. Rectilinear floor planning. Let the rectangular space be N X M. 
+Each smaller rectangle i is of size ai X bi. The variable (xi,yi) represents 
+the location of the left-bottom corner of small rectangle i. The domain 
+of the variables are all possible points in N X M grid, i.e., (0,0) through 
+(n,m). 
+
+Constraints. The small rectangles should be within the large rectangle. 
+0 <= xi. xi+ai <= N. 0 <= yi. yi+bi <= M. 
+
+No overlapping. I am allowing the rectangles to meet so that they share a 
+point. 
+
+For all i and j, xi+ai <= xj or xj+aj <= xi or yi+bi <= yj or yj+bj <= yi
+
+b. Class scheduling. Let Classes be C1...Cn.
+The set of variables for each class Ci are Ti, the teacher, Ri, the 
+room and Si the time slot.
+
+We use D(Ti) for the domain of Ti which represents the teachers who can 
+teach Ci. Similarly D(Ri) and D(Si). 
+
+Other constraints. 
+
+A teacher can only teach one class at a time. 
+For i=/=j, Ti =/= Tj or Si and Sj do not overlap. 
+
+A room can hold only one class at a time. 
+For i=/=j, Ri =/= Rj or Si and Sj do not overlap. 
+
+There may be other constraints such as some teachers
+do not want to teach in some slots, which can be 
+written as CanTeach(Ti,Si). 
+
+2.
+Initial assignment:   WA=G,V=R,NT={R,G,B},Q={N,G,B},NSW={R,G,B},SA={R,G,B},T={R,G,B}
+After processing variable pairs: (S,W), (NT,W), (S,V) and (NSW,V), we will have:
+                      WA=G,V=R,NT={R,B},Q={N,G,B},NSW={B,G},SA={B},T={R,G,B}
+After processing variable pairs: (NT,SA), (Q,SA), and (NSW,SA), we will have:
+                      WA=G,V=R,NT=R,Q={R,G},NSW=G,SA={B},T={R,G,B}
+After processing (Q,NT) and (Q,NSW) we will have: 
+                      WA=G,V=R,NT=R,Q={},NSW=G,SA={B},T={R,G,B}
+Since Q's domain is empty, this shows that the assignment is inconsistent. 
+
+Note that after each of these steps the variable pairs are put back into the 
+list, but in this case, they do not have further effect on the result. 
+
+3. The first player can play in any of 9 positions, and the second player 
+can then play in any of 8 positions, and so on. So if we do not consider 
+symmetry, there are 9! games in the worst case, although some of these games 
+end sooner, i.e., before all moves are played. Symmetry means the board
+is treated the same regardless of its orienation and/or mirror image. All 
+symmetric images of the board will have the same value according to the 
+given evaluation function. So we can combine all those nodes into one node. 
+The rest of the problem is addressed in the pdf file. 
+
+

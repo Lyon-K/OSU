@@ -1,0 +1,310 @@
+Tests for MT Heuristic
+Optimal soultion for problem 0 where m=10 and s=21
+Optimal soultion for problem 1 where m=20 and s=77
+Optimal soultion for problem 2 where m=30 and s=39
+Suboptimal soultion for problem 3 where m=40 and s=8
+Optimal soultion for problem 4 where m=50 and s=402
+
+Test for CB Heuristic
+Optimal soultion for problem 0 where m=10 and s=21
+Optimal soultion for problem 1 where m=20 and s=77
+Optimal soultion for problem 2 where m=30 and s=39
+Suboptimal soultion for problem 3 where m=40 and s=8
+Optimal soultion for problem 4 where m=50 and s=402
+
+Test for NA Heuristic
+Optimal soultion for problem 0 where m=10 and s=21
+Suboptimal soultion for problem 1 where m=20 and s=77
+Suboptimal soultion for problem 2 where m=30 and s=39
+Suboptimal soultion for problem 3 where m=40 and s=8
+Suboptimal soultion for problem 4 where m=50 and s=402
+
+        Heuristic: BF
+        times shuffled(m): 10
+        total solved: 10
+        nodes generated: [1564, 822, 799, 818, 1020, 1163, 815, 169, 996, 1186]
+        time to solve: [0.2735571, 0.1365255, 0.1320341, 0.1345213, 0.1720372, 0.1940669, 0.1260514, 0.0269995, 0.1660414, 0.2000382]s
+        solution lengths: [10, 10, 10, 10, 10, 10, 10, 6, 10, 10]
+
+
+        Heuristic: MT
+        times shuffled(m): 10
+        total solved: 10
+        nodes generated: [222, 128, 183, 139, 211, 179, 109, 47, 170, 183]
+        time to solve: [0.0369999, 0.0205174, 0.029998, 0.0220011, 0.0340058, 0.0295166, 0.018, 0.0070013, 0.0279985, 0.0290055]s
+        solution lengths: [10, 10, 10, 10, 10, 10, 10, 6, 10, 10]
+
+
+        Heuristic: CB
+        times shuffled(m): 10
+        total solved: 10
+        nodes generated: [201, 133, 146, 142, 182, 157, 131, 73, 235, 146]
+        time to solve: [0.0320036, 0.0209982, 0.0219993, 0.0220089, 0.0285165, 0.0249999, 0.0209998, 0.0110004, 0.0385192, 0.0230001]s
+        solution lengths: [10, 10, 10, 10, 10, 10, 10, 6, 10, 10]
+
+
+        Heuristic: NA
+        times shuffled(m): 10
+        total solved: 10
+        nodes generated: [578, 190, 311, 295, 316, 472, 198, 73, 239, 461]
+        time to solve: [0.0935232, 0.0290011, 0.0475195, 0.0449999, 0.0495222, 0.0780056, 0.0305117, 0.011, 0.0379993, 0.0755222]s
+        solution lengths: [10, 10, 10, 10, 10, 10, 10, 6, 10, 10]
+
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+
+        Heuristic: BF
+        times shuffled(m): 20
+        total solved: 5
+        nodes generated: [93450, 92958, 91230, 26240, 87155, 93407, 98383, 22391, 85624, 45155]
+        time to solve: [8.7246803, 53.4576911, 6.3659654, 49.9713842, 18.6819015]s
+        solution lengths: [16, 20, 16, 20, 18]
+
+
+        Heuristic: MT
+        times shuffled(m): 20
+        total solved: 10
+        nodes generated: [4678, 15248, 16748, 3854, 19031, 17241, 20269, 5570, 6541, 4916]
+        time to solve: [0.9019954, 3.8989791, 4.3649764, 0.7539958, 5.2484387, 4.7459764, 5.7359672, 1.134996, 1.3689927, 1.0169925]s
+        solution lengths: [20, 20, 24, 16, 20, 20, 20, 16, 20, 18]
+
+
+        Heuristic: CB
+        times shuffled(m): 20
+        total solved: 10
+        nodes generated: [3590, 5953, 9995, 1483, 7791, 7775, 7690, 5701, 5173, 4273]
+        time to solve: [0.7049933, 1.2469931, 2.3459876, 0.2759982, 1.6959888, 1.7855243, 1.7539917, 1.2269955, 1.101994, 0.8589933]s
+        solution lengths: [20, 20, 24, 16, 20, 20, 20, 16, 20, 18]
+
+
+        Heuristic: NA
+        times shuffled(m): 20
+        total solved: 10
+        nodes generated: [23292, 22463, 36863, 7107, 36628, 54554, 18345, 4280, 6426, 8975]
+        time to solve: [7.1642382, 7.0870195, 13.4198396, 1.4529919, 13.0896934, 37.7773963, 8.5179583, 1.4869956, 2.2609882, 3.4639815]s
+        solution lengths: [20, 20, 20, 16, 20, 22, 20, 16, 20, 18]
+
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+
+        Heuristic: BF
+        times shuffled(m): 30
+        total solved: 4
+        nodes generated: [85112, 94029, 100719, 17373, 97104, 86714, 8177, 98685, 98601, 63500]
+        time to solve: [4.0803021, 46.8911206, 1.6073358, 29.3219242]s
+        solution lengths: [16, 20, 14, 18]
+
+Solution not found in 60 seconds. board:
+[[4 8 5]
+ [6 1 7]
+ [3 2 0]]
+
+        Heuristic: MT
+        times shuffled(m): 30
+        total solved: 9
+        nodes generated: [31043, 67726, 36895, 4545, 99567, 19163, 864, 81110, 71470, 9643]
+        time to solve: [9.4005761, 31.998937, 12.1427032, 0.8212145, 4.7493241, 0.1405262, 42.7754753, 34.708077, 1.951418]s
+        solution lengths: [24, 24, 22, 18, 20, 14, 22, 24, 18]
+
+
+        Heuristic: CB
+        times shuffled(m): 30
+        total solved: 10
+        nodes generated: [29405, 38877, 27353, 4827, 90393, 10643, 681, 85134, 44081, 11588]
+        time to solve: [8.7958266, 13.3657618, 7.8502773, 0.8781737, 53.5725701, 2.2421685, 0.1110341, 48.189941, 16.3560882, 2.4760118]s
+        solution lengths: [24, 24, 22, 16, 26, 20, 14, 22, 26, 18]
+
+Solution not found in 60 seconds. board:
+[[0 7 1]
+ [3 5 8]
+ [4 6 2]]
+Solution not found in 60 seconds. board:
+[[4 8 5]
+ [6 1 7]
+ [3 2 0]]
+
+        Heuristic: NA
+        times shuffled(m): 30
+        total solved: 8
+        nodes generated: [83748, 98301, 68349, 8913, 98367, 54102, 2683, 82926, 83491, 27925]
+        time to solve: [43.043589, 32.9117869, 1.778934, 22.6924565, 0.4436071, 42.0503681, 42.477973, 8.2020117]s
+        solution lengths: [24, 22, 16, 22, 14, 22, 24, 18]
+
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+
+        Heuristic: BF
+        times shuffled(m): 40
+        total solved: 2
+        nodes generated: [98738, 98731, 98899, 102177, 98421, 91519, 50843, 102144, 102108, 98679]
+        time to solve: [51.2685822, 20.1961246]s
+        solution lengths: [20, 18]
+
+Solution not found in 60 seconds. board:
+[[2 7 0]
+ [1 6 5]
+ [3 8 4]]
+Solution not found in 60 seconds. board:
+[[8 5 7]
+ [4 3 1]
+ [6 2 0]]
+Solution not found in 60 seconds. board:
+[[7 8 4]
+ [3 0 6]
+ [2 5 1]]
+
+        Heuristic: MT
+        times shuffled(m): 40
+        total solved: 7
+        nodes generated: [73051, 43577, 99042, 56462, 99330, 7779, 6810, 78201, 98868, 19085]
+        time to solve: [35.9965552, 15.5819598, 23.5502695, 1.5153299, 1.2834755, 40.3338973, 4.6748012]s
+        solution lengths: [24, 26, 22, 20, 18, 26, 22]
+
+Solution not found in 60 seconds. board:
+[[8 5 7]
+ [4 3 1]
+ [6 2 0]]
+Solution not found in 60 seconds. board:
+[[7 8 4]
+ [3 0 6]
+ [2 5 1]]
+
+        Heuristic: CB
+        times shuffled(m): 40
+        total solved: 8
+        nodes generated: [51839, 31432, 39414, 43398, 96016, 3549, 3247, 39402, 96706, 15768]
+        time to solve: [21.0277075, 9.7443504, 13.6589728, 15.7543222, 0.6386418, 0.5596005, 13.7076887, 3.6768922]s
+        solution lengths: [24, 26, 26, 22, 20, 18, 26, 22]
+
+Solution not found in 60 seconds. board:
+[[2 3 7]
+ [5 6 4]
+ [0 8 1]]
+Solution not found in 60 seconds. board:
+[[2 7 0]
+ [1 6 5]
+ [3 8 4]]
+Solution not found in 60 seconds. board:
+[[5 4 2]
+ [3 0 8]
+ [7 1 6]]
+Solution not found in 60 seconds. board:
+[[8 5 7]
+ [4 3 1]
+ [6 2 0]]
+Solution not found in 60 seconds. board:
+[[8 7 3]
+ [6 0 4]
+ [1 5 2]]
+Solution not found in 60 seconds. board:
+[[7 8 4]
+ [3 0 6]
+ [2 5 1]]
+
+        Heuristic: NA
+        times shuffled(m): 40
+        total solved: 4
+        nodes generated: [98602, 83701, 98460, 101791, 98413, 53754, 15181, 100989, 99409, 53862]
+        time to solve: [42.6135422, 22.4018796, 3.2929799, 23.8017981]s
+        solution lengths: [24, 20, 18, 22]
+
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+Solution not found in 60 seconds
+
+        Heuristic: BF
+        times shuffled(m): 50
+        total solved: 0
+        nodes generated: [96598, 95731, 95660, 94784, 94910, 94455, 94116, 94007, 95691, 93410]
+        time to solve: []s
+        solution lengths: []
+
+Solution not found in 60 seconds. board:
+[[7 8 6]
+ [3 4 1]
+ [5 2 0]]
+
+        Heuristic: MT
+        times shuffled(m): 50
+        total solved: 9
+        nodes generated: [51650, 92714, 56952, 29973, 38906, 48079, 58557, 70283, 63456, 97056]
+        time to solve: [22.681878, 26.9866053, 9.977121, 14.7837535, 21.1917147, 28.3921055, 36.6168749, 29.6558401, 59.8336784]s
+        solution lengths: [22, 26, 22, 22, 22, 24, 28, 24, 26]
+
+Solution not found in 60 seconds. board:
+[[7 8 6]
+ [3 4 1]
+ [5 2 0]]
+
+        Heuristic: CB
+        times shuffled(m): 50
+        total solved: 9
+        nodes generated: [44605, 96662, 39425, 19193, 23515, 60832, 23755, 61068, 52813, 50474]
+        time to solve: [16.9259089, 13.8214288, 4.8349739, 6.3229662, 27.5058522, 6.4899649, 27.5818517, 21.7188831, 20.8678887]s
+        solution lengths: [24, 24, 22, 22, 34, 22, 32, 26, 26]
+
+Solution not found in 60 seconds. board:
+[[7 8 6]
+ [3 4 1]
+ [5 2 0]]
+Solution not found in 60 seconds. board:
+[[2 8 6]
+ [1 4 7]
+ [3 5 0]]
+Solution not found in 60 seconds. board:
+[[5 8 4]
+ [1 7 2]
+ [0 3 6]]
+Solution not found in 60 seconds. board:
+[[4 8 3]
+ [6 7 5]
+ [0 2 1]]
+Solution not found in 60 seconds. board:
+[[7 6 4]
+ [8 2 1]
+ [0 5 3]]
+Solution not found in 60 seconds. board:
+[[6 3 4]
+ [1 8 2]
+ [5 7 0]]
+Solution not found in 60 seconds. board:
+[[7 5 4]
+ [3 0 6]
+ [8 2 1]]
+Solution not found in 60 seconds. board:
+[[0 8 4]
+ [1 2 7]
+ [3 6 5]]
+
+        Heuristic: NA
+        times shuffled(m): 50
+        total solved: 2
+        nodes generated: [36642, 95815, 94645, 94705, 94952, 83189, 93090, 92606, 95979, 92592]
+        time to solve: [11.7059364, 45.8627494]s
+        solution lengths: [22, 24]
+
+
+    Percentage of problems solved:  20.00%
+    Number of search nodes generated: 874215
+    Average CPU time per problem: 28.7843429s
+    The average solution length: 23.0

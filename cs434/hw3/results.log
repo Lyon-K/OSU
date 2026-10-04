@@ -1,0 +1,1849 @@
+2023-11-22 04:03:34 INFO     step_size_1-batch_size_200-max_epochs_200-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:03:35 INFO     Loaded train: (5000, 784)
+2023-11-22 04:03:35 INFO     Loaded val: (1000, 784)
+2023-11-22 04:03:35 INFO     Loaded test: (4220, 784)
+2023-11-22 04:03:42 INFO     [Epoch 195]   Loss:     2.302     Train Acc:     10.52%      Val Acc:      10.3%
+2023-11-22 04:03:42 INFO     [Epoch 196]   Loss:     2.301     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:03:42 INFO     [Epoch 197]   Loss:     2.301     Train Acc:     10.92%      Val Acc:      11.3%
+2023-11-22 04:03:42 INFO     [Epoch 198]   Loss:     2.301     Train Acc:     10.62%      Val Acc:      11.3%
+2023-11-22 04:03:42 INFO     [Epoch 199]   Loss:     2.301     Train Acc:     10.84%      Val Acc:      11.3%
+2023-11-22 04:03:43 INFO     step_size_1-batch_size_200-max_epochs_200-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:03:43 INFO     Loaded train: (5000, 784)
+2023-11-22 04:03:43 INFO     Loaded val: (1000, 784)
+2023-11-22 04:03:43 INFO     Loaded test: (4220, 784)
+2023-11-22 04:03:50 INFO     [Epoch 195]   Loss:     2.301     Train Acc:      11.2%      Val Acc:      11.3%
+2023-11-22 04:03:50 INFO     [Epoch 196]   Loss:     2.301     Train Acc:     10.66%      Val Acc:      11.3%
+2023-11-22 04:03:50 INFO     [Epoch 197]   Loss:     2.301     Train Acc:     10.46%      Val Acc:      11.3%
+2023-11-22 04:03:50 INFO     [Epoch 198]   Loss:     2.301     Train Acc:     10.74%      Val Acc:       9.9%
+2023-11-22 04:03:50 INFO     [Epoch 199]   Loss:     2.302     Train Acc:      10.6%      Val Acc:      11.3%
+2023-11-22 04:03:51 INFO     step_size_1-batch_size_200-max_epochs_200-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:03:51 INFO     Loaded train: (5000, 784)
+2023-11-22 04:03:51 INFO     Loaded val: (1000, 784)
+2023-11-22 04:03:51 INFO     Loaded test: (4220, 784)
+2023-11-22 04:03:59 INFO     [Epoch 195]   Loss:     2.301     Train Acc:      11.0%      Val Acc:      11.3%
+2023-11-22 04:03:59 INFO     [Epoch 196]   Loss:     2.302     Train Acc:     10.68%      Val Acc:      10.3%
+2023-11-22 04:04:00 INFO     [Epoch 197]   Loss:     2.301     Train Acc:     10.62%      Val Acc:      11.3%
+2023-11-22 04:04:00 INFO     [Epoch 198]   Loss:     2.301     Train Acc:     11.06%      Val Acc:      10.3%
+2023-11-22 04:04:00 INFO     [Epoch 199]   Loss:     2.301     Train Acc:      10.8%      Val Acc:      11.3%
+2023-11-22 04:04:00 INFO     step_size_1-batch_size_200-max_epochs_500-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:04:01 INFO     Loaded train: (5000, 784)
+2023-11-22 04:04:01 INFO     Loaded val: (1000, 784)
+2023-11-22 04:04:01 INFO     Loaded test: (4220, 784)
+2023-11-22 04:04:15 INFO     [Epoch 495]   Loss:     2.302     Train Acc:     10.68%      Val Acc:      11.3%
+2023-11-22 04:04:15 INFO     [Epoch 496]   Loss:     2.301     Train Acc:     10.72%      Val Acc:      10.3%
+2023-11-22 04:04:15 INFO     [Epoch 497]   Loss:     2.301     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:04:15 INFO     [Epoch 498]   Loss:     2.301     Train Acc:     11.12%      Val Acc:      10.3%
+2023-11-22 04:04:15 INFO     [Epoch 499]   Loss:     2.301     Train Acc:     10.76%      Val Acc:      11.3%
+2023-11-22 04:04:15 INFO     step_size_1-batch_size_200-max_epochs_500-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:04:16 INFO     Loaded train: (5000, 784)
+2023-11-22 04:04:16 INFO     Loaded val: (1000, 784)
+2023-11-22 04:04:16 INFO     Loaded test: (4220, 784)
+2023-11-22 04:04:32 INFO     [Epoch 495]   Loss:     2.301     Train Acc:      11.2%      Val Acc:      10.3%
+2023-11-22 04:04:32 INFO     [Epoch 496]   Loss:     2.302     Train Acc:     10.82%      Val Acc:      11.3%
+2023-11-22 04:04:32 INFO     [Epoch 497]   Loss:     2.301     Train Acc:     11.06%      Val Acc:      10.3%
+2023-11-22 04:04:32 INFO     [Epoch 498]   Loss:     2.301     Train Acc:     11.04%      Val Acc:      11.3%
+2023-11-22 04:04:32 INFO     [Epoch 499]   Loss:     2.301     Train Acc:      10.8%      Val Acc:      11.3%
+2023-11-22 04:04:33 INFO     step_size_1-batch_size_200-max_epochs_500-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:04:33 INFO     Loaded train: (5000, 784)
+2023-11-22 04:04:33 INFO     Loaded val: (1000, 784)
+2023-11-22 04:04:33 INFO     Loaded test: (4220, 784)
+2023-11-22 04:04:52 INFO     [Epoch 495]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:04:53 INFO     [Epoch 496]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:04:53 INFO     [Epoch 497]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:04:53 INFO     [Epoch 498]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:04:53 INFO     [Epoch 499]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:04:53 INFO     step_size_1-batch_size_200-max_epochs_1000-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:04:54 INFO     Loaded train: (5000, 784)
+2023-11-22 04:04:54 INFO     Loaded val: (1000, 784)
+2023-11-22 04:04:54 INFO     Loaded test: (4220, 784)
+2023-11-22 04:05:20 INFO     [Epoch 995]   Loss:     2.301     Train Acc:     11.28%      Val Acc:      10.3%
+2023-11-22 04:05:20 INFO     [Epoch 996]   Loss:     2.302     Train Acc:      11.0%      Val Acc:      11.3%
+2023-11-22 04:05:20 INFO     [Epoch 997]   Loss:     2.302     Train Acc:     10.82%      Val Acc:      11.3%
+2023-11-22 04:05:20 INFO     [Epoch 998]   Loss:     2.301     Train Acc:     11.12%      Val Acc:       9.9%
+2023-11-22 04:05:20 INFO     [Epoch 999]   Loss:     2.301     Train Acc:     10.54%      Val Acc:      11.3%
+2023-11-22 04:05:21 INFO     step_size_1-batch_size_200-max_epochs_1000-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:05:21 INFO     Loaded train: (5000, 784)
+2023-11-22 04:05:21 INFO     Loaded val: (1000, 784)
+2023-11-22 04:05:21 INFO     Loaded test: (4220, 784)
+2023-11-22 04:05:54 INFO     [Epoch 995]   Loss:     2.301     Train Acc:     10.86%      Val Acc:      11.3%
+2023-11-22 04:05:54 INFO     [Epoch 996]   Loss:     2.301     Train Acc:     10.94%      Val Acc:      11.3%
+2023-11-22 04:05:55 INFO     [Epoch 997]   Loss:     2.302     Train Acc:     10.52%      Val Acc:      11.3%
+2023-11-22 04:05:55 INFO     [Epoch 998]   Loss:     2.301     Train Acc:     10.98%      Val Acc:      11.3%
+2023-11-22 04:05:55 INFO     [Epoch 999]   Loss:     2.301     Train Acc:      11.3%      Val Acc:      10.3%
+2023-11-22 04:05:55 INFO     step_size_1-batch_size_200-max_epochs_1000-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:05:56 INFO     Loaded train: (5000, 784)
+2023-11-22 04:05:56 INFO     Loaded val: (1000, 784)
+2023-11-22 04:05:56 INFO     Loaded test: (4220, 784)
+2023-11-22 04:06:35 INFO     [Epoch 995]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:06:35 INFO     [Epoch 996]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:06:35 INFO     [Epoch 997]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:06:35 INFO     [Epoch 998]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:06:35 INFO     [Epoch 999]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:06:35 INFO     step_size_1-batch_size_300-max_epochs_200-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:06:36 INFO     Loaded train: (5000, 784)
+2023-11-22 04:06:36 INFO     Loaded val: (1000, 784)
+2023-11-22 04:06:36 INFO     Loaded test: (4220, 784)
+2023-11-22 04:06:41 INFO     [Epoch 195]   Loss:     2.301     Train Acc:     10.92%      Val Acc:      11.3%
+2023-11-22 04:06:41 INFO     [Epoch 196]   Loss:     2.301     Train Acc:     10.82%      Val Acc:       9.9%
+2023-11-22 04:06:41 INFO     [Epoch 197]   Loss:     2.301     Train Acc:     11.14%      Val Acc:      10.3%
+2023-11-22 04:06:41 INFO     [Epoch 198]   Loss:     2.301     Train Acc:     10.88%      Val Acc:      10.3%
+2023-11-22 04:06:41 INFO     [Epoch 199]   Loss:     2.301     Train Acc:     11.14%      Val Acc:      11.3%
+2023-11-22 04:06:41 INFO     step_size_1-batch_size_300-max_epochs_200-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:06:42 INFO     Loaded train: (5000, 784)
+2023-11-22 04:06:42 INFO     Loaded val: (1000, 784)
+2023-11-22 04:06:42 INFO     Loaded test: (4220, 784)
+2023-11-22 04:06:48 INFO     [Epoch 195]   Loss:     2.301     Train Acc:     10.96%      Val Acc:      11.3%
+2023-11-22 04:06:48 INFO     [Epoch 196]   Loss:     2.301     Train Acc:     11.14%      Val Acc:      11.3%
+2023-11-22 04:06:48 INFO     [Epoch 197]   Loss:     2.301     Train Acc:     11.26%      Val Acc:      10.3%
+2023-11-22 04:06:48 INFO     [Epoch 198]   Loss:     2.301     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:06:48 INFO     [Epoch 199]   Loss:     2.301     Train Acc:     11.02%      Val Acc:      10.3%
+2023-11-22 04:06:48 INFO     step_size_1-batch_size_300-max_epochs_200-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:06:49 INFO     Loaded train: (5000, 784)
+2023-11-22 04:06:49 INFO     Loaded val: (1000, 784)
+2023-11-22 04:06:49 INFO     Loaded test: (4220, 784)
+2023-11-22 04:06:56 INFO     [Epoch 195]   Loss:     2.301     Train Acc:     10.98%      Val Acc:      11.3%
+2023-11-22 04:06:56 INFO     [Epoch 196]   Loss:     2.301     Train Acc:     10.52%      Val Acc:      11.3%
+2023-11-22 04:06:56 INFO     [Epoch 197]   Loss:     2.301     Train Acc:     11.04%      Val Acc:      11.3%
+2023-11-22 04:06:56 INFO     [Epoch 198]   Loss:     2.301     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:06:56 INFO     [Epoch 199]   Loss:     2.301     Train Acc:     11.08%      Val Acc:      10.3%
+2023-11-22 04:06:56 INFO     step_size_1-batch_size_300-max_epochs_500-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:06:57 INFO     Loaded train: (5000, 784)
+2023-11-22 04:06:57 INFO     Loaded val: (1000, 784)
+2023-11-22 04:06:57 INFO     Loaded test: (4220, 784)
+2023-11-22 04:07:07 INFO     [Epoch 495]   Loss:     2.301     Train Acc:     10.82%      Val Acc:      11.3%
+2023-11-22 04:07:07 INFO     [Epoch 496]   Loss:     2.301     Train Acc:     11.06%      Val Acc:      10.3%
+2023-11-22 04:07:07 INFO     [Epoch 497]   Loss:     2.301     Train Acc:     11.28%      Val Acc:      11.3%
+2023-11-22 04:07:07 INFO     [Epoch 498]   Loss:     2.301     Train Acc:     11.28%      Val Acc:      11.3%
+2023-11-22 04:07:07 INFO     [Epoch 499]   Loss:     2.301     Train Acc:      10.9%      Val Acc:      11.3%
+2023-11-22 04:07:08 INFO     step_size_1-batch_size_300-max_epochs_500-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:07:08 INFO     Loaded train: (5000, 784)
+2023-11-22 04:07:08 INFO     Loaded val: (1000, 784)
+2023-11-22 04:07:08 INFO     Loaded test: (4220, 784)
+2023-11-22 04:07:22 INFO     [Epoch 495]   Loss:     2.301     Train Acc:     11.02%      Val Acc:      10.3%
+2023-11-22 04:07:22 INFO     [Epoch 496]   Loss:     2.301     Train Acc:     10.82%      Val Acc:      11.3%
+2023-11-22 04:07:22 INFO     [Epoch 497]   Loss:     2.301     Train Acc:     10.96%      Val Acc:      11.3%
+2023-11-22 04:07:22 INFO     [Epoch 498]   Loss:     2.301     Train Acc:     10.98%      Val Acc:      11.3%
+2023-11-22 04:07:22 INFO     [Epoch 499]   Loss:     2.301     Train Acc:     10.84%      Val Acc:      11.3%
+2023-11-22 04:07:22 INFO     step_size_1-batch_size_300-max_epochs_500-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:07:23 INFO     Loaded train: (5000, 784)
+2023-11-22 04:07:23 INFO     Loaded val: (1000, 784)
+2023-11-22 04:07:23 INFO     Loaded test: (4220, 784)
+2023-11-22 04:07:39 INFO     [Epoch 495]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:07:39 INFO     [Epoch 496]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:07:39 INFO     [Epoch 497]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:07:39 INFO     [Epoch 498]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:07:39 INFO     [Epoch 499]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:07:39 INFO     step_size_1-batch_size_300-max_epochs_1000-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:07:40 INFO     Loaded train: (5000, 784)
+2023-11-22 04:07:40 INFO     Loaded val: (1000, 784)
+2023-11-22 04:07:40 INFO     Loaded test: (4220, 784)
+2023-11-22 04:08:02 INFO     [Epoch 995]   Loss:     2.301     Train Acc:     11.12%      Val Acc:      10.3%
+2023-11-22 04:08:02 INFO     [Epoch 996]   Loss:     2.301     Train Acc:     10.98%      Val Acc:      11.3%
+2023-11-22 04:08:02 INFO     [Epoch 997]   Loss:     2.301     Train Acc:     11.04%      Val Acc:      11.3%
+2023-11-22 04:08:02 INFO     [Epoch 998]   Loss:     2.301     Train Acc:     11.38%      Val Acc:      10.3%
+2023-11-22 04:08:02 INFO     [Epoch 999]   Loss:     2.301     Train Acc:     10.18%      Val Acc:      10.3%
+2023-11-22 04:08:02 INFO     step_size_1-batch_size_300-max_epochs_1000-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:08:03 INFO     Loaded train: (5000, 784)
+2023-11-22 04:08:03 INFO     Loaded val: (1000, 784)
+2023-11-22 04:08:03 INFO     Loaded test: (4220, 784)
+2023-11-22 04:08:30 INFO     [Epoch 995]   Loss:     2.301     Train Acc:      10.8%      Val Acc:      11.3%
+2023-11-22 04:08:30 INFO     [Epoch 996]   Loss:     2.301     Train Acc:     11.26%      Val Acc:      10.3%
+2023-11-22 04:08:30 INFO     [Epoch 997]   Loss:     2.301     Train Acc:     10.38%      Val Acc:      11.3%
+2023-11-22 04:08:30 INFO     [Epoch 998]   Loss:     2.301     Train Acc:      11.1%      Val Acc:      11.3%
+2023-11-22 04:08:30 INFO     [Epoch 999]   Loss:     2.301     Train Acc:     11.44%      Val Acc:      11.3%
+2023-11-22 04:08:30 INFO     step_size_1-batch_size_300-max_epochs_1000-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:08:31 INFO     Loaded train: (5000, 784)
+2023-11-22 04:08:31 INFO     Loaded val: (1000, 784)
+2023-11-22 04:08:31 INFO     Loaded test: (4220, 784)
+2023-11-22 04:09:03 INFO     [Epoch 995]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:09:03 INFO     [Epoch 996]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:09:03 INFO     [Epoch 997]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:09:03 INFO     [Epoch 998]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:09:03 INFO     [Epoch 999]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:09:03 INFO     step_size_1-batch_size_500-max_epochs_200-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:09:04 INFO     Loaded train: (5000, 784)
+2023-11-22 04:09:04 INFO     Loaded val: (1000, 784)
+2023-11-22 04:09:04 INFO     Loaded test: (4220, 784)
+2023-11-22 04:09:08 INFO     [Epoch 195]   Loss:       2.3     Train Acc:     10.96%      Val Acc:      11.3%
+2023-11-22 04:09:08 INFO     [Epoch 196]   Loss:       2.3     Train Acc:     11.22%      Val Acc:      11.3%
+2023-11-22 04:09:08 INFO     [Epoch 197]   Loss:       2.3     Train Acc:     10.68%      Val Acc:      11.3%
+2023-11-22 04:09:08 INFO     [Epoch 198]   Loss:       2.3     Train Acc:      11.1%      Val Acc:      11.3%
+2023-11-22 04:09:08 INFO     [Epoch 199]   Loss:     2.301     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:09:08 INFO     step_size_1-batch_size_500-max_epochs_200-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:09:09 INFO     Loaded train: (5000, 784)
+2023-11-22 04:09:09 INFO     Loaded val: (1000, 784)
+2023-11-22 04:09:09 INFO     Loaded test: (4220, 784)
+2023-11-22 04:09:13 INFO     [Epoch 195]   Loss:       2.3     Train Acc:     11.02%      Val Acc:      11.3%
+2023-11-22 04:09:13 INFO     [Epoch 196]   Loss:     2.301     Train Acc:     10.98%      Val Acc:      11.3%
+2023-11-22 04:09:13 INFO     [Epoch 197]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:09:13 INFO     [Epoch 198]   Loss:       2.3     Train Acc:     10.82%      Val Acc:      11.3%
+2023-11-22 04:09:13 INFO     [Epoch 199]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:09:14 INFO     step_size_1-batch_size_500-max_epochs_200-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:09:14 INFO     Loaded train: (5000, 784)
+2023-11-22 04:09:14 INFO     Loaded val: (1000, 784)
+2023-11-22 04:09:14 INFO     Loaded test: (4220, 784)
+2023-11-22 04:09:19 INFO     [Epoch 195]   Loss:       2.3     Train Acc:     10.94%      Val Acc:      11.3%
+2023-11-22 04:09:19 INFO     [Epoch 196]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:09:19 INFO     [Epoch 197]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:09:19 INFO     [Epoch 198]   Loss:       2.3     Train Acc:     11.14%      Val Acc:      11.3%
+2023-11-22 04:09:19 INFO     [Epoch 199]   Loss:       2.3     Train Acc:     10.64%      Val Acc:      11.3%
+2023-11-22 04:09:19 INFO     step_size_1-batch_size_500-max_epochs_500-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:09:20 INFO     Loaded train: (5000, 784)
+2023-11-22 04:09:20 INFO     Loaded val: (1000, 784)
+2023-11-22 04:09:20 INFO     Loaded test: (4220, 784)
+2023-11-22 04:09:29 INFO     [Epoch 495]   Loss:       2.3     Train Acc:     11.06%      Val Acc:      11.3%
+2023-11-22 04:09:29 INFO     [Epoch 496]   Loss:       2.3     Train Acc:     11.12%      Val Acc:      11.3%
+2023-11-22 04:09:29 INFO     [Epoch 497]   Loss:       2.3     Train Acc:      9.98%      Val Acc:      11.3%
+2023-11-22 04:09:29 INFO     [Epoch 498]   Loss:     2.301     Train Acc:     11.02%      Val Acc:      11.3%
+2023-11-22 04:09:29 INFO     [Epoch 499]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:09:29 INFO     step_size_1-batch_size_500-max_epochs_500-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:09:30 INFO     Loaded train: (5000, 784)
+2023-11-22 04:09:30 INFO     Loaded val: (1000, 784)
+2023-11-22 04:09:30 INFO     Loaded test: (4220, 784)
+2023-11-22 04:09:41 INFO     [Epoch 495]   Loss:       2.3     Train Acc:     10.84%      Val Acc:      11.3%
+2023-11-22 04:09:41 INFO     [Epoch 496]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:09:41 INFO     [Epoch 497]   Loss:       2.3     Train Acc:     10.76%      Val Acc:      11.3%
+2023-11-22 04:09:41 INFO     [Epoch 498]   Loss:     2.301     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:09:41 INFO     [Epoch 499]   Loss:       2.3     Train Acc:     11.28%      Val Acc:      11.3%
+2023-11-22 04:09:41 INFO     step_size_1-batch_size_500-max_epochs_500-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:09:42 INFO     Loaded train: (5000, 784)
+2023-11-22 04:09:42 INFO     Loaded val: (1000, 784)
+2023-11-22 04:09:42 INFO     Loaded test: (4220, 784)
+2023-11-22 04:09:54 INFO     [Epoch 495]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:09:54 INFO     [Epoch 496]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:09:54 INFO     [Epoch 497]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:09:54 INFO     [Epoch 498]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:09:54 INFO     [Epoch 499]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:09:55 INFO     step_size_1-batch_size_500-max_epochs_1000-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:09:55 INFO     Loaded train: (5000, 784)
+2023-11-22 04:09:55 INFO     Loaded val: (1000, 784)
+2023-11-22 04:09:55 INFO     Loaded test: (4220, 784)
+2023-11-22 04:10:13 INFO     [Epoch 995]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:10:13 INFO     [Epoch 996]   Loss:       2.3     Train Acc:      11.0%      Val Acc:      11.3%
+2023-11-22 04:10:13 INFO     [Epoch 997]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:10:13 INFO     [Epoch 998]   Loss:       2.3     Train Acc:     10.88%      Val Acc:      11.3%
+2023-11-22 04:10:13 INFO     [Epoch 999]   Loss:       2.3     Train Acc:     10.86%      Val Acc:      11.3%
+2023-11-22 04:10:14 INFO     step_size_1-batch_size_500-max_epochs_1000-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:10:14 INFO     Loaded train: (5000, 784)
+2023-11-22 04:10:14 INFO     Loaded val: (1000, 784)
+2023-11-22 04:10:14 INFO     Loaded test: (4220, 784)
+2023-11-22 04:10:35 INFO     [Epoch 995]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:10:35 INFO     [Epoch 996]   Loss:       2.3     Train Acc:     10.46%      Val Acc:      11.3%
+2023-11-22 04:10:35 INFO     [Epoch 997]   Loss:       2.3     Train Acc:      11.2%      Val Acc:      11.3%
+2023-11-22 04:10:35 INFO     [Epoch 998]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:10:35 INFO     [Epoch 999]   Loss:     2.301     Train Acc:      10.2%      Val Acc:      11.3%
+2023-11-22 04:10:36 INFO     step_size_1-batch_size_500-max_epochs_1000-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:10:36 INFO     Loaded train: (5000, 784)
+2023-11-22 04:10:36 INFO     Loaded val: (1000, 784)
+2023-11-22 04:10:36 INFO     Loaded test: (4220, 784)
+2023-11-22 04:11:02 INFO     [Epoch 995]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:11:02 INFO     [Epoch 996]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:11:02 INFO     [Epoch 997]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:11:02 INFO     [Epoch 998]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:11:02 INFO     [Epoch 999]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:11:02 INFO     step_size_1-batch_size_1000-max_epochs_200-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:11:03 INFO     Loaded train: (5000, 784)
+2023-11-22 04:11:03 INFO     Loaded val: (1000, 784)
+2023-11-22 04:11:03 INFO     Loaded test: (4220, 784)
+2023-11-22 04:11:05 INFO     [Epoch 195]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:05 INFO     [Epoch 196]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:05 INFO     [Epoch 197]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:05 INFO     [Epoch 198]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:05 INFO     [Epoch 199]   Loss:       2.3     Train Acc:      10.7%      Val Acc:      11.3%
+2023-11-22 04:11:06 INFO     step_size_1-batch_size_1000-max_epochs_200-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:11:06 INFO     Loaded train: (5000, 784)
+2023-11-22 04:11:06 INFO     Loaded val: (1000, 784)
+2023-11-22 04:11:06 INFO     Loaded test: (4220, 784)
+2023-11-22 04:11:10 INFO     [Epoch 195]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:10 INFO     [Epoch 196]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:10 INFO     [Epoch 197]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:10 INFO     [Epoch 198]   Loss:       2.3     Train Acc:     10.68%      Val Acc:      11.3%
+2023-11-22 04:11:10 INFO     [Epoch 199]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:10 INFO     step_size_1-batch_size_1000-max_epochs_200-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:11:11 INFO     Loaded train: (5000, 784)
+2023-11-22 04:11:11 INFO     Loaded val: (1000, 784)
+2023-11-22 04:11:11 INFO     Loaded test: (4220, 784)
+2023-11-22 04:11:15 INFO     [Epoch 195]   Loss:       2.3     Train Acc:     11.22%      Val Acc:      11.3%
+2023-11-22 04:11:15 INFO     [Epoch 196]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:15 INFO     [Epoch 197]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:15 INFO     [Epoch 198]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:15 INFO     [Epoch 199]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:15 INFO     step_size_1-batch_size_1000-max_epochs_500-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:11:16 INFO     Loaded train: (5000, 784)
+2023-11-22 04:11:16 INFO     Loaded val: (1000, 784)
+2023-11-22 04:11:16 INFO     Loaded test: (4220, 784)
+2023-11-22 04:11:24 INFO     [Epoch 495]   Loss:       2.3     Train Acc:     10.92%      Val Acc:      11.3%
+2023-11-22 04:11:24 INFO     [Epoch 496]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:24 INFO     [Epoch 497]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:24 INFO     [Epoch 498]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:24 INFO     [Epoch 499]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:24 INFO     step_size_1-batch_size_1000-max_epochs_500-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:11:25 INFO     Loaded train: (5000, 784)
+2023-11-22 04:11:25 INFO     Loaded val: (1000, 784)
+2023-11-22 04:11:25 INFO     Loaded test: (4220, 784)
+2023-11-22 04:11:34 INFO     [Epoch 495]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:34 INFO     [Epoch 496]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:34 INFO     [Epoch 497]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:34 INFO     [Epoch 498]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:35 INFO     [Epoch 499]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:11:35 INFO     step_size_1-batch_size_1000-max_epochs_500-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:11:35 INFO     Loaded train: (5000, 784)
+2023-11-22 04:11:35 INFO     Loaded val: (1000, 784)
+2023-11-22 04:11:35 INFO     Loaded test: (4220, 784)
+2023-11-22 04:11:46 INFO     [Epoch 495]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:11:46 INFO     [Epoch 496]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:11:46 INFO     [Epoch 497]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:11:46 INFO     [Epoch 498]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:11:46 INFO     [Epoch 499]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 04:11:46 INFO     step_size_1-batch_size_1000-max_epochs_1000-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:11:47 INFO     Loaded train: (5000, 784)
+2023-11-22 04:11:47 INFO     Loaded val: (1000, 784)
+2023-11-22 04:11:47 INFO     Loaded test: (4220, 784)
+2023-11-22 04:12:03 INFO     [Epoch 995]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:03 INFO     [Epoch 996]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:03 INFO     [Epoch 997]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:03 INFO     [Epoch 998]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:03 INFO     [Epoch 999]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:03 INFO     step_size_1-batch_size_1000-max_epochs_1000-number_of_layers_5-width_of_layers_16-activation_ReLU
+2023-11-22 04:12:04 INFO     Loaded train: (5000, 784)
+2023-11-22 04:12:04 INFO     Loaded val: (1000, 784)
+2023-11-22 04:12:04 INFO     Loaded test: (4220, 784)
+2023-11-22 04:12:22 INFO     [Epoch 995]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:22 INFO     [Epoch 996]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:22 INFO     [Epoch 997]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:22 INFO     [Epoch 998]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:22 INFO     [Epoch 999]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:22 INFO     step_size_1-batch_size_1000-max_epochs_1000-number_of_layers_10-width_of_layers_16-activation_ReLU
+2023-11-22 04:12:23 INFO     Loaded train: (5000, 784)
+2023-11-22 04:12:23 INFO     Loaded val: (1000, 784)
+2023-11-22 04:12:23 INFO     Loaded test: (4220, 784)
+2023-11-22 04:12:46 INFO     [Epoch 995]   Loss:       2.3     Train Acc:     10.94%      Val Acc:      11.3%
+2023-11-22 04:12:46 INFO     [Epoch 996]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:46 INFO     [Epoch 997]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 04:12:46 INFO     [Epoch 998]   Loss:       2.3     Train Acc:     11.02%      Val Acc:      11.3%
+2023-11-22 04:12:46 INFO     [Epoch 999]   Loss:       2.3     Train Acc:      11.1%      Val Acc:      11.3%
+2023-11-22 04:12:46 INFO     step_size_0.1-batch_size_200-max_epochs_200-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:12:47 INFO     Loaded train: (5000, 784)
+2023-11-22 04:12:47 INFO     Loaded val: (1000, 784)
+2023-11-22 04:12:47 INFO     Loaded test: (4220, 784)
+2023-11-22 04:12:52 INFO     [Epoch 195]   Loss:   0.06123     Train Acc:     98.72%      Val Acc:      90.7%
+2023-11-22 04:12:52 INFO     [Epoch 196]   Loss:   0.06278     Train Acc:     98.56%      Val Acc:      91.1%
+2023-11-22 04:12:52 INFO     [Epoch 197]   Loss:   0.06176     Train Acc:     98.66%      Val Acc:      90.0%
+2023-11-22 04:12:52 INFO     [Epoch 198]   Loss:   0.06543     Train Acc:     98.52%      Val Acc:      90.7%
+2023-11-22 04:12:52 INFO     [Epoch 199]   Loss:   0.05754     Train Acc:     98.76%      Val Acc:      90.5%
+2023-11-22 04:57:20 INFO     step_size_0.1-batch_size_200-max_epochs_200-number_of_layers_2-width_of_layers_16-activation_ReLU
+2023-11-22 04:57:21 INFO     Loaded train: (5000, 784)
+2023-11-22 04:57:21 INFO     Loaded val: (1000, 784)
+2023-11-22 04:57:21 INFO     Loaded test: (4220, 784)
+2023-11-22 04:57:27 INFO     [Epoch 195]   Loss:   0.06004     Train Acc:     98.88%      Val Acc:      92.1%
+2023-11-22 04:57:27 INFO     [Epoch 196]   Loss:   0.05852     Train Acc:     98.68%      Val Acc:      92.2%
+2023-11-22 04:57:27 INFO     [Epoch 197]   Loss:   0.05734     Train Acc:     98.94%      Val Acc:      92.2%
+2023-11-22 04:57:27 INFO     [Epoch 198]   Loss:   0.05616     Train Acc:     98.92%      Val Acc:      91.9%
+2023-11-22 04:57:27 INFO     [Epoch 199]   Loss:   0.05721     Train Acc:      98.8%      Val Acc:      92.0%
+2023-11-22 04:57:57 INFO     step_size_0.1-batch_size_200-max_epochs_200-number_of_layers_2
+2023-11-22 04:57:58 INFO     Loaded train: (5000, 784)
+2023-11-22 04:57:58 INFO     Loaded val: (1000, 784)
+2023-11-22 04:57:58 INFO     Loaded test: (4220, 784)
+2023-11-22 04:58:04 INFO     [Epoch 195]   Loss:   0.06004     Train Acc:     98.88%      Val Acc:      92.1%
+2023-11-22 04:58:04 INFO     [Epoch 196]   Loss:   0.05852     Train Acc:     98.68%      Val Acc:      92.2%
+2023-11-22 04:58:04 INFO     [Epoch 197]   Loss:   0.05734     Train Acc:     98.94%      Val Acc:      92.2%
+2023-11-22 04:58:04 INFO     [Epoch 198]   Loss:   0.05616     Train Acc:     98.92%      Val Acc:      91.9%
+2023-11-22 04:58:04 INFO     [Epoch 199]   Loss:   0.05721     Train Acc:      98.8%      Val Acc:      92.0%
+2023-11-22 04:58:36 INFO     step_size_0.1-batch_size_200-max_epochs_200-number_of_layers_2
+2023-11-22 04:58:37 INFO     Loaded train: (5000, 784)
+2023-11-22 04:58:37 INFO     Loaded val: (1000, 784)
+2023-11-22 04:58:37 INFO     Loaded test: (4220, 784)
+2023-11-22 04:58:43 INFO     [Epoch 195]   Loss:   0.06004     Train Acc:     98.88%      Val Acc:      92.1%
+2023-11-22 04:58:43 INFO     [Epoch 196]   Loss:   0.05852     Train Acc:     98.68%      Val Acc:      92.2%
+2023-11-22 04:58:43 INFO     [Epoch 197]   Loss:   0.05734     Train Acc:     98.94%      Val Acc:      92.2%
+2023-11-22 04:58:43 INFO     [Epoch 198]   Loss:   0.05616     Train Acc:     98.92%      Val Acc:      91.9%
+2023-11-22 04:58:43 INFO     [Epoch 199]   Loss:   0.05721     Train Acc:      98.8%      Val Acc:      92.0%
+2023-11-22 04:58:43 INFO     step_size_0.1-batch_size_200-max_epochs_200-number_of_layers_5
+2023-11-22 04:58:44 INFO     Loaded train: (5000, 784)
+2023-11-22 04:58:44 INFO     Loaded val: (1000, 784)
+2023-11-22 04:58:44 INFO     Loaded test: (4220, 784)
+2023-11-22 04:58:52 INFO     [Epoch 195]   Loss:   0.08319     Train Acc:     97.56%      Val Acc:      90.8%
+2023-11-22 04:58:52 INFO     [Epoch 196]   Loss:    0.2807     Train Acc:     94.46%      Val Acc:      60.1%
+2023-11-22 04:58:52 INFO     [Epoch 197]   Loss:    0.7755     Train Acc:     79.42%      Val Acc:      91.5%
+2023-11-22 04:58:52 INFO     [Epoch 198]   Loss:    0.1147     Train Acc:      96.9%      Val Acc:      91.6%
+2023-11-22 04:58:52 INFO     [Epoch 199]   Loss:   0.08747     Train Acc:     97.78%      Val Acc:      92.1%
+2023-11-22 04:58:52 INFO     step_size_0.1-batch_size_200-max_epochs_200-number_of_layers_10
+2023-11-22 04:58:53 INFO     Loaded train: (5000, 784)
+2023-11-22 04:58:53 INFO     Loaded val: (1000, 784)
+2023-11-22 04:58:53 INFO     Loaded test: (4220, 784)
+2023-11-22 04:59:01 INFO     [Epoch 195]   Loss:    0.1062     Train Acc:      96.8%      Val Acc:      91.0%
+2023-11-22 04:59:01 INFO     [Epoch 196]   Loss:    0.1187     Train Acc:     96.42%      Val Acc:      89.9%
+2023-11-22 04:59:01 INFO     [Epoch 197]   Loss:   0.09108     Train Acc:      97.2%      Val Acc:      91.1%
+2023-11-22 04:59:01 INFO     [Epoch 198]   Loss:    0.2253     Train Acc:     93.92%      Val Acc:      90.3%
+2023-11-22 04:59:01 INFO     [Epoch 199]   Loss:     0.213     Train Acc:      94.3%      Val Acc:      90.5%
+2023-11-22 04:59:01 INFO     step_size_0.1-batch_size_200-max_epochs_500-number_of_layers_2
+2023-11-22 04:59:02 INFO     Loaded train: (5000, 784)
+2023-11-22 04:59:02 INFO     Loaded val: (1000, 784)
+2023-11-22 04:59:02 INFO     Loaded test: (4220, 784)
+2023-11-22 04:59:15 INFO     [Epoch 495]   Loss:  0.007932     Train Acc:     100.0%      Val Acc:      92.8%
+2023-11-22 04:59:15 INFO     [Epoch 496]   Loss:  0.007977     Train Acc:     100.0%      Val Acc:      92.3%
+2023-11-22 04:59:15 INFO     [Epoch 497]   Loss:  0.007907     Train Acc:     100.0%      Val Acc:      92.5%
+2023-11-22 04:59:15 INFO     [Epoch 498]   Loss:  0.007882     Train Acc:     100.0%      Val Acc:      92.8%
+2023-11-22 04:59:15 INFO     [Epoch 499]   Loss:  0.007832     Train Acc:     100.0%      Val Acc:      92.3%
+2023-11-22 04:59:15 INFO     step_size_0.1-batch_size_200-max_epochs_500-number_of_layers_5
+2023-11-22 04:59:16 INFO     Loaded train: (5000, 784)
+2023-11-22 04:59:16 INFO     Loaded val: (1000, 784)
+2023-11-22 04:59:16 INFO     Loaded test: (4220, 784)
+2023-11-22 04:59:32 INFO     [Epoch 495]   Loss:    0.8769     Train Acc:      70.7%      Val Acc:      75.9%
+2023-11-22 04:59:32 INFO     [Epoch 496]   Loss:    0.6266     Train Acc:      78.3%      Val Acc:      78.0%
+2023-11-22 04:59:32 INFO     [Epoch 497]   Loss:    0.5279     Train Acc:      81.6%      Val Acc:      78.2%
+2023-11-22 04:59:32 INFO     [Epoch 498]   Loss:    0.4689     Train Acc:     86.24%      Val Acc:      85.1%
+2023-11-22 04:59:32 INFO     [Epoch 499]   Loss:    0.4171     Train Acc:     89.82%      Val Acc:      85.8%
+2023-11-22 04:59:32 INFO     step_size_0.1-batch_size_200-max_epochs_500-number_of_layers_10
+2023-11-22 04:59:33 INFO     Loaded train: (5000, 784)
+2023-11-22 04:59:33 INFO     Loaded val: (1000, 784)
+2023-11-22 04:59:33 INFO     Loaded test: (4220, 784)
+2023-11-22 04:59:52 INFO     [Epoch 495]   Loss:   0.06486     Train Acc:     98.08%      Val Acc:      89.4%
+2023-11-22 04:59:52 INFO     [Epoch 496]   Loss:     0.318     Train Acc:     92.32%      Val Acc:      85.4%
+2023-11-22 04:59:52 INFO     [Epoch 497]   Loss:    0.1223     Train Acc:     96.58%      Val Acc:      89.9%
+2023-11-22 04:59:52 INFO     [Epoch 498]   Loss:   0.09244     Train Acc:     97.22%      Val Acc:      90.4%
+2023-11-22 04:59:52 INFO     [Epoch 499]   Loss:   0.06518     Train Acc:     98.12%      Val Acc:      90.8%
+2023-11-22 04:59:53 INFO     step_size_0.1-batch_size_200-max_epochs_1000-number_of_layers_2
+2023-11-22 04:59:53 INFO     Loaded train: (5000, 784)
+2023-11-22 04:59:53 INFO     Loaded val: (1000, 784)
+2023-11-22 04:59:53 INFO     Loaded test: (4220, 784)
+2023-11-22 05:00:21 INFO     [Epoch 995]   Loss:  0.003029     Train Acc:     100.0%      Val Acc:      91.2%
+2023-11-22 05:00:21 INFO     [Epoch 996]   Loss:  0.003033     Train Acc:     100.0%      Val Acc:      91.3%
+2023-11-22 05:00:21 INFO     [Epoch 997]   Loss:  0.003019     Train Acc:     100.0%      Val Acc:      91.2%
+2023-11-22 05:00:21 INFO     [Epoch 998]   Loss:  0.003026     Train Acc:     100.0%      Val Acc:      91.2%
+2023-11-22 05:00:21 INFO     [Epoch 999]   Loss:  0.003021     Train Acc:     100.0%      Val Acc:      91.1%
+2023-11-22 05:00:22 INFO     step_size_0.1-batch_size_200-max_epochs_1000-number_of_layers_5
+2023-11-22 05:00:23 INFO     Loaded train: (5000, 784)
+2023-11-22 05:00:23 INFO     Loaded val: (1000, 784)
+2023-11-22 05:00:23 INFO     Loaded test: (4220, 784)
+2023-11-22 05:00:59 INFO     [Epoch 995]   Loss:    0.1553     Train Acc:     94.64%      Val Acc:      86.7%
+2023-11-22 05:00:59 INFO     [Epoch 996]   Loss:    0.1507     Train Acc:     95.24%      Val Acc:      83.4%
+2023-11-22 05:01:00 INFO     [Epoch 997]   Loss:    0.1297     Train Acc:      95.9%      Val Acc:      85.3%
+2023-11-22 05:01:00 INFO     [Epoch 998]   Loss:    0.1193     Train Acc:     96.34%      Val Acc:      86.0%
+2023-11-22 05:01:00 INFO     [Epoch 999]   Loss:    0.3436     Train Acc:      89.8%      Val Acc:      86.0%
+2023-11-22 05:01:00 INFO     step_size_0.1-batch_size_200-max_epochs_1000-number_of_layers_10
+2023-11-22 05:01:01 INFO     Loaded train: (5000, 784)
+2023-11-22 05:01:01 INFO     Loaded val: (1000, 784)
+2023-11-22 05:01:01 INFO     Loaded test: (4220, 784)
+2023-11-22 05:01:42 INFO     [Epoch 995]   Loss:   0.02296     Train Acc:     99.34%      Val Acc:      90.5%
+2023-11-22 05:01:42 INFO     [Epoch 996]   Loss:   0.02234     Train Acc:      99.4%      Val Acc:      90.3%
+2023-11-22 05:01:42 INFO     [Epoch 997]   Loss:   0.02225     Train Acc:     99.38%      Val Acc:      90.8%
+2023-11-22 05:01:42 INFO     [Epoch 998]   Loss:   0.02821     Train Acc:      99.2%      Val Acc:      90.0%
+2023-11-22 05:01:42 INFO     [Epoch 999]   Loss:   0.04833     Train Acc:     98.72%      Val Acc:      90.8%
+2023-11-22 05:01:42 INFO     step_size_0.1-batch_size_300-max_epochs_200-number_of_layers_2
+2023-11-22 05:01:43 INFO     Loaded train: (5000, 784)
+2023-11-22 05:01:43 INFO     Loaded val: (1000, 784)
+2023-11-22 05:01:43 INFO     Loaded test: (4220, 784)
+2023-11-22 05:01:48 INFO     [Epoch 195]   Loss:   0.07197     Train Acc:     98.46%      Val Acc:      90.8%
+2023-11-22 05:01:48 INFO     [Epoch 196]   Loss:   0.07116     Train Acc:     98.66%      Val Acc:      92.6%
+2023-11-22 05:01:48 INFO     [Epoch 197]   Loss:   0.07016     Train Acc:     98.54%      Val Acc:      92.5%
+2023-11-22 05:01:48 INFO     [Epoch 198]   Loss:   0.07103     Train Acc:     98.32%      Val Acc:      92.3%
+2023-11-22 05:01:48 INFO     [Epoch 199]   Loss:   0.06909     Train Acc:     98.62%      Val Acc:      92.3%
+2023-11-22 05:01:48 INFO     step_size_0.1-batch_size_300-max_epochs_200-number_of_layers_5
+2023-11-22 05:01:49 INFO     Loaded train: (5000, 784)
+2023-11-22 05:01:49 INFO     Loaded val: (1000, 784)
+2023-11-22 05:01:49 INFO     Loaded test: (4220, 784)
+2023-11-22 05:01:55 INFO     [Epoch 195]   Loss:       2.3     Train Acc:     11.22%      Val Acc:      11.3%
+2023-11-22 05:01:55 INFO     [Epoch 196]   Loss:       2.3     Train Acc:     11.14%      Val Acc:      11.3%
+2023-11-22 05:01:55 INFO     [Epoch 197]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:01:55 INFO     [Epoch 198]   Loss:       2.3     Train Acc:     11.16%      Val Acc:      11.3%
+2023-11-22 05:01:55 INFO     [Epoch 199]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:01:55 INFO     step_size_0.1-batch_size_300-max_epochs_200-number_of_layers_10
+2023-11-22 05:01:56 INFO     Loaded train: (5000, 784)
+2023-11-22 05:01:56 INFO     Loaded val: (1000, 784)
+2023-11-22 05:01:56 INFO     Loaded test: (4220, 784)
+2023-11-22 05:02:02 INFO     [Epoch 195]   Loss:    0.3243     Train Acc:     90.52%      Val Acc:      87.2%
+2023-11-22 05:02:03 INFO     [Epoch 196]   Loss:    0.3791     Train Acc:     89.26%      Val Acc:      83.3%
+2023-11-22 05:02:03 INFO     [Epoch 197]   Loss:    0.3273     Train Acc:     90.78%      Val Acc:      86.0%
+2023-11-22 05:02:03 INFO     [Epoch 198]   Loss:    0.3732     Train Acc:      89.2%      Val Acc:      88.3%
+2023-11-22 05:02:03 INFO     [Epoch 199]   Loss:    0.2866     Train Acc:     92.44%      Val Acc:      88.5%
+2023-11-22 05:02:03 INFO     step_size_0.1-batch_size_300-max_epochs_500-number_of_layers_2
+2023-11-22 05:02:04 INFO     Loaded train: (5000, 784)
+2023-11-22 05:02:04 INFO     Loaded val: (1000, 784)
+2023-11-22 05:02:04 INFO     Loaded test: (4220, 784)
+2023-11-22 05:02:15 INFO     [Epoch 495]   Loss:   0.01464     Train Acc:     100.0%      Val Acc:      91.8%
+2023-11-22 05:02:15 INFO     [Epoch 496]   Loss:   0.01442     Train Acc:     99.98%      Val Acc:      92.0%
+2023-11-22 05:02:15 INFO     [Epoch 497]   Loss:   0.01445     Train Acc:     99.94%      Val Acc:      91.9%
+2023-11-22 05:02:15 INFO     [Epoch 498]   Loss:   0.01451     Train Acc:     100.0%      Val Acc:      91.9%
+2023-11-22 05:02:15 INFO     [Epoch 499]   Loss:   0.01425     Train Acc:     99.98%      Val Acc:      91.6%
+2023-11-22 05:02:16 INFO     step_size_0.1-batch_size_300-max_epochs_500-number_of_layers_5
+2023-11-22 05:02:16 INFO     Loaded train: (5000, 784)
+2023-11-22 05:02:16 INFO     Loaded val: (1000, 784)
+2023-11-22 05:02:16 INFO     Loaded test: (4220, 784)
+2023-11-22 05:02:30 INFO     [Epoch 495]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:02:30 INFO     [Epoch 496]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:02:30 INFO     [Epoch 497]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:02:30 INFO     [Epoch 498]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:02:30 INFO     [Epoch 499]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:02:31 INFO     step_size_0.1-batch_size_300-max_epochs_500-number_of_layers_10
+2023-11-22 05:02:31 INFO     Loaded train: (5000, 784)
+2023-11-22 05:02:31 INFO     Loaded val: (1000, 784)
+2023-11-22 05:02:31 INFO     Loaded test: (4220, 784)
+2023-11-22 05:02:48 INFO     [Epoch 495]   Loss:    0.2406     Train Acc:      92.7%      Val Acc:      87.4%
+2023-11-22 05:02:48 INFO     [Epoch 496]   Loss:     0.354     Train Acc:      89.6%      Val Acc:      87.2%
+2023-11-22 05:02:48 INFO     [Epoch 497]   Loss:    0.2338     Train Acc:     93.26%      Val Acc:      84.5%
+2023-11-22 05:02:48 INFO     [Epoch 498]   Loss:      0.25     Train Acc:     92.34%      Val Acc:      87.2%
+2023-11-22 05:02:48 INFO     [Epoch 499]   Loss:    0.3538     Train Acc:      89.5%      Val Acc:      87.6%
+2023-11-22 05:02:48 INFO     step_size_0.1-batch_size_300-max_epochs_1000-number_of_layers_2
+2023-11-22 05:02:49 INFO     Loaded train: (5000, 784)
+2023-11-22 05:02:49 INFO     Loaded val: (1000, 784)
+2023-11-22 05:02:49 INFO     Loaded test: (4220, 784)
+2023-11-22 05:03:12 INFO     [Epoch 995]   Loss:  0.005118     Train Acc:     100.0%      Val Acc:      92.1%
+2023-11-22 05:03:12 INFO     [Epoch 996]   Loss:  0.005213     Train Acc:     100.0%      Val Acc:      92.1%
+2023-11-22 05:03:12 INFO     [Epoch 997]   Loss:  0.005109     Train Acc:     100.0%      Val Acc:      92.2%
+2023-11-22 05:03:12 INFO     [Epoch 998]   Loss:  0.005058     Train Acc:     100.0%      Val Acc:      92.0%
+2023-11-22 05:03:12 INFO     [Epoch 999]   Loss:  0.005066     Train Acc:     100.0%      Val Acc:      92.3%
+2023-11-22 05:03:12 INFO     step_size_0.1-batch_size_300-max_epochs_1000-number_of_layers_5
+2023-11-22 05:03:13 INFO     Loaded train: (5000, 784)
+2023-11-22 05:03:13 INFO     Loaded val: (1000, 784)
+2023-11-22 05:03:13 INFO     Loaded test: (4220, 784)
+2023-11-22 05:03:41 INFO     [Epoch 995]   Loss:    0.1551     Train Acc:     95.04%      Val Acc:      89.1%
+2023-11-22 05:03:41 INFO     [Epoch 996]   Loss:    0.1533     Train Acc:     94.88%      Val Acc:      88.0%
+2023-11-22 05:03:41 INFO     [Epoch 997]   Loss:     0.176     Train Acc:     94.24%      Val Acc:      88.3%
+2023-11-22 05:03:41 INFO     [Epoch 998]   Loss:    0.1367     Train Acc:     95.62%      Val Acc:      89.3%
+2023-11-22 05:03:41 INFO     [Epoch 999]   Loss:    0.1529     Train Acc:     95.12%      Val Acc:      86.6%
+2023-11-22 05:03:41 INFO     step_size_0.1-batch_size_300-max_epochs_1000-number_of_layers_10
+2023-11-22 05:03:42 INFO     Loaded train: (5000, 784)
+2023-11-22 05:03:42 INFO     Loaded val: (1000, 784)
+2023-11-22 05:03:42 INFO     Loaded test: (4220, 784)
+2023-11-22 05:04:15 INFO     [Epoch 995]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:04:15 INFO     [Epoch 996]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:04:15 INFO     [Epoch 997]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:04:15 INFO     [Epoch 998]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:04:15 INFO     [Epoch 999]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:04:16 INFO     step_size_0.1-batch_size_500-max_epochs_200-number_of_layers_2
+2023-11-22 05:04:16 INFO     Loaded train: (5000, 784)
+2023-11-22 05:04:16 INFO     Loaded val: (1000, 784)
+2023-11-22 05:04:16 INFO     Loaded test: (4220, 784)
+2023-11-22 05:04:20 INFO     [Epoch 195]   Loss:    0.1787     Train Acc:     95.06%      Val Acc:      90.6%
+2023-11-22 05:04:20 INFO     [Epoch 196]   Loss:    0.1786     Train Acc:      94.7%      Val Acc:      90.9%
+2023-11-22 05:04:21 INFO     [Epoch 197]   Loss:    0.1792     Train Acc:     94.74%      Val Acc:      90.9%
+2023-11-22 05:04:21 INFO     [Epoch 198]   Loss:    0.1755     Train Acc:     94.94%      Val Acc:      90.7%
+2023-11-22 05:04:21 INFO     [Epoch 199]   Loss:    0.1799     Train Acc:      94.8%      Val Acc:      91.0%
+2023-11-22 05:04:21 INFO     step_size_0.1-batch_size_500-max_epochs_200-number_of_layers_5
+2023-11-22 05:04:22 INFO     Loaded train: (5000, 784)
+2023-11-22 05:04:22 INFO     Loaded val: (1000, 784)
+2023-11-22 05:04:22 INFO     Loaded test: (4220, 784)
+2023-11-22 05:04:26 INFO     [Epoch 195]   Loss:   0.08781     Train Acc:     97.74%      Val Acc:      90.3%
+2023-11-22 05:04:26 INFO     [Epoch 196]   Loss:   0.09816     Train Acc:     97.16%      Val Acc:      91.1%
+2023-11-22 05:04:26 INFO     [Epoch 197]   Loss:    0.1101     Train Acc:     96.66%      Val Acc:      91.5%
+2023-11-22 05:04:26 INFO     [Epoch 198]   Loss:   0.08905     Train Acc:      97.6%      Val Acc:      91.2%
+2023-11-22 05:04:26 INFO     [Epoch 199]   Loss:   0.08805     Train Acc:     97.84%      Val Acc:      91.1%
+2023-11-22 05:04:27 INFO     step_size_0.1-batch_size_500-max_epochs_200-number_of_layers_10
+2023-11-22 05:04:27 INFO     Loaded train: (5000, 784)
+2023-11-22 05:04:27 INFO     Loaded val: (1000, 784)
+2023-11-22 05:04:27 INFO     Loaded test: (4220, 784)
+2023-11-22 05:04:33 INFO     [Epoch 195]   Loss:    0.4137     Train Acc:      87.7%      Val Acc:      85.3%
+2023-11-22 05:04:33 INFO     [Epoch 196]   Loss:    0.4344     Train Acc:      86.7%      Val Acc:      83.2%
+2023-11-22 05:04:33 INFO     [Epoch 197]   Loss:    0.3861     Train Acc:     88.56%      Val Acc:      87.5%
+2023-11-22 05:04:33 INFO     [Epoch 198]   Loss:    0.3362     Train Acc:     90.36%      Val Acc:      85.4%
+2023-11-22 05:04:33 INFO     [Epoch 199]   Loss:    0.3671     Train Acc:     88.94%      Val Acc:      88.0%
+2023-11-22 05:04:33 INFO     step_size_0.1-batch_size_500-max_epochs_500-number_of_layers_2
+2023-11-22 05:04:34 INFO     Loaded train: (5000, 784)
+2023-11-22 05:04:34 INFO     Loaded val: (1000, 784)
+2023-11-22 05:04:34 INFO     Loaded test: (4220, 784)
+2023-11-22 05:04:44 INFO     [Epoch 495]   Loss:   0.07409     Train Acc:      98.4%      Val Acc:      91.2%
+2023-11-22 05:04:44 INFO     [Epoch 496]   Loss:   0.07531     Train Acc:     98.46%      Val Acc:      91.3%
+2023-11-22 05:04:44 INFO     [Epoch 497]   Loss:   0.07426     Train Acc:     98.36%      Val Acc:      91.1%
+2023-11-22 05:04:44 INFO     [Epoch 498]   Loss:   0.07411     Train Acc:     98.42%      Val Acc:      91.1%
+2023-11-22 05:04:44 INFO     [Epoch 499]   Loss:   0.08259     Train Acc:     97.84%      Val Acc:      90.7%
+2023-11-22 05:04:44 INFO     step_size_0.1-batch_size_500-max_epochs_500-number_of_layers_5
+2023-11-22 05:04:45 INFO     Loaded train: (5000, 784)
+2023-11-22 05:04:45 INFO     Loaded val: (1000, 784)
+2023-11-22 05:04:45 INFO     Loaded test: (4220, 784)
+2023-11-22 05:04:56 INFO     [Epoch 495]   Loss:    0.1483     Train Acc:     95.72%      Val Acc:      90.2%
+2023-11-22 05:04:56 INFO     [Epoch 496]   Loss:     0.165     Train Acc:      94.9%      Val Acc:      90.9%
+2023-11-22 05:04:56 INFO     [Epoch 497]   Loss:    0.1643     Train Acc:     94.88%      Val Acc:      90.4%
+2023-11-22 05:04:56 INFO     [Epoch 498]   Loss:    0.1251     Train Acc:     96.26%      Val Acc:      91.6%
+2023-11-22 05:04:56 INFO     [Epoch 499]   Loss:    0.1016     Train Acc:     97.16%      Val Acc:      91.2%
+2023-11-22 05:04:56 INFO     step_size_0.1-batch_size_500-max_epochs_500-number_of_layers_10
+2023-11-22 05:04:57 INFO     Loaded train: (5000, 784)
+2023-11-22 05:04:57 INFO     Loaded val: (1000, 784)
+2023-11-22 05:04:57 INFO     Loaded test: (4220, 784)
+2023-11-22 05:05:10 INFO     [Epoch 495]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 05:05:10 INFO     [Epoch 496]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 05:05:10 INFO     [Epoch 497]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 05:05:10 INFO     [Epoch 498]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 05:05:10 INFO     [Epoch 499]   Loss:       nan     Train Acc:      9.58%      Val Acc:      10.2%
+2023-11-22 05:05:10 INFO     step_size_0.1-batch_size_500-max_epochs_1000-number_of_layers_2
+2023-11-22 05:05:11 INFO     Loaded train: (5000, 784)
+2023-11-22 05:05:11 INFO     Loaded val: (1000, 784)
+2023-11-22 05:05:11 INFO     Loaded test: (4220, 784)
+2023-11-22 05:05:30 INFO     [Epoch 995]   Loss:   0.02256     Train Acc:     99.92%      Val Acc:      90.6%
+2023-11-22 05:05:30 INFO     [Epoch 996]   Loss:   0.02257     Train Acc:      99.9%      Val Acc:      90.4%
+2023-11-22 05:05:30 INFO     [Epoch 997]   Loss:   0.02281     Train Acc:      99.9%      Val Acc:      90.9%
+2023-11-22 05:05:30 INFO     [Epoch 998]   Loss:   0.02249     Train Acc:      99.9%      Val Acc:      90.6%
+2023-11-22 05:05:30 INFO     [Epoch 999]   Loss:   0.02236     Train Acc:     99.94%      Val Acc:      90.7%
+2023-11-22 05:05:30 INFO     step_size_0.1-batch_size_500-max_epochs_1000-number_of_layers_5
+2023-11-22 05:05:31 INFO     Loaded train: (5000, 784)
+2023-11-22 05:05:31 INFO     Loaded val: (1000, 784)
+2023-11-22 05:05:31 INFO     Loaded test: (4220, 784)
+2023-11-22 05:05:52 INFO     [Epoch 995]   Loss:    0.1118     Train Acc:      96.6%      Val Acc:      88.4%
+2023-11-22 05:05:52 INFO     [Epoch 996]   Loss:    0.1144     Train Acc:     96.38%      Val Acc:      87.1%
+2023-11-22 05:05:52 INFO     [Epoch 997]   Loss:    0.1492     Train Acc:     94.82%      Val Acc:      88.3%
+2023-11-22 05:05:52 INFO     [Epoch 998]   Loss:    0.1355     Train Acc:      95.4%      Val Acc:      84.3%
+2023-11-22 05:05:52 INFO     [Epoch 999]   Loss:     0.596     Train Acc:     83.84%      Val Acc:      87.8%
+2023-11-22 05:05:52 INFO     step_size_0.1-batch_size_500-max_epochs_1000-number_of_layers_10
+2023-11-22 05:05:53 INFO     Loaded train: (5000, 784)
+2023-11-22 05:05:53 INFO     Loaded val: (1000, 784)
+2023-11-22 05:05:53 INFO     Loaded test: (4220, 784)
+2023-11-22 05:06:19 INFO     [Epoch 995]   Loss:   0.02011     Train Acc:     99.48%      Val Acc:      91.7%
+2023-11-22 05:06:19 INFO     [Epoch 996]   Loss:   0.01821     Train Acc:     99.54%      Val Acc:      91.4%
+2023-11-22 05:06:19 INFO     [Epoch 997]   Loss:   0.01802     Train Acc:     99.56%      Val Acc:      91.4%
+2023-11-22 05:06:19 INFO     [Epoch 998]   Loss:   0.01804     Train Acc:     99.54%      Val Acc:      91.2%
+2023-11-22 05:06:19 INFO     [Epoch 999]   Loss:   0.01787     Train Acc:     99.52%      Val Acc:      91.5%
+2023-11-22 05:06:20 INFO     step_size_0.1-batch_size_1000-max_epochs_200-number_of_layers_2
+2023-11-22 05:06:20 INFO     Loaded train: (5000, 784)
+2023-11-22 05:06:20 INFO     Loaded val: (1000, 784)
+2023-11-22 05:06:20 INFO     Loaded test: (4220, 784)
+2023-11-22 05:06:24 INFO     [Epoch 195]   Loss:    0.1892     Train Acc:     94.74%      Val Acc:      91.8%
+2023-11-22 05:06:24 INFO     [Epoch 196]   Loss:    0.1894     Train Acc:     94.82%      Val Acc:      91.7%
+2023-11-22 05:06:24 INFO     [Epoch 197]   Loss:    0.1888     Train Acc:      94.8%      Val Acc:      91.7%
+2023-11-22 05:06:24 INFO     [Epoch 198]   Loss:    0.1902     Train Acc:     94.74%      Val Acc:      91.0%
+2023-11-22 05:06:24 INFO     [Epoch 199]   Loss:    0.1883     Train Acc:     94.74%      Val Acc:      91.9%
+2023-11-22 05:06:24 INFO     step_size_0.1-batch_size_1000-max_epochs_200-number_of_layers_5
+2023-11-22 05:06:25 INFO     Loaded train: (5000, 784)
+2023-11-22 05:06:25 INFO     Loaded val: (1000, 784)
+2023-11-22 05:06:25 INFO     Loaded test: (4220, 784)
+2023-11-22 05:06:29 INFO     [Epoch 195]   Loss:    0.3156     Train Acc:     89.82%      Val Acc:      88.2%
+2023-11-22 05:06:29 INFO     [Epoch 196]   Loss:    0.2637     Train Acc:     91.64%      Val Acc:      90.7%
+2023-11-22 05:06:29 INFO     [Epoch 197]   Loss:     0.221     Train Acc:     93.42%      Val Acc:      90.3%
+2023-11-22 05:06:29 INFO     [Epoch 198]   Loss:    0.2262     Train Acc:     93.14%      Val Acc:      91.0%
+2023-11-22 05:06:29 INFO     [Epoch 199]   Loss:    0.2237     Train Acc:     93.58%      Val Acc:      89.7%
+2023-11-22 05:06:29 INFO     step_size_0.1-batch_size_1000-max_epochs_200-number_of_layers_10
+2023-11-22 05:06:30 INFO     Loaded train: (5000, 784)
+2023-11-22 05:06:30 INFO     Loaded val: (1000, 784)
+2023-11-22 05:06:30 INFO     Loaded test: (4220, 784)
+2023-11-22 05:06:34 INFO     [Epoch 195]   Loss:    0.6586     Train Acc:     76.82%      Val Acc:      70.2%
+2023-11-22 05:06:34 INFO     [Epoch 196]   Loss:    0.7404     Train Acc:     73.12%      Val Acc:      75.2%
+2023-11-22 05:06:34 INFO     [Epoch 197]   Loss:    0.5966     Train Acc:     79.82%      Val Acc:      80.8%
+2023-11-22 05:06:34 INFO     [Epoch 198]   Loss:    0.6052     Train Acc:      80.0%      Val Acc:      76.7%
+2023-11-22 05:06:34 INFO     [Epoch 199]   Loss:    0.6538     Train Acc:     76.56%      Val Acc:      77.8%
+2023-11-22 05:06:35 INFO     step_size_0.1-batch_size_1000-max_epochs_500-number_of_layers_2
+2023-11-22 05:06:35 INFO     Loaded train: (5000, 784)
+2023-11-22 05:06:35 INFO     Loaded val: (1000, 784)
+2023-11-22 05:06:35 INFO     Loaded test: (4220, 784)
+2023-11-22 05:06:43 INFO     [Epoch 495]   Loss:    0.1319     Train Acc:     96.64%      Val Acc:      91.5%
+2023-11-22 05:06:43 INFO     [Epoch 496]   Loss:     0.137     Train Acc:     96.54%      Val Acc:      90.6%
+2023-11-22 05:06:43 INFO     [Epoch 497]   Loss:    0.1351     Train Acc:      96.6%      Val Acc:      91.3%
+2023-11-22 05:06:43 INFO     [Epoch 498]   Loss:    0.1301     Train Acc:     96.78%      Val Acc:      91.5%
+2023-11-22 05:06:43 INFO     [Epoch 499]   Loss:    0.1309     Train Acc:     96.68%      Val Acc:      91.1%
+2023-11-22 05:06:44 INFO     step_size_0.1-batch_size_1000-max_epochs_500-number_of_layers_5
+2023-11-22 05:06:44 INFO     Loaded train: (5000, 784)
+2023-11-22 05:06:44 INFO     Loaded val: (1000, 784)
+2023-11-22 05:06:44 INFO     Loaded test: (4220, 784)
+2023-11-22 05:06:54 INFO     [Epoch 495]   Loss:    0.2419     Train Acc:      92.5%      Val Acc:      87.8%
+2023-11-22 05:06:54 INFO     [Epoch 496]   Loss:    0.2363     Train Acc:     92.84%      Val Acc:      88.9%
+2023-11-22 05:06:54 INFO     [Epoch 497]   Loss:    0.2283     Train Acc:      92.7%      Val Acc:      87.3%
+2023-11-22 05:06:54 INFO     [Epoch 498]   Loss:    0.2447     Train Acc:     92.72%      Val Acc:      88.7%
+2023-11-22 05:06:54 INFO     [Epoch 499]   Loss:    0.2432     Train Acc:      92.5%      Val Acc:      86.7%
+2023-11-22 05:06:54 INFO     step_size_0.1-batch_size_1000-max_epochs_500-number_of_layers_10
+2023-11-22 05:06:55 INFO     Loaded train: (5000, 784)
+2023-11-22 05:06:55 INFO     Loaded val: (1000, 784)
+2023-11-22 05:06:55 INFO     Loaded test: (4220, 784)
+2023-11-22 05:07:07 INFO     [Epoch 495]   Loss:    0.4761     Train Acc:     85.56%      Val Acc:      86.0%
+2023-11-22 05:07:07 INFO     [Epoch 496]   Loss:    0.1856     Train Acc:      95.1%      Val Acc:      90.5%
+2023-11-22 05:07:07 INFO     [Epoch 497]   Loss:    0.1749     Train Acc:     95.54%      Val Acc:      89.0%
+2023-11-22 05:07:07 INFO     [Epoch 498]   Loss:    0.1802     Train Acc:     95.06%      Val Acc:      91.0%
+2023-11-22 05:07:07 INFO     [Epoch 499]   Loss:    0.1543     Train Acc:     95.92%      Val Acc:      90.2%
+2023-11-22 05:07:07 INFO     step_size_0.1-batch_size_1000-max_epochs_1000-number_of_layers_2
+2023-11-22 05:07:08 INFO     Loaded train: (5000, 784)
+2023-11-22 05:07:08 INFO     Loaded val: (1000, 784)
+2023-11-22 05:07:08 INFO     Loaded test: (4220, 784)
+2023-11-22 05:07:23 INFO     [Epoch 995]   Loss:   0.03469     Train Acc:     99.66%      Val Acc:      92.7%
+2023-11-22 05:07:23 INFO     [Epoch 996]   Loss:   0.03385     Train Acc:     99.62%      Val Acc:      92.8%
+2023-11-22 05:07:23 INFO     [Epoch 997]   Loss:   0.03443     Train Acc:     99.68%      Val Acc:      92.4%
+2023-11-22 05:07:23 INFO     [Epoch 998]   Loss:   0.03416     Train Acc:     99.64%      Val Acc:      92.9%
+2023-11-22 05:07:23 INFO     [Epoch 999]   Loss:   0.03396     Train Acc:      99.7%      Val Acc:      92.7%
+2023-11-22 05:07:23 INFO     step_size_0.1-batch_size_1000-max_epochs_1000-number_of_layers_5
+2023-11-22 05:07:24 INFO     Loaded train: (5000, 784)
+2023-11-22 05:07:24 INFO     Loaded val: (1000, 784)
+2023-11-22 05:07:24 INFO     Loaded test: (4220, 784)
+2023-11-22 05:07:43 INFO     [Epoch 995]   Loss:    0.1388     Train Acc:     95.68%      Val Acc:      89.1%
+2023-11-22 05:07:43 INFO     [Epoch 996]   Loss:    0.1242     Train Acc:     96.26%      Val Acc:      90.1%
+2023-11-22 05:07:44 INFO     [Epoch 997]   Loss:    0.1224     Train Acc:     96.28%      Val Acc:      88.6%
+2023-11-22 05:07:44 INFO     [Epoch 998]   Loss:    0.1833     Train Acc:     93.96%      Val Acc:      88.8%
+2023-11-22 05:07:44 INFO     [Epoch 999]   Loss:     0.345     Train Acc:     88.84%      Val Acc:      72.3%
+2023-11-22 05:07:44 INFO     step_size_0.1-batch_size_1000-max_epochs_1000-number_of_layers_10
+2023-11-22 05:07:45 INFO     Loaded train: (5000, 784)
+2023-11-22 05:07:45 INFO     Loaded val: (1000, 784)
+2023-11-22 05:07:45 INFO     Loaded test: (4220, 784)
+2023-11-22 05:08:07 INFO     [Epoch 995]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:08:07 INFO     [Epoch 996]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:08:07 INFO     [Epoch 997]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:08:07 INFO     [Epoch 998]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:08:07 INFO     [Epoch 999]   Loss:       2.3     Train Acc:     11.26%      Val Acc:      11.3%
+2023-11-22 05:08:08 INFO     step_size_0.03-batch_size_200-max_epochs_200-number_of_layers_2
+2023-11-22 05:08:08 INFO     Loaded train: (5000, 784)
+2023-11-22 05:08:08 INFO     Loaded val: (1000, 784)
+2023-11-22 05:08:08 INFO     Loaded test: (4220, 784)
+2023-11-22 05:08:14 INFO     [Epoch 195]   Loss:    0.1538     Train Acc:     96.08%      Val Acc:      92.0%
+2023-11-22 05:08:14 INFO     [Epoch 196]   Loss:    0.1541     Train Acc:     96.04%      Val Acc:      91.7%
+2023-11-22 05:08:14 INFO     [Epoch 197]   Loss:    0.1532     Train Acc:     96.26%      Val Acc:      91.7%
+2023-11-22 05:08:14 INFO     [Epoch 198]   Loss:    0.1529     Train Acc:     96.14%      Val Acc:      91.8%
+2023-11-22 05:08:14 INFO     [Epoch 199]   Loss:    0.1515     Train Acc:      96.3%      Val Acc:      92.0%
+2023-11-22 05:08:14 INFO     step_size_0.03-batch_size_200-max_epochs_200-number_of_layers_5
+2023-11-22 05:08:15 INFO     Loaded train: (5000, 784)
+2023-11-22 05:08:15 INFO     Loaded val: (1000, 784)
+2023-11-22 05:08:15 INFO     Loaded test: (4220, 784)
+2023-11-22 05:08:21 INFO     [Epoch 195]   Loss:    0.0463     Train Acc:     99.12%      Val Acc:      92.7%
+2023-11-22 05:08:21 INFO     [Epoch 196]   Loss:   0.04347     Train Acc:     99.26%      Val Acc:      92.6%
+2023-11-22 05:08:21 INFO     [Epoch 197]   Loss:   0.04294     Train Acc:     99.24%      Val Acc:      92.9%
+2023-11-22 05:08:21 INFO     [Epoch 198]   Loss:   0.04211     Train Acc:     99.32%      Val Acc:      92.2%
+2023-11-22 05:08:21 INFO     [Epoch 199]   Loss:   0.04256     Train Acc:     99.28%      Val Acc:      92.9%
+2023-11-22 05:08:21 INFO     step_size_0.03-batch_size_200-max_epochs_200-number_of_layers_10
+2023-11-22 05:08:22 INFO     Loaded train: (5000, 784)
+2023-11-22 05:08:22 INFO     Loaded val: (1000, 784)
+2023-11-22 05:08:22 INFO     Loaded test: (4220, 784)
+2023-11-22 05:08:30 INFO     [Epoch 195]   Loss:   0.01834     Train Acc:     99.56%      Val Acc:      91.8%
+2023-11-22 05:08:30 INFO     [Epoch 196]   Loss:   0.01762     Train Acc:     99.52%      Val Acc:      92.0%
+2023-11-22 05:08:30 INFO     [Epoch 197]   Loss:   0.01807     Train Acc:      99.5%      Val Acc:      91.9%
+2023-11-22 05:08:30 INFO     [Epoch 198]   Loss:   0.01684     Train Acc:     99.58%      Val Acc:      91.6%
+2023-11-22 05:08:30 INFO     [Epoch 199]   Loss:   0.01608     Train Acc:     99.58%      Val Acc:      92.1%
+2023-11-22 05:08:30 INFO     step_size_0.03-batch_size_200-max_epochs_500-number_of_layers_2
+2023-11-22 05:08:31 INFO     Loaded train: (5000, 784)
+2023-11-22 05:08:31 INFO     Loaded val: (1000, 784)
+2023-11-22 05:08:31 INFO     Loaded test: (4220, 784)
+2023-11-22 05:08:46 INFO     [Epoch 495]   Loss:    0.0615     Train Acc:     98.96%      Val Acc:      91.9%
+2023-11-22 05:08:46 INFO     [Epoch 496]   Loss:   0.06152     Train Acc:     98.98%      Val Acc:      91.6%
+2023-11-22 05:08:46 INFO     [Epoch 497]   Loss:   0.06103     Train Acc:     98.94%      Val Acc:      91.9%
+2023-11-22 05:08:46 INFO     [Epoch 498]   Loss:   0.06066     Train Acc:      99.0%      Val Acc:      91.9%
+2023-11-22 05:08:46 INFO     [Epoch 499]   Loss:   0.06109     Train Acc:      99.0%      Val Acc:      91.9%
+2023-11-22 05:08:46 INFO     step_size_0.03-batch_size_200-max_epochs_500-number_of_layers_5
+2023-11-22 05:08:47 INFO     Loaded train: (5000, 784)
+2023-11-22 05:08:47 INFO     Loaded val: (1000, 784)
+2023-11-22 05:08:47 INFO     Loaded test: (4220, 784)
+2023-11-22 05:09:04 INFO     [Epoch 495]   Loss:  0.001917     Train Acc:     100.0%      Val Acc:      90.4%
+2023-11-22 05:09:04 INFO     [Epoch 496]   Loss:  0.001904     Train Acc:     100.0%      Val Acc:      90.5%
+2023-11-22 05:09:04 INFO     [Epoch 497]   Loss:  0.001877     Train Acc:     100.0%      Val Acc:      90.6%
+2023-11-22 05:09:04 INFO     [Epoch 498]   Loss:  0.001882     Train Acc:     100.0%      Val Acc:      90.5%
+2023-11-22 05:09:04 INFO     [Epoch 499]   Loss:  0.001873     Train Acc:     100.0%      Val Acc:      90.5%
+2023-11-22 05:09:04 INFO     step_size_0.03-batch_size_200-max_epochs_500-number_of_layers_10
+2023-11-22 05:09:05 INFO     Loaded train: (5000, 784)
+2023-11-22 05:09:05 INFO     Loaded val: (1000, 784)
+2023-11-22 05:09:05 INFO     Loaded test: (4220, 784)
+2023-11-22 05:09:26 INFO     [Epoch 495]   Loss:   0.02325     Train Acc:     99.34%      Val Acc:      91.4%
+2023-11-22 05:09:26 INFO     [Epoch 496]   Loss:    0.3621     Train Acc:     93.28%      Val Acc:      89.0%
+2023-11-22 05:09:26 INFO     [Epoch 497]   Loss:   0.07079     Train Acc:     97.96%      Val Acc:      91.4%
+2023-11-22 05:09:26 INFO     [Epoch 498]   Loss:   0.03551     Train Acc:     99.02%      Val Acc:      91.9%
+2023-11-22 05:09:26 INFO     [Epoch 499]   Loss:   0.02874     Train Acc:     99.28%      Val Acc:      91.7%
+2023-11-22 05:09:26 INFO     step_size_0.03-batch_size_200-max_epochs_1000-number_of_layers_2
+2023-11-22 05:09:27 INFO     Loaded train: (5000, 784)
+2023-11-22 05:09:27 INFO     Loaded val: (1000, 784)
+2023-11-22 05:09:27 INFO     Loaded test: (4220, 784)
+2023-11-22 05:09:57 INFO     [Epoch 995]   Loss:   0.02184     Train Acc:     99.92%      Val Acc:      91.7%
+2023-11-22 05:09:57 INFO     [Epoch 996]   Loss:   0.02149     Train Acc:     99.92%      Val Acc:      91.8%
+2023-11-22 05:09:57 INFO     [Epoch 997]   Loss:   0.02133     Train Acc:     99.94%      Val Acc:      91.6%
+2023-11-22 05:09:57 INFO     [Epoch 998]   Loss:   0.02145     Train Acc:     99.98%      Val Acc:      91.7%
+2023-11-22 05:09:57 INFO     [Epoch 999]   Loss:   0.02116     Train Acc:     99.96%      Val Acc:      91.9%
+2023-11-22 05:09:58 INFO     step_size_0.03-batch_size_200-max_epochs_1000-number_of_layers_5
+2023-11-22 05:09:58 INFO     Loaded train: (5000, 784)
+2023-11-22 05:09:58 INFO     Loaded val: (1000, 784)
+2023-11-22 05:09:58 INFO     Loaded test: (4220, 784)
+2023-11-22 05:11:49 INFO     [Epoch 995]   Loss:  0.0004205     Train Acc:     100.0%      Val Acc:      93.1%
+2023-11-22 05:11:49 INFO     [Epoch 996]   Loss:  0.0004183     Train Acc:     100.0%      Val Acc:      93.0%
+2023-11-22 05:11:49 INFO     [Epoch 997]   Loss:  0.0004187     Train Acc:     100.0%      Val Acc:      92.9%
+2023-11-22 05:11:49 INFO     [Epoch 998]   Loss:  0.0004169     Train Acc:     100.0%      Val Acc:      93.0%
+2023-11-22 05:11:49 INFO     [Epoch 999]   Loss:  0.000415     Train Acc:     100.0%      Val Acc:      93.1%
+2023-11-22 05:11:49 INFO     step_size_0.03-batch_size_200-max_epochs_1000-number_of_layers_10
+2023-11-22 05:11:50 INFO     Loaded train: (5000, 784)
+2023-11-22 05:11:50 INFO     Loaded val: (1000, 784)
+2023-11-22 05:11:50 INFO     Loaded test: (4220, 784)
+2023-11-22 05:12:33 INFO     [Epoch 995]   Loss:   0.03726     Train Acc:     98.86%      Val Acc:      92.1%
+2023-11-22 05:12:33 INFO     [Epoch 996]   Loss:   0.03351     Train Acc:     98.86%      Val Acc:      91.7%
+2023-11-22 05:12:33 INFO     [Epoch 997]   Loss:    0.0342     Train Acc:     99.04%      Val Acc:      91.9%
+2023-11-22 05:12:34 INFO     [Epoch 998]   Loss:   0.02985     Train Acc:      99.1%      Val Acc:      92.2%
+2023-11-22 05:12:34 INFO     [Epoch 999]   Loss:   0.02761     Train Acc:      99.2%      Val Acc:      92.1%
+2023-11-22 05:12:34 INFO     step_size_0.03-batch_size_300-max_epochs_200-number_of_layers_2
+2023-11-22 05:12:35 INFO     Loaded train: (5000, 784)
+2023-11-22 05:12:35 INFO     Loaded val: (1000, 784)
+2023-11-22 05:12:35 INFO     Loaded test: (4220, 784)
+2023-11-22 05:12:41 INFO     [Epoch 195]   Loss:    0.1754     Train Acc:     95.38%      Val Acc:      91.8%
+2023-11-22 05:12:41 INFO     [Epoch 196]   Loss:    0.1756     Train Acc:     95.32%      Val Acc:      91.9%
+2023-11-22 05:12:41 INFO     [Epoch 197]   Loss:    0.1739     Train Acc:     95.36%      Val Acc:      91.4%
+2023-11-22 05:12:41 INFO     [Epoch 198]   Loss:    0.1741     Train Acc:     95.28%      Val Acc:      91.6%
+2023-11-22 05:12:41 INFO     [Epoch 199]   Loss:    0.1737     Train Acc:     95.28%      Val Acc:      91.5%
+2023-11-22 05:12:41 INFO     step_size_0.03-batch_size_300-max_epochs_200-number_of_layers_5
+2023-11-22 05:12:42 INFO     Loaded train: (5000, 784)
+2023-11-22 05:12:42 INFO     Loaded val: (1000, 784)
+2023-11-22 05:12:42 INFO     Loaded test: (4220, 784)
+2023-11-22 05:12:48 INFO     [Epoch 195]   Loss:    0.0816     Train Acc:     97.82%      Val Acc:      90.6%
+2023-11-22 05:12:48 INFO     [Epoch 196]   Loss:   0.08971     Train Acc:     97.62%      Val Acc:      91.8%
+2023-11-22 05:12:48 INFO     [Epoch 197]   Loss:   0.08038     Train Acc:      98.1%      Val Acc:      92.0%
+2023-11-22 05:12:48 INFO     [Epoch 198]   Loss:   0.07959     Train Acc:     98.18%      Val Acc:      91.9%
+2023-11-22 05:12:48 INFO     [Epoch 199]   Loss:    0.0932     Train Acc:     97.16%      Val Acc:      92.0%
+2023-11-22 05:12:48 INFO     step_size_0.03-batch_size_300-max_epochs_200-number_of_layers_10
+2023-11-22 05:12:49 INFO     Loaded train: (5000, 784)
+2023-11-22 05:12:49 INFO     Loaded val: (1000, 784)
+2023-11-22 05:12:49 INFO     Loaded test: (4220, 784)
+2023-11-22 05:12:57 INFO     [Epoch 195]   Loss:    0.1259     Train Acc:     96.72%      Val Acc:      90.6%
+2023-11-22 05:12:57 INFO     [Epoch 196]   Loss:    0.1263     Train Acc:      96.8%      Val Acc:      91.1%
+2023-11-22 05:12:57 INFO     [Epoch 197]   Loss:    0.1186     Train Acc:     96.98%      Val Acc:      91.3%
+2023-11-22 05:12:57 INFO     [Epoch 198]   Loss:    0.1456     Train Acc:      96.2%      Val Acc:      88.5%
+2023-11-22 05:12:57 INFO     [Epoch 199]   Loss:    0.1407     Train Acc:     96.26%      Val Acc:      90.4%
+2023-11-22 05:12:57 INFO     step_size_0.03-batch_size_300-max_epochs_500-number_of_layers_2
+2023-11-22 05:12:58 INFO     Loaded train: (5000, 784)
+2023-11-22 05:12:58 INFO     Loaded val: (1000, 784)
+2023-11-22 05:12:58 INFO     Loaded test: (4220, 784)
+2023-11-22 05:13:13 INFO     [Epoch 495]   Loss:   0.09171     Train Acc:      98.1%      Val Acc:      92.5%
+2023-11-22 05:13:13 INFO     [Epoch 496]   Loss:   0.09162     Train Acc:     98.16%      Val Acc:      92.3%
+2023-11-22 05:13:13 INFO     [Epoch 497]   Loss:   0.09123     Train Acc:      98.0%      Val Acc:      92.4%
+2023-11-22 05:13:13 INFO     [Epoch 498]   Loss:   0.09125     Train Acc:     98.04%      Val Acc:      92.5%
+2023-11-22 05:13:13 INFO     [Epoch 499]   Loss:   0.09163     Train Acc:      98.1%      Val Acc:      92.1%
+2023-11-22 05:13:13 INFO     step_size_0.03-batch_size_300-max_epochs_500-number_of_layers_5
+2023-11-22 05:13:14 INFO     Loaded train: (5000, 784)
+2023-11-22 05:13:14 INFO     Loaded val: (1000, 784)
+2023-11-22 05:13:14 INFO     Loaded test: (4220, 784)
+2023-11-22 05:13:50 INFO     [Epoch 495]   Loss:  0.003535     Train Acc:     100.0%      Val Acc:      92.0%
+2023-11-22 05:13:50 INFO     [Epoch 496]   Loss:  0.003534     Train Acc:     100.0%      Val Acc:      91.8%
+2023-11-22 05:13:50 INFO     [Epoch 497]   Loss:  0.003485     Train Acc:     100.0%      Val Acc:      92.0%
+2023-11-22 05:13:50 INFO     [Epoch 498]   Loss:  0.003472     Train Acc:     100.0%      Val Acc:      91.9%
+2023-11-22 05:13:50 INFO     [Epoch 499]   Loss:  0.003424     Train Acc:     100.0%      Val Acc:      91.7%
+2023-11-22 05:13:51 INFO     step_size_0.03-batch_size_300-max_epochs_500-number_of_layers_10
+2023-11-22 05:13:51 INFO     Loaded train: (5000, 784)
+2023-11-22 05:13:51 INFO     Loaded val: (1000, 784)
+2023-11-22 05:13:51 INFO     Loaded test: (4220, 784)
+2023-11-22 05:14:10 INFO     [Epoch 495]   Loss:    0.0431     Train Acc:     98.78%      Val Acc:      91.9%
+2023-11-22 05:14:10 INFO     [Epoch 496]   Loss:   0.04188     Train Acc:     98.94%      Val Acc:      92.3%
+2023-11-22 05:14:10 INFO     [Epoch 497]   Loss:   0.04319     Train Acc:     98.88%      Val Acc:      91.2%
+2023-11-22 05:14:10 INFO     [Epoch 498]   Loss:   0.04103     Train Acc:     98.88%      Val Acc:      91.7%
+2023-11-22 05:14:10 INFO     [Epoch 499]   Loss:   0.04311     Train Acc:     98.82%      Val Acc:      92.0%
+2023-11-22 05:14:10 INFO     step_size_0.03-batch_size_300-max_epochs_1000-number_of_layers_2
+2023-11-22 05:14:11 INFO     Loaded train: (5000, 784)
+2023-11-22 05:14:11 INFO     Loaded val: (1000, 784)
+2023-11-22 05:14:11 INFO     Loaded test: (4220, 784)
+2023-11-22 05:14:38 INFO     [Epoch 995]   Loss:   0.04191     Train Acc:     99.44%      Val Acc:      91.9%
+2023-11-22 05:14:39 INFO     [Epoch 996]   Loss:   0.04135     Train Acc:     99.46%      Val Acc:      91.6%
+2023-11-22 05:14:39 INFO     [Epoch 997]   Loss:   0.04114     Train Acc:     99.42%      Val Acc:      91.6%
+2023-11-22 05:14:39 INFO     [Epoch 998]   Loss:    0.0412     Train Acc:     99.34%      Val Acc:      92.0%
+2023-11-22 05:14:39 INFO     [Epoch 999]   Loss:   0.04099     Train Acc:     99.52%      Val Acc:      91.8%
+2023-11-22 05:14:39 INFO     step_size_0.03-batch_size_300-max_epochs_1000-number_of_layers_5
+2023-11-22 05:14:40 INFO     Loaded train: (5000, 784)
+2023-11-22 05:14:40 INFO     Loaded val: (1000, 784)
+2023-11-22 05:14:40 INFO     Loaded test: (4220, 784)
+2023-11-22 05:15:11 INFO     [Epoch 995]   Loss:  0.0009445     Train Acc:     100.0%      Val Acc:      91.6%
+2023-11-22 05:15:11 INFO     [Epoch 996]   Loss:  0.0009433     Train Acc:     100.0%      Val Acc:      91.5%
+2023-11-22 05:15:11 INFO     [Epoch 997]   Loss:  0.0009415     Train Acc:     100.0%      Val Acc:      91.6%
+2023-11-22 05:15:11 INFO     [Epoch 998]   Loss:  0.0009399     Train Acc:     100.0%      Val Acc:      91.5%
+2023-11-22 05:15:11 INFO     [Epoch 999]   Loss:  0.0009362     Train Acc:     100.0%      Val Acc:      91.5%
+2023-11-22 05:15:12 INFO     step_size_0.03-batch_size_300-max_epochs_1000-number_of_layers_10
+2023-11-22 05:15:13 INFO     Loaded train: (5000, 784)
+2023-11-22 05:15:13 INFO     Loaded val: (1000, 784)
+2023-11-22 05:15:13 INFO     Loaded test: (4220, 784)
+2023-11-22 05:15:49 INFO     [Epoch 995]   Loss:  0.001531     Train Acc:     100.0%      Val Acc:      89.0%
+2023-11-22 05:15:49 INFO     [Epoch 996]   Loss:  0.001524     Train Acc:     100.0%      Val Acc:      88.9%
+2023-11-22 05:15:49 INFO     [Epoch 997]   Loss:  0.001521     Train Acc:     100.0%      Val Acc:      89.0%
+2023-11-22 05:15:49 INFO     [Epoch 998]   Loss:  0.001505     Train Acc:     100.0%      Val Acc:      88.8%
+2023-11-22 05:15:49 INFO     [Epoch 999]   Loss:  0.001485     Train Acc:     100.0%      Val Acc:      88.8%
+2023-11-22 05:15:50 INFO     step_size_0.03-batch_size_500-max_epochs_200-number_of_layers_2
+2023-11-22 05:15:51 INFO     Loaded train: (5000, 784)
+2023-11-22 05:15:51 INFO     Loaded val: (1000, 784)
+2023-11-22 05:15:51 INFO     Loaded test: (4220, 784)
+2023-11-22 05:15:55 INFO     [Epoch 195]   Loss:    0.2245     Train Acc:      93.9%      Val Acc:      91.6%
+2023-11-22 05:15:55 INFO     [Epoch 196]   Loss:    0.2239     Train Acc:     93.86%      Val Acc:      91.5%
+2023-11-22 05:15:55 INFO     [Epoch 197]   Loss:    0.2242     Train Acc:     93.86%      Val Acc:      91.3%
+2023-11-22 05:15:55 INFO     [Epoch 198]   Loss:    0.2227     Train Acc:     93.84%      Val Acc:      91.7%
+2023-11-22 05:15:55 INFO     [Epoch 199]   Loss:    0.2225     Train Acc:     93.84%      Val Acc:      91.7%
+2023-11-22 05:15:55 INFO     step_size_0.03-batch_size_500-max_epochs_200-number_of_layers_5
+2023-11-22 05:15:56 INFO     Loaded train: (5000, 784)
+2023-11-22 05:15:56 INFO     Loaded val: (1000, 784)
+2023-11-22 05:15:56 INFO     Loaded test: (4220, 784)
+2023-11-22 05:16:01 INFO     [Epoch 195]   Loss:    0.1361     Train Acc:      96.6%      Val Acc:      91.1%
+2023-11-22 05:16:01 INFO     [Epoch 196]   Loss:    0.1347     Train Acc:     96.52%      Val Acc:      90.4%
+2023-11-22 05:16:02 INFO     [Epoch 197]   Loss:    0.1292     Train Acc:     96.76%      Val Acc:      90.4%
+2023-11-22 05:16:02 INFO     [Epoch 198]   Loss:    0.1447     Train Acc:     96.02%      Val Acc:      91.1%
+2023-11-22 05:16:02 INFO     [Epoch 199]   Loss:    0.1277     Train Acc:     96.84%      Val Acc:      90.8%
+2023-11-22 05:16:02 INFO     step_size_0.03-batch_size_500-max_epochs_200-number_of_layers_10
+2023-11-22 05:16:03 INFO     Loaded train: (5000, 784)
+2023-11-22 05:16:03 INFO     Loaded val: (1000, 784)
+2023-11-22 05:16:03 INFO     Loaded test: (4220, 784)
+2023-11-22 05:16:08 INFO     [Epoch 195]   Loss:    0.4977     Train Acc:     84.86%      Val Acc:      76.0%
+2023-11-22 05:16:08 INFO     [Epoch 196]   Loss:    0.3392     Train Acc:     90.24%      Val Acc:      88.4%
+2023-11-22 05:16:08 INFO     [Epoch 197]   Loss:    0.2448     Train Acc:     92.68%      Val Acc:      89.7%
+2023-11-22 05:16:08 INFO     [Epoch 198]   Loss:    0.2115     Train Acc:     94.06%      Val Acc:      89.0%
+2023-11-22 05:16:08 INFO     [Epoch 199]   Loss:    0.2131     Train Acc:     94.08%      Val Acc:      89.2%
+2023-11-22 05:16:09 INFO     step_size_0.03-batch_size_500-max_epochs_500-number_of_layers_2
+2023-11-22 05:16:09 INFO     Loaded train: (5000, 784)
+2023-11-22 05:16:09 INFO     Loaded val: (1000, 784)
+2023-11-22 05:16:09 INFO     Loaded test: (4220, 784)
+2023-11-22 05:16:21 INFO     [Epoch 495]   Loss:    0.1366     Train Acc:     96.56%      Val Acc:      91.6%
+2023-11-22 05:16:21 INFO     [Epoch 496]   Loss:    0.1366     Train Acc:     96.62%      Val Acc:      91.4%
+2023-11-22 05:16:21 INFO     [Epoch 497]   Loss:    0.1365     Train Acc:     96.68%      Val Acc:      91.5%
+2023-11-22 05:16:21 INFO     [Epoch 498]   Loss:    0.1363     Train Acc:     96.68%      Val Acc:      91.4%
+2023-11-22 05:16:21 INFO     [Epoch 499]   Loss:    0.1357     Train Acc:     96.68%      Val Acc:      91.6%
+2023-11-22 05:16:21 INFO     step_size_0.03-batch_size_500-max_epochs_500-number_of_layers_5
+2023-11-22 05:16:22 INFO     Loaded train: (5000, 784)
+2023-11-22 05:16:22 INFO     Loaded val: (1000, 784)
+2023-11-22 05:16:22 INFO     Loaded test: (4220, 784)
+2023-11-22 05:16:35 INFO     [Epoch 495]   Loss:   0.06739     Train Acc:      98.5%      Val Acc:      90.8%
+2023-11-22 05:16:35 INFO     [Epoch 496]   Loss:   0.06586     Train Acc:     98.64%      Val Acc:      90.9%
+2023-11-22 05:16:35 INFO     [Epoch 497]   Loss:   0.06612     Train Acc:     98.52%      Val Acc:      91.0%
+2023-11-22 05:16:35 INFO     [Epoch 498]   Loss:   0.06547     Train Acc:     98.58%      Val Acc:      91.0%
+2023-11-22 05:16:35 INFO     [Epoch 499]   Loss:   0.06524     Train Acc:     98.56%      Val Acc:      91.0%
+2023-11-22 05:16:35 INFO     step_size_0.03-batch_size_500-max_epochs_500-number_of_layers_10
+2023-11-22 05:16:36 INFO     Loaded train: (5000, 784)
+2023-11-22 05:16:36 INFO     Loaded val: (1000, 784)
+2023-11-22 05:16:36 INFO     Loaded test: (4220, 784)
+2023-11-22 05:16:50 INFO     [Epoch 495]   Loss:   0.03863     Train Acc:     99.04%      Val Acc:      90.2%
+2023-11-22 05:16:50 INFO     [Epoch 496]   Loss:   0.03702     Train Acc:      99.1%      Val Acc:      90.3%
+2023-11-22 05:16:50 INFO     [Epoch 497]   Loss:   0.03654     Train Acc:     99.08%      Val Acc:      90.7%
+2023-11-22 05:16:50 INFO     [Epoch 498]   Loss:   0.03463     Train Acc:     99.22%      Val Acc:      90.7%
+2023-11-22 05:16:50 INFO     [Epoch 499]   Loss:   0.03492     Train Acc:      99.1%      Val Acc:      90.2%
+2023-11-22 05:16:50 INFO     step_size_0.03-batch_size_500-max_epochs_1000-number_of_layers_2
+2023-11-22 05:16:51 INFO     Loaded train: (5000, 784)
+2023-11-22 05:16:51 INFO     Loaded val: (1000, 784)
+2023-11-22 05:16:51 INFO     Loaded test: (4220, 784)
+2023-11-22 05:17:12 INFO     [Epoch 995]   Loss:   0.07401     Train Acc:     98.76%      Val Acc:      92.9%
+2023-11-22 05:17:12 INFO     [Epoch 996]   Loss:   0.07448     Train Acc:     98.64%      Val Acc:      92.7%
+2023-11-22 05:17:12 INFO     [Epoch 997]   Loss:   0.07461     Train Acc:      98.8%      Val Acc:      92.8%
+2023-11-22 05:17:12 INFO     [Epoch 998]   Loss:    0.0738     Train Acc:     98.78%      Val Acc:      92.7%
+2023-11-22 05:17:12 INFO     [Epoch 999]   Loss:   0.07338     Train Acc:      98.8%      Val Acc:      92.7%
+2023-11-22 05:17:13 INFO     step_size_0.03-batch_size_500-max_epochs_1000-number_of_layers_5
+2023-11-22 05:17:14 INFO     Loaded train: (5000, 784)
+2023-11-22 05:17:14 INFO     Loaded val: (1000, 784)
+2023-11-22 05:17:14 INFO     Loaded test: (4220, 784)
+2023-11-22 05:17:38 INFO     [Epoch 995]   Loss:  0.009128     Train Acc:     99.88%      Val Acc:      90.5%
+2023-11-22 05:17:38 INFO     [Epoch 996]   Loss:  0.009078     Train Acc:     99.88%      Val Acc:      90.5%
+2023-11-22 05:17:38 INFO     [Epoch 997]   Loss:  0.009002     Train Acc:     99.88%      Val Acc:      90.5%
+2023-11-22 05:17:38 INFO     [Epoch 998]   Loss:  0.008942     Train Acc:     99.88%      Val Acc:      90.7%
+2023-11-22 05:17:38 INFO     [Epoch 999]   Loss:  0.009002     Train Acc:     99.88%      Val Acc:      90.4%
+2023-11-22 05:17:38 INFO     step_size_0.03-batch_size_500-max_epochs_1000-number_of_layers_10
+2023-11-22 05:17:39 INFO     Loaded train: (5000, 784)
+2023-11-22 05:17:39 INFO     Loaded val: (1000, 784)
+2023-11-22 05:17:39 INFO     Loaded test: (4220, 784)
+2023-11-22 05:18:09 INFO     [Epoch 995]   Loss:   0.08252     Train Acc:     97.88%      Val Acc:      89.6%
+2023-11-22 05:18:09 INFO     [Epoch 996]   Loss:     0.073     Train Acc:     98.16%      Val Acc:      89.4%
+2023-11-22 05:18:09 INFO     [Epoch 997]   Loss:   0.07342     Train Acc:     98.02%      Val Acc:      89.2%
+2023-11-22 05:18:09 INFO     [Epoch 998]   Loss:    0.5725     Train Acc:     88.62%      Val Acc:      85.8%
+2023-11-22 05:18:09 INFO     [Epoch 999]   Loss:    0.2107     Train Acc:      94.4%      Val Acc:      88.3%
+2023-11-22 05:18:10 INFO     step_size_0.03-batch_size_1000-max_epochs_200-number_of_layers_2
+2023-11-22 05:18:10 INFO     Loaded train: (5000, 784)
+2023-11-22 05:18:10 INFO     Loaded val: (1000, 784)
+2023-11-22 05:18:10 INFO     Loaded test: (4220, 784)
+2023-11-22 05:18:16 INFO     [Epoch 195]   Loss:    0.2953     Train Acc:     91.84%      Val Acc:      91.2%
+2023-11-22 05:18:16 INFO     [Epoch 196]   Loss:    0.2944     Train Acc:     91.92%      Val Acc:      91.3%
+2023-11-22 05:18:16 INFO     [Epoch 197]   Loss:    0.2938     Train Acc:     91.98%      Val Acc:      91.1%
+2023-11-22 05:18:16 INFO     [Epoch 198]   Loss:     0.294     Train Acc:      92.0%      Val Acc:      91.0%
+2023-11-22 05:18:16 INFO     [Epoch 199]   Loss:    0.2927     Train Acc:     92.02%      Val Acc:      91.2%
+2023-11-22 05:18:16 INFO     step_size_0.03-batch_size_1000-max_epochs_200-number_of_layers_5
+2023-11-22 05:18:17 INFO     Loaded train: (5000, 784)
+2023-11-22 05:18:17 INFO     Loaded val: (1000, 784)
+2023-11-22 05:18:17 INFO     Loaded test: (4220, 784)
+2023-11-22 05:18:21 INFO     [Epoch 195]   Loss:    0.3005     Train Acc:     90.78%      Val Acc:      87.7%
+2023-11-22 05:18:21 INFO     [Epoch 196]   Loss:    0.4351     Train Acc:      85.3%      Val Acc:      81.4%
+2023-11-22 05:18:21 INFO     [Epoch 197]   Loss:    0.8153     Train Acc:     75.24%      Val Acc:      88.3%
+2023-11-22 05:18:21 INFO     [Epoch 198]   Loss:    0.3178     Train Acc:      90.6%      Val Acc:      90.2%
+2023-11-22 05:18:21 INFO     [Epoch 199]   Loss:    0.2771     Train Acc:     92.04%      Val Acc:      90.0%
+2023-11-22 05:18:22 INFO     step_size_0.03-batch_size_1000-max_epochs_200-number_of_layers_10
+2023-11-22 05:18:22 INFO     Loaded train: (5000, 784)
+2023-11-22 05:18:22 INFO     Loaded val: (1000, 784)
+2023-11-22 05:18:22 INFO     Loaded test: (4220, 784)
+2023-11-22 05:18:28 INFO     [Epoch 195]   Loss:    0.4581     Train Acc:     85.98%      Val Acc:      84.1%
+2023-11-22 05:18:28 INFO     [Epoch 196]   Loss:    0.7182     Train Acc:     77.78%      Val Acc:      82.2%
+2023-11-22 05:18:28 INFO     [Epoch 197]   Loss:    0.4752     Train Acc:     85.38%      Val Acc:      85.7%
+2023-11-22 05:18:28 INFO     [Epoch 198]   Loss:    0.4276     Train Acc:     87.24%      Val Acc:      85.7%
+2023-11-22 05:18:28 INFO     [Epoch 199]   Loss:    0.4118     Train Acc:     88.02%      Val Acc:      86.6%
+2023-11-22 05:18:28 INFO     step_size_0.03-batch_size_1000-max_epochs_500-number_of_layers_2
+2023-11-22 05:18:29 INFO     Loaded train: (5000, 784)
+2023-11-22 05:18:29 INFO     Loaded val: (1000, 784)
+2023-11-22 05:18:29 INFO     Loaded test: (4220, 784)
+2023-11-22 05:18:38 INFO     [Epoch 495]   Loss:    0.1952     Train Acc:     94.66%      Val Acc:      91.9%
+2023-11-22 05:18:38 INFO     [Epoch 496]   Loss:    0.1951     Train Acc:     94.72%      Val Acc:      92.0%
+2023-11-22 05:18:38 INFO     [Epoch 497]   Loss:    0.1947     Train Acc:     94.62%      Val Acc:      92.0%
+2023-11-22 05:18:38 INFO     [Epoch 498]   Loss:    0.1945     Train Acc:     94.62%      Val Acc:      92.0%
+2023-11-22 05:18:39 INFO     [Epoch 499]   Loss:    0.1943     Train Acc:     94.68%      Val Acc:      91.9%
+2023-11-22 05:18:39 INFO     step_size_0.03-batch_size_1000-max_epochs_500-number_of_layers_5
+2023-11-22 05:18:40 INFO     Loaded train: (5000, 784)
+2023-11-22 05:18:40 INFO     Loaded val: (1000, 784)
+2023-11-22 05:18:40 INFO     Loaded test: (4220, 784)
+2023-11-22 05:18:53 INFO     [Epoch 495]   Loss:   0.09358     Train Acc:     97.42%      Val Acc:      93.3%
+2023-11-22 05:18:53 INFO     [Epoch 496]   Loss:   0.09464     Train Acc:     97.48%      Val Acc:      92.5%
+2023-11-22 05:18:53 INFO     [Epoch 497]   Loss:    0.0956     Train Acc:     97.32%      Val Acc:      93.3%
+2023-11-22 05:18:53 INFO     [Epoch 498]   Loss:   0.09257     Train Acc:      97.6%      Val Acc:      93.0%
+2023-11-22 05:18:53 INFO     [Epoch 499]   Loss:   0.09054     Train Acc:     97.74%      Val Acc:      93.7%
+2023-11-22 05:18:53 INFO     step_size_0.03-batch_size_1000-max_epochs_500-number_of_layers_10
+2023-11-22 05:18:54 INFO     Loaded train: (5000, 784)
+2023-11-22 05:18:54 INFO     Loaded val: (1000, 784)
+2023-11-22 05:18:54 INFO     Loaded test: (4220, 784)
+2023-11-22 05:19:07 INFO     [Epoch 495]   Loss:    0.1063     Train Acc:     97.28%      Val Acc:      91.0%
+2023-11-22 05:19:07 INFO     [Epoch 496]   Loss:    0.1082     Train Acc:     96.92%      Val Acc:      90.2%
+2023-11-22 05:19:07 INFO     [Epoch 497]   Loss:    0.1167     Train Acc:     96.66%      Val Acc:      91.0%
+2023-11-22 05:19:07 INFO     [Epoch 498]   Loss:    0.1079     Train Acc:     97.08%      Val Acc:      91.3%
+2023-11-22 05:19:07 INFO     [Epoch 499]   Loss:    0.1549     Train Acc:     95.26%      Val Acc:      87.9%
+2023-11-22 05:19:07 INFO     step_size_0.03-batch_size_1000-max_epochs_1000-number_of_layers_2
+2023-11-22 05:19:08 INFO     Loaded train: (5000, 784)
+2023-11-22 05:19:08 INFO     Loaded val: (1000, 784)
+2023-11-22 05:19:08 INFO     Loaded test: (4220, 784)
+2023-11-22 05:19:25 INFO     [Epoch 995]   Loss:    0.1421     Train Acc:     96.44%      Val Acc:      91.7%
+2023-11-22 05:19:25 INFO     [Epoch 996]   Loss:    0.1422     Train Acc:     96.46%      Val Acc:      91.5%
+2023-11-22 05:19:26 INFO     [Epoch 997]   Loss:    0.1421     Train Acc:     96.46%      Val Acc:      91.8%
+2023-11-22 05:19:26 INFO     [Epoch 998]   Loss:    0.1418     Train Acc:     96.46%      Val Acc:      91.6%
+2023-11-22 05:19:26 INFO     [Epoch 999]   Loss:    0.1414     Train Acc:     96.44%      Val Acc:      91.8%
+2023-11-22 05:19:26 INFO     step_size_0.03-batch_size_1000-max_epochs_1000-number_of_layers_5
+2023-11-22 05:19:27 INFO     Loaded train: (5000, 784)
+2023-11-22 05:19:27 INFO     Loaded val: (1000, 784)
+2023-11-22 05:19:27 INFO     Loaded test: (4220, 784)
+2023-11-22 05:19:48 INFO     [Epoch 995]   Loss:    0.0169     Train Acc:     99.84%      Val Acc:      90.9%
+2023-11-22 05:19:48 INFO     [Epoch 996]   Loss:   0.01702     Train Acc:     99.84%      Val Acc:      91.1%
+2023-11-22 05:19:48 INFO     [Epoch 997]   Loss:    0.0168     Train Acc:     99.84%      Val Acc:      91.1%
+2023-11-22 05:19:48 INFO     [Epoch 998]   Loss:    0.0169     Train Acc:     99.82%      Val Acc:      91.1%
+2023-11-22 05:19:48 INFO     [Epoch 999]   Loss:   0.01681     Train Acc:     99.84%      Val Acc:      91.2%
+2023-11-22 05:19:48 INFO     step_size_0.03-batch_size_1000-max_epochs_1000-number_of_layers_10
+2023-11-22 05:19:49 INFO     Loaded train: (5000, 784)
+2023-11-22 05:19:49 INFO     Loaded val: (1000, 784)
+2023-11-22 05:19:49 INFO     Loaded test: (4220, 784)
+2023-11-22 05:20:14 INFO     [Epoch 995]   Loss:   0.04957     Train Acc:      98.8%      Val Acc:      89.6%
+2023-11-22 05:20:14 INFO     [Epoch 996]   Loss:   0.05388     Train Acc:     98.72%      Val Acc:      89.3%
+2023-11-22 05:20:14 INFO     [Epoch 997]   Loss:   0.04887     Train Acc:     98.84%      Val Acc:      89.1%
+2023-11-22 05:20:14 INFO     [Epoch 998]   Loss:   0.04687     Train Acc:     98.88%      Val Acc:      89.4%
+2023-11-22 05:20:14 INFO     [Epoch 999]   Loss:   0.04749     Train Acc:     98.88%      Val Acc:      88.7%
+2023-11-22 05:20:14 INFO     step_size_0.01-batch_size_200-max_epochs_200-number_of_layers_2
+2023-11-22 05:20:15 INFO     Loaded train: (5000, 784)
+2023-11-22 05:20:15 INFO     Loaded val: (1000, 784)
+2023-11-22 05:20:15 INFO     Loaded test: (4220, 784)
+2023-11-22 05:20:22 INFO     [Epoch 195]   Loss:    0.2377     Train Acc:     93.46%      Val Acc:      91.0%
+2023-11-22 05:20:22 INFO     [Epoch 196]   Loss:    0.2373     Train Acc:     93.52%      Val Acc:      90.9%
+2023-11-22 05:20:22 INFO     [Epoch 197]   Loss:    0.2368     Train Acc:     93.56%      Val Acc:      91.1%
+2023-11-22 05:20:22 INFO     [Epoch 198]   Loss:    0.2364     Train Acc:     93.44%      Val Acc:      91.1%
+2023-11-22 05:20:22 INFO     [Epoch 199]   Loss:    0.2354     Train Acc:     93.42%      Val Acc:      90.8%
+2023-11-22 05:20:22 INFO     step_size_0.01-batch_size_200-max_epochs_200-number_of_layers_5
+2023-11-22 05:20:23 INFO     Loaded train: (5000, 784)
+2023-11-22 05:20:23 INFO     Loaded val: (1000, 784)
+2023-11-22 05:20:23 INFO     Loaded test: (4220, 784)
+2023-11-22 05:20:31 INFO     [Epoch 195]   Loss:    0.1385     Train Acc:      95.9%      Val Acc:      90.5%
+2023-11-22 05:20:31 INFO     [Epoch 196]   Loss:    0.1357     Train Acc:     96.04%      Val Acc:      90.7%
+2023-11-22 05:20:31 INFO     [Epoch 197]   Loss:     0.134     Train Acc:     96.06%      Val Acc:      90.3%
+2023-11-22 05:20:31 INFO     [Epoch 198]   Loss:    0.1364     Train Acc:     96.12%      Val Acc:      90.3%
+2023-11-22 05:20:31 INFO     [Epoch 199]   Loss:    0.1366     Train Acc:     95.94%      Val Acc:      89.7%
+2023-11-22 05:20:32 INFO     step_size_0.01-batch_size_200-max_epochs_200-number_of_layers_10
+2023-11-22 05:20:33 INFO     Loaded train: (5000, 784)
+2023-11-22 05:20:33 INFO     Loaded val: (1000, 784)
+2023-11-22 05:20:33 INFO     Loaded test: (4220, 784)
+2023-11-22 05:20:41 INFO     [Epoch 195]   Loss:    0.0801     Train Acc:     97.96%      Val Acc:      60.5%
+2023-11-22 05:20:41 INFO     [Epoch 196]   Loss:     1.642     Train Acc:      65.7%      Val Acc:      87.9%
+2023-11-22 05:20:41 INFO     [Epoch 197]   Loss:    0.1694     Train Acc:     95.26%      Val Acc:      89.8%
+2023-11-22 05:20:41 INFO     [Epoch 198]   Loss:   0.09979     Train Acc:      97.5%      Val Acc:      90.7%
+2023-11-22 05:20:41 INFO     [Epoch 199]   Loss:   0.08292     Train Acc:     98.02%      Val Acc:      91.3%
+2023-11-22 05:20:41 INFO     step_size_0.01-batch_size_200-max_epochs_500-number_of_layers_2
+2023-11-22 05:20:42 INFO     Loaded train: (5000, 784)
+2023-11-22 05:20:42 INFO     Loaded val: (1000, 784)
+2023-11-22 05:20:42 INFO     Loaded test: (4220, 784)
+2023-11-22 05:21:00 INFO     [Epoch 495]   Loss:    0.1611     Train Acc:     95.98%      Val Acc:      91.5%
+2023-11-22 05:21:00 INFO     [Epoch 496]   Loss:    0.1613     Train Acc:     95.92%      Val Acc:      91.3%
+2023-11-22 05:21:00 INFO     [Epoch 497]   Loss:    0.1611     Train Acc:     95.96%      Val Acc:      91.4%
+2023-11-22 05:21:00 INFO     [Epoch 498]   Loss:    0.1608     Train Acc:      95.9%      Val Acc:      91.4%
+2023-11-22 05:21:00 INFO     [Epoch 499]   Loss:    0.1605     Train Acc:     95.94%      Val Acc:      91.5%
+2023-11-22 05:21:00 INFO     step_size_0.01-batch_size_200-max_epochs_500-number_of_layers_5
+2023-11-22 05:21:01 INFO     Loaded train: (5000, 784)
+2023-11-22 05:21:01 INFO     Loaded val: (1000, 784)
+2023-11-22 05:21:01 INFO     Loaded test: (4220, 784)
+2023-11-22 05:21:21 INFO     [Epoch 495]   Loss:   0.02504     Train Acc:     99.72%      Val Acc:      90.6%
+2023-11-22 05:21:21 INFO     [Epoch 496]   Loss:   0.02441     Train Acc:     99.76%      Val Acc:      90.6%
+2023-11-22 05:21:21 INFO     [Epoch 497]   Loss:   0.02522     Train Acc:     99.72%      Val Acc:      90.7%
+2023-11-22 05:21:21 INFO     [Epoch 498]   Loss:   0.02412     Train Acc:     99.78%      Val Acc:      90.8%
+2023-11-22 05:21:21 INFO     [Epoch 499]   Loss:   0.02393     Train Acc:     99.76%      Val Acc:      90.6%
+2023-11-22 05:21:21 INFO     step_size_0.01-batch_size_200-max_epochs_500-number_of_layers_10
+2023-11-22 05:21:22 INFO     Loaded train: (5000, 784)
+2023-11-22 05:21:22 INFO     Loaded val: (1000, 784)
+2023-11-22 05:21:22 INFO     Loaded test: (4220, 784)
+2023-11-22 05:21:46 INFO     [Epoch 495]   Loss:   0.01144     Train Acc:      99.8%      Val Acc:      91.0%
+2023-11-22 05:21:46 INFO     [Epoch 496]   Loss:   0.01136     Train Acc:     99.76%      Val Acc:      91.3%
+2023-11-22 05:21:46 INFO     [Epoch 497]   Loss:   0.01172     Train Acc:     99.76%      Val Acc:      91.1%
+2023-11-22 05:21:46 INFO     [Epoch 498]   Loss:   0.01124     Train Acc:     99.78%      Val Acc:      91.1%
+2023-11-22 05:21:46 INFO     [Epoch 499]   Loss:   0.01139     Train Acc:     99.78%      Val Acc:      91.1%
+2023-11-22 05:21:46 INFO     step_size_0.01-batch_size_200-max_epochs_1000-number_of_layers_2
+2023-11-22 05:21:47 INFO     Loaded train: (5000, 784)
+2023-11-22 05:21:47 INFO     Loaded val: (1000, 784)
+2023-11-22 05:21:47 INFO     Loaded test: (4220, 784)
+2023-11-22 05:22:23 INFO     [Epoch 995]   Loss:   0.09869     Train Acc:      97.9%      Val Acc:      92.0%
+2023-11-22 05:22:23 INFO     [Epoch 996]   Loss:   0.09864     Train Acc:      97.9%      Val Acc:      92.0%
+2023-11-22 05:22:23 INFO     [Epoch 997]   Loss:   0.09854     Train Acc:     97.88%      Val Acc:      91.8%
+2023-11-22 05:22:23 INFO     [Epoch 998]   Loss:   0.09827     Train Acc:     97.94%      Val Acc:      92.0%
+2023-11-22 05:22:23 INFO     [Epoch 999]   Loss:   0.09825     Train Acc:     98.02%      Val Acc:      91.8%
+2023-11-22 05:22:23 INFO     step_size_0.01-batch_size_200-max_epochs_1000-number_of_layers_5
+2023-11-22 05:22:24 INFO     Loaded train: (5000, 784)
+2023-11-22 05:22:24 INFO     Loaded val: (1000, 784)
+2023-11-22 05:22:24 INFO     Loaded test: (4220, 784)
+2023-11-22 05:23:06 INFO     [Epoch 995]   Loss:  0.002045     Train Acc:     100.0%      Val Acc:      90.9%
+2023-11-22 05:23:06 INFO     [Epoch 996]   Loss:  0.002042     Train Acc:     100.0%      Val Acc:      91.1%
+2023-11-22 05:23:06 INFO     [Epoch 997]   Loss:  0.002037     Train Acc:     100.0%      Val Acc:      91.0%
+2023-11-22 05:23:06 INFO     [Epoch 998]   Loss:  0.002037     Train Acc:     100.0%      Val Acc:      91.0%
+2023-11-22 05:23:06 INFO     [Epoch 999]   Loss:  0.002042     Train Acc:     100.0%      Val Acc:      91.1%
+2023-11-22 05:23:06 INFO     step_size_0.01-batch_size_200-max_epochs_1000-number_of_layers_10
+2023-11-22 05:23:07 INFO     Loaded train: (5000, 784)
+2023-11-22 05:23:07 INFO     Loaded val: (1000, 784)
+2023-11-22 05:23:07 INFO     Loaded test: (4220, 784)
+2023-11-22 05:23:55 INFO     [Epoch 995]   Loss:  0.0005264     Train Acc:     100.0%      Val Acc:      90.0%
+2023-11-22 05:23:55 INFO     [Epoch 996]   Loss:  0.0005228     Train Acc:     100.0%      Val Acc:      90.2%
+2023-11-22 05:23:55 INFO     [Epoch 997]   Loss:  0.0005218     Train Acc:     100.0%      Val Acc:      90.2%
+2023-11-22 05:23:55 INFO     [Epoch 998]   Loss:  0.0005204     Train Acc:     100.0%      Val Acc:      90.1%
+2023-11-22 05:23:55 INFO     [Epoch 999]   Loss:  0.0005203     Train Acc:     100.0%      Val Acc:      90.1%
+2023-11-22 05:23:55 INFO     step_size_0.01-batch_size_300-max_epochs_200-number_of_layers_2
+2023-11-22 05:23:56 INFO     Loaded train: (5000, 784)
+2023-11-22 05:23:56 INFO     Loaded val: (1000, 784)
+2023-11-22 05:23:56 INFO     Loaded test: (4220, 784)
+2023-11-22 05:24:03 INFO     [Epoch 195]   Loss:    0.2997     Train Acc:     91.78%      Val Acc:      90.2%
+2023-11-22 05:24:03 INFO     [Epoch 196]   Loss:    0.2995     Train Acc:     91.84%      Val Acc:      90.6%
+2023-11-22 05:24:03 INFO     [Epoch 197]   Loss:    0.2987     Train Acc:      91.8%      Val Acc:      90.4%
+2023-11-22 05:24:03 INFO     [Epoch 198]   Loss:    0.2979     Train Acc:     91.94%      Val Acc:      90.2%
+2023-11-22 05:24:03 INFO     [Epoch 199]   Loss:    0.2973     Train Acc:     91.84%      Val Acc:      90.5%
+2023-11-22 05:24:03 INFO     step_size_0.01-batch_size_300-max_epochs_200-number_of_layers_5
+2023-11-22 05:24:04 INFO     Loaded train: (5000, 784)
+2023-11-22 05:24:04 INFO     Loaded val: (1000, 784)
+2023-11-22 05:24:04 INFO     Loaded test: (4220, 784)
+2023-11-22 05:24:10 INFO     [Epoch 195]   Loss:    0.1614     Train Acc:     95.46%      Val Acc:      90.9%
+2023-11-22 05:24:10 INFO     [Epoch 196]   Loss:    0.1518     Train Acc:      96.0%      Val Acc:      90.7%
+2023-11-22 05:24:10 INFO     [Epoch 197]   Loss:    0.1498     Train Acc:     96.04%      Val Acc:      91.5%
+2023-11-22 05:24:10 INFO     [Epoch 198]   Loss:    0.1541     Train Acc:      95.7%      Val Acc:      91.1%
+2023-11-22 05:24:10 INFO     [Epoch 199]   Loss:    0.1495     Train Acc:      96.0%      Val Acc:      90.8%
+2023-11-22 05:24:11 INFO     step_size_0.01-batch_size_300-max_epochs_200-number_of_layers_10
+2023-11-22 05:24:12 INFO     Loaded train: (5000, 784)
+2023-11-22 05:24:12 INFO     Loaded val: (1000, 784)
+2023-11-22 05:24:12 INFO     Loaded test: (4220, 784)
+2023-11-22 05:24:19 INFO     [Epoch 195]   Loss:     0.202     Train Acc:     94.56%      Val Acc:      87.8%
+2023-11-22 05:24:19 INFO     [Epoch 196]   Loss:    0.2149     Train Acc:     94.42%      Val Acc:      88.1%
+2023-11-22 05:24:19 INFO     [Epoch 197]   Loss:    0.1882     Train Acc:     95.08%      Val Acc:      88.5%
+2023-11-22 05:24:19 INFO     [Epoch 198]   Loss:    0.1873     Train Acc:      95.1%      Val Acc:      88.1%
+2023-11-22 05:24:19 INFO     [Epoch 199]   Loss:     0.202     Train Acc:     94.12%      Val Acc:      88.9%
+2023-11-22 05:24:20 INFO     step_size_0.01-batch_size_300-max_epochs_500-number_of_layers_2
+2023-11-22 05:24:21 INFO     Loaded train: (5000, 784)
+2023-11-22 05:24:21 INFO     Loaded val: (1000, 784)
+2023-11-22 05:24:21 INFO     Loaded test: (4220, 784)
+2023-11-22 05:24:36 INFO     [Epoch 495]   Loss:    0.1867     Train Acc:     95.22%      Val Acc:      91.5%
+2023-11-22 05:24:36 INFO     [Epoch 496]   Loss:    0.1865     Train Acc:      95.1%      Val Acc:      91.6%
+2023-11-22 05:24:36 INFO     [Epoch 497]   Loss:    0.1863     Train Acc:     95.02%      Val Acc:      91.6%
+2023-11-22 05:24:36 INFO     [Epoch 498]   Loss:    0.1861     Train Acc:     95.12%      Val Acc:      91.4%
+2023-11-22 05:24:36 INFO     [Epoch 499]   Loss:    0.1859     Train Acc:      95.1%      Val Acc:      91.4%
+2023-11-22 05:24:36 INFO     step_size_0.01-batch_size_300-max_epochs_500-number_of_layers_5
+2023-11-22 05:24:37 INFO     Loaded train: (5000, 784)
+2023-11-22 05:24:37 INFO     Loaded val: (1000, 784)
+2023-11-22 05:24:37 INFO     Loaded test: (4220, 784)
+2023-11-22 05:24:54 INFO     [Epoch 495]   Loss:   0.03234     Train Acc:     99.64%      Val Acc:      91.5%
+2023-11-22 05:24:54 INFO     [Epoch 496]   Loss:   0.03264     Train Acc:     99.62%      Val Acc:      91.6%
+2023-11-22 05:24:54 INFO     [Epoch 497]   Loss:   0.03271     Train Acc:     99.62%      Val Acc:      91.4%
+2023-11-22 05:24:54 INFO     [Epoch 498]   Loss:   0.03284     Train Acc:      99.6%      Val Acc:      91.9%
+2023-11-22 05:24:54 INFO     [Epoch 499]   Loss:   0.03296     Train Acc:     99.64%      Val Acc:      91.7%
+2023-11-22 05:24:54 INFO     step_size_0.01-batch_size_300-max_epochs_500-number_of_layers_10
+2023-11-22 05:24:55 INFO     Loaded train: (5000, 784)
+2023-11-22 05:24:55 INFO     Loaded val: (1000, 784)
+2023-11-22 05:24:55 INFO     Loaded test: (4220, 784)
+2023-11-22 05:25:15 INFO     [Epoch 495]   Loss:   0.01645     Train Acc:     99.68%      Val Acc:      90.4%
+2023-11-22 05:25:15 INFO     [Epoch 496]   Loss:   0.01641     Train Acc:     99.68%      Val Acc:      90.3%
+2023-11-22 05:25:15 INFO     [Epoch 497]   Loss:   0.01626     Train Acc:      99.7%      Val Acc:      90.3%
+2023-11-22 05:25:15 INFO     [Epoch 498]   Loss:   0.01615     Train Acc:     99.66%      Val Acc:      90.3%
+2023-11-22 05:25:15 INFO     [Epoch 499]   Loss:   0.01622     Train Acc:     99.68%      Val Acc:      90.4%
+2023-11-22 05:25:15 INFO     step_size_0.01-batch_size_300-max_epochs_1000-number_of_layers_2
+2023-11-22 05:25:16 INFO     Loaded train: (5000, 784)
+2023-11-22 05:25:16 INFO     Loaded val: (1000, 784)
+2023-11-22 05:25:16 INFO     Loaded test: (4220, 784)
+2023-11-22 05:25:45 INFO     [Epoch 995]   Loss:    0.1386     Train Acc:      96.6%      Val Acc:      91.6%
+2023-11-22 05:25:46 INFO     [Epoch 996]   Loss:    0.1385     Train Acc:     96.58%      Val Acc:      91.3%
+2023-11-22 05:25:46 INFO     [Epoch 997]   Loss:    0.1384     Train Acc:     96.52%      Val Acc:      91.8%
+2023-11-22 05:25:46 INFO     [Epoch 998]   Loss:    0.1386     Train Acc:     96.62%      Val Acc:      91.8%
+2023-11-22 05:25:46 INFO     [Epoch 999]   Loss:    0.1382     Train Acc:     96.64%      Val Acc:      91.7%
+2023-11-22 05:25:46 INFO     step_size_0.01-batch_size_300-max_epochs_1000-number_of_layers_5
+2023-11-22 05:25:47 INFO     Loaded train: (5000, 784)
+2023-11-22 05:25:47 INFO     Loaded val: (1000, 784)
+2023-11-22 05:25:47 INFO     Loaded test: (4220, 784)
+2023-11-22 05:26:21 INFO     [Epoch 995]   Loss:  0.006209     Train Acc:     100.0%      Val Acc:      91.1%
+2023-11-22 05:26:21 INFO     [Epoch 996]   Loss:  0.006167     Train Acc:     100.0%      Val Acc:      91.0%
+2023-11-22 05:26:21 INFO     [Epoch 997]   Loss:  0.006266     Train Acc:     100.0%      Val Acc:      90.9%
+2023-11-22 05:26:21 INFO     [Epoch 998]   Loss:  0.006292     Train Acc:     100.0%      Val Acc:      91.0%
+2023-11-22 05:26:21 INFO     [Epoch 999]   Loss:  0.006232     Train Acc:     100.0%      Val Acc:      91.0%
+2023-11-22 05:26:21 INFO     step_size_0.01-batch_size_300-max_epochs_1000-number_of_layers_10
+2023-11-22 05:26:22 INFO     Loaded train: (5000, 784)
+2023-11-22 05:26:22 INFO     Loaded val: (1000, 784)
+2023-11-22 05:26:22 INFO     Loaded test: (4220, 784)
+2023-11-22 05:27:00 INFO     [Epoch 995]   Loss:   0.04166     Train Acc:      99.2%      Val Acc:      89.5%
+2023-11-22 05:27:00 INFO     [Epoch 996]   Loss:   0.04112     Train Acc:     99.22%      Val Acc:      89.7%
+2023-11-22 05:27:00 INFO     [Epoch 997]   Loss:   0.04263     Train Acc:      99.2%      Val Acc:      89.9%
+2023-11-22 05:27:01 INFO     [Epoch 998]   Loss:   0.04019     Train Acc:     99.26%      Val Acc:      89.8%
+2023-11-22 05:27:01 INFO     [Epoch 999]   Loss:   0.04043     Train Acc:     99.24%      Val Acc:      89.6%
+2023-11-22 05:27:01 INFO     step_size_0.01-batch_size_500-max_epochs_200-number_of_layers_2
+2023-11-22 05:27:02 INFO     Loaded train: (5000, 784)
+2023-11-22 05:27:02 INFO     Loaded val: (1000, 784)
+2023-11-22 05:27:02 INFO     Loaded test: (4220, 784)
+2023-11-22 05:27:07 INFO     [Epoch 195]   Loss:    0.3507     Train Acc:      90.4%      Val Acc:      90.9%
+2023-11-22 05:27:07 INFO     [Epoch 196]   Loss:    0.3501     Train Acc:     90.44%      Val Acc:      90.6%
+2023-11-22 05:27:07 INFO     [Epoch 197]   Loss:    0.3492     Train Acc:     90.56%      Val Acc:      90.8%
+2023-11-22 05:27:07 INFO     [Epoch 198]   Loss:    0.3487     Train Acc:      90.6%      Val Acc:      90.7%
+2023-11-22 05:27:07 INFO     [Epoch 199]   Loss:    0.3477     Train Acc:     90.38%      Val Acc:      90.5%
+2023-11-22 05:27:08 INFO     step_size_0.01-batch_size_500-max_epochs_200-number_of_layers_5
+2023-11-22 05:27:09 INFO     Loaded train: (5000, 784)
+2023-11-22 05:27:09 INFO     Loaded val: (1000, 784)
+2023-11-22 05:27:09 INFO     Loaded test: (4220, 784)
+2023-11-22 05:27:13 INFO     [Epoch 195]   Loss:    0.2221     Train Acc:      94.0%      Val Acc:      91.0%
+2023-11-22 05:27:13 INFO     [Epoch 196]   Loss:    0.2253     Train Acc:      93.9%      Val Acc:      90.8%
+2023-11-22 05:27:13 INFO     [Epoch 197]   Loss:    0.2177     Train Acc:     94.24%      Val Acc:      91.1%
+2023-11-22 05:27:13 INFO     [Epoch 198]   Loss:    0.2184     Train Acc:     94.18%      Val Acc:      91.1%
+2023-11-22 05:27:13 INFO     [Epoch 199]   Loss:    0.2136     Train Acc:     94.48%      Val Acc:      91.1%
+2023-11-22 05:27:13 INFO     step_size_0.01-batch_size_500-max_epochs_200-number_of_layers_10
+2023-11-22 05:27:14 INFO     Loaded train: (5000, 784)
+2023-11-22 05:27:14 INFO     Loaded val: (1000, 784)
+2023-11-22 05:27:14 INFO     Loaded test: (4220, 784)
+2023-11-22 05:27:21 INFO     [Epoch 195]   Loss:    0.1791     Train Acc:     95.66%      Val Acc:      91.5%
+2023-11-22 05:27:21 INFO     [Epoch 196]   Loss:    0.1829     Train Acc:     95.38%      Val Acc:      91.5%
+2023-11-22 05:27:21 INFO     [Epoch 197]   Loss:    0.1825     Train Acc:     95.36%      Val Acc:      91.2%
+2023-11-22 05:27:21 INFO     [Epoch 198]   Loss:    0.1793     Train Acc:      95.6%      Val Acc:      91.0%
+2023-11-22 05:27:21 INFO     [Epoch 199]   Loss:    0.1843     Train Acc:      95.3%      Val Acc:      91.3%
+2023-11-22 05:27:21 INFO     step_size_0.01-batch_size_500-max_epochs_500-number_of_layers_2
+2023-11-22 05:27:22 INFO     Loaded train: (5000, 784)
+2023-11-22 05:27:22 INFO     Loaded val: (1000, 784)
+2023-11-22 05:27:22 INFO     Loaded test: (4220, 784)
+2023-11-22 05:27:34 INFO     [Epoch 495]   Loss:    0.2351     Train Acc:     93.56%      Val Acc:      91.2%
+2023-11-22 05:27:34 INFO     [Epoch 496]   Loss:    0.2346     Train Acc:     93.56%      Val Acc:      91.1%
+2023-11-22 05:27:34 INFO     [Epoch 497]   Loss:    0.2345     Train Acc:      93.6%      Val Acc:      91.2%
+2023-11-22 05:27:34 INFO     [Epoch 498]   Loss:    0.2343     Train Acc:     93.44%      Val Acc:      91.3%
+2023-11-22 05:27:34 INFO     [Epoch 499]   Loss:    0.2343     Train Acc:     93.46%      Val Acc:      91.2%
+2023-11-22 05:27:35 INFO     step_size_0.01-batch_size_500-max_epochs_500-number_of_layers_5
+2023-11-22 05:27:35 INFO     Loaded train: (5000, 784)
+2023-11-22 05:27:35 INFO     Loaded val: (1000, 784)
+2023-11-22 05:27:35 INFO     Loaded test: (4220, 784)
+2023-11-22 05:27:47 INFO     [Epoch 495]   Loss:    0.1038     Train Acc:     97.16%      Val Acc:      92.5%
+2023-11-22 05:27:47 INFO     [Epoch 496]   Loss:    0.1085     Train Acc:     97.12%      Val Acc:      91.9%
+2023-11-22 05:27:47 INFO     [Epoch 497]   Loss:    0.1032     Train Acc:      97.1%      Val Acc:      92.1%
+2023-11-22 05:27:47 INFO     [Epoch 498]   Loss:       0.1     Train Acc:      97.2%      Val Acc:      92.3%
+2023-11-22 05:27:47 INFO     [Epoch 499]   Loss:   0.09974     Train Acc:     97.44%      Val Acc:      91.5%
+2023-11-22 05:27:48 INFO     step_size_0.01-batch_size_500-max_epochs_500-number_of_layers_10
+2023-11-22 05:27:49 INFO     Loaded train: (5000, 784)
+2023-11-22 05:27:49 INFO     Loaded val: (1000, 784)
+2023-11-22 05:27:49 INFO     Loaded test: (4220, 784)
+2023-11-22 05:28:04 INFO     [Epoch 495]   Loss:    0.1012     Train Acc:      97.7%      Val Acc:      90.6%
+2023-11-22 05:28:04 INFO     [Epoch 496]   Loss:    0.1035     Train Acc:      97.6%      Val Acc:      90.6%
+2023-11-22 05:28:04 INFO     [Epoch 497]   Loss:    0.1048     Train Acc:     97.64%      Val Acc:      90.9%
+2023-11-22 05:28:04 INFO     [Epoch 498]   Loss:     0.102     Train Acc:     97.64%      Val Acc:      90.8%
+2023-11-22 05:28:04 INFO     [Epoch 499]   Loss:    0.1003     Train Acc:     97.64%      Val Acc:      90.9%
+2023-11-22 05:28:05 INFO     step_size_0.01-batch_size_500-max_epochs_1000-number_of_layers_2
+2023-11-22 05:28:06 INFO     Loaded train: (5000, 784)
+2023-11-22 05:28:06 INFO     Loaded val: (1000, 784)
+2023-11-22 05:28:06 INFO     Loaded test: (4220, 784)
+2023-11-22 05:28:28 INFO     [Epoch 995]   Loss:    0.1847     Train Acc:     94.98%      Val Acc:      91.8%
+2023-11-22 05:28:28 INFO     [Epoch 996]   Loss:    0.1845     Train Acc:     95.02%      Val Acc:      91.8%
+2023-11-22 05:28:28 INFO     [Epoch 997]   Loss:    0.1843     Train Acc:     95.08%      Val Acc:      91.8%
+2023-11-22 05:28:28 INFO     [Epoch 998]   Loss:    0.1843     Train Acc:     95.02%      Val Acc:      91.7%
+2023-11-22 05:28:28 INFO     [Epoch 999]   Loss:    0.1842     Train Acc:      95.0%      Val Acc:      91.7%
+2023-11-22 05:28:28 INFO     step_size_0.01-batch_size_500-max_epochs_1000-number_of_layers_5
+2023-11-22 05:28:29 INFO     Loaded train: (5000, 784)
+2023-11-22 05:28:29 INFO     Loaded val: (1000, 784)
+2023-11-22 05:28:29 INFO     Loaded test: (4220, 784)
+2023-11-22 05:28:54 INFO     [Epoch 995]   Loss:   0.02602     Train Acc:     99.78%      Val Acc:      91.6%
+2023-11-22 05:28:54 INFO     [Epoch 996]   Loss:   0.02622     Train Acc:     99.76%      Val Acc:      91.6%
+2023-11-22 05:28:54 INFO     [Epoch 997]   Loss:   0.02647     Train Acc:     99.76%      Val Acc:      91.5%
+2023-11-22 05:28:54 INFO     [Epoch 998]   Loss:   0.02588     Train Acc:      99.8%      Val Acc:      91.7%
+2023-11-22 05:28:54 INFO     [Epoch 999]   Loss:    0.0262     Train Acc:     99.78%      Val Acc:      91.3%
+2023-11-22 05:28:55 INFO     step_size_0.01-batch_size_500-max_epochs_1000-number_of_layers_10
+2023-11-22 05:28:56 INFO     Loaded train: (5000, 784)
+2023-11-22 05:28:56 INFO     Loaded val: (1000, 784)
+2023-11-22 05:28:56 INFO     Loaded test: (4220, 784)
+2023-11-22 05:29:25 INFO     [Epoch 995]   Loss:   0.03745     Train Acc:      99.1%      Val Acc:      88.3%
+2023-11-22 05:29:25 INFO     [Epoch 996]   Loss:   0.03748     Train Acc:      99.1%      Val Acc:      88.6%
+2023-11-22 05:29:25 INFO     [Epoch 997]   Loss:   0.03748     Train Acc:     99.06%      Val Acc:      88.5%
+2023-11-22 05:29:25 INFO     [Epoch 998]   Loss:   0.03645     Train Acc:     99.18%      Val Acc:      88.9%
+2023-11-22 05:29:25 INFO     [Epoch 999]   Loss:      0.05     Train Acc:     98.68%      Val Acc:      88.6%
+2023-11-22 05:29:25 INFO     step_size_0.01-batch_size_1000-max_epochs_200-number_of_layers_2
+2023-11-22 05:29:26 INFO     Loaded train: (5000, 784)
+2023-11-22 05:29:26 INFO     Loaded val: (1000, 784)
+2023-11-22 05:29:26 INFO     Loaded test: (4220, 784)
+2023-11-22 05:29:30 INFO     [Epoch 195]   Loss:    0.4284     Train Acc:     89.28%      Val Acc:      89.5%
+2023-11-22 05:29:30 INFO     [Epoch 196]   Loss:    0.4276     Train Acc:      89.3%      Val Acc:      89.4%
+2023-11-22 05:29:30 INFO     [Epoch 197]   Loss:    0.4264     Train Acc:      89.3%      Val Acc:      89.4%
+2023-11-22 05:29:30 INFO     [Epoch 198]   Loss:    0.4255     Train Acc:     89.32%      Val Acc:      89.6%
+2023-11-22 05:29:30 INFO     [Epoch 199]   Loss:    0.4245     Train Acc:     89.36%      Val Acc:      89.2%
+2023-11-22 05:29:30 INFO     step_size_0.01-batch_size_1000-max_epochs_200-number_of_layers_5
+2023-11-22 05:29:31 INFO     Loaded train: (5000, 784)
+2023-11-22 05:29:31 INFO     Loaded val: (1000, 784)
+2023-11-22 05:29:31 INFO     Loaded test: (4220, 784)
+2023-11-22 05:29:36 INFO     [Epoch 195]   Loss:    0.4099     Train Acc:     88.06%      Val Acc:      86.5%
+2023-11-22 05:29:36 INFO     [Epoch 196]   Loss:    0.4065     Train Acc:     88.16%      Val Acc:      86.6%
+2023-11-22 05:29:36 INFO     [Epoch 197]   Loss:    0.4059     Train Acc:     88.44%      Val Acc:      86.8%
+2023-11-22 05:29:36 INFO     [Epoch 198]   Loss:    0.4046     Train Acc:     88.22%      Val Acc:      87.0%
+2023-11-22 05:29:36 INFO     [Epoch 199]   Loss:    0.4031     Train Acc:     88.28%      Val Acc:      86.7%
+2023-11-22 05:29:37 INFO     step_size_0.01-batch_size_1000-max_epochs_200-number_of_layers_10
+2023-11-22 05:29:37 INFO     Loaded train: (5000, 784)
+2023-11-22 05:29:37 INFO     Loaded val: (1000, 784)
+2023-11-22 05:29:37 INFO     Loaded test: (4220, 784)
+2023-11-22 05:29:42 INFO     [Epoch 195]   Loss:    0.6881     Train Acc:     78.94%      Val Acc:      77.9%
+2023-11-22 05:29:42 INFO     [Epoch 196]   Loss:    0.7245     Train Acc:     76.02%      Val Acc:      71.2%
+2023-11-22 05:29:42 INFO     [Epoch 197]   Loss:     1.104     Train Acc:     62.32%      Val Acc:      71.2%
+2023-11-22 05:29:42 INFO     [Epoch 198]   Loss:    0.7588     Train Acc:     75.52%      Val Acc:      79.7%
+2023-11-22 05:29:42 INFO     [Epoch 199]   Loss:    0.6802     Train Acc:     79.12%      Val Acc:      80.4%
+2023-11-22 05:29:42 INFO     step_size_0.01-batch_size_1000-max_epochs_500-number_of_layers_2
+2023-11-22 05:29:43 INFO     Loaded train: (5000, 784)
+2023-11-22 05:29:43 INFO     Loaded val: (1000, 784)
+2023-11-22 05:29:43 INFO     Loaded test: (4220, 784)
+2023-11-22 05:29:52 INFO     [Epoch 495]   Loss:    0.2863     Train Acc:      92.4%      Val Acc:      91.3%
+2023-11-22 05:29:52 INFO     [Epoch 496]   Loss:    0.2862     Train Acc:     92.44%      Val Acc:      91.3%
+2023-11-22 05:29:52 INFO     [Epoch 497]   Loss:     0.286     Train Acc:     92.44%      Val Acc:      91.3%
+2023-11-22 05:29:52 INFO     [Epoch 498]   Loss:    0.2857     Train Acc:      92.4%      Val Acc:      91.2%
+2023-11-22 05:29:52 INFO     [Epoch 499]   Loss:    0.2857     Train Acc:     92.44%      Val Acc:      91.2%
+2023-11-22 05:29:53 INFO     step_size_0.01-batch_size_1000-max_epochs_500-number_of_layers_5
+2023-11-22 05:29:54 INFO     Loaded train: (5000, 784)
+2023-11-22 05:29:54 INFO     Loaded val: (1000, 784)
+2023-11-22 05:29:54 INFO     Loaded test: (4220, 784)
+2023-11-22 05:30:07 INFO     [Epoch 495]   Loss:    0.1903     Train Acc:     95.06%      Val Acc:      90.5%
+2023-11-22 05:30:07 INFO     [Epoch 496]   Loss:    0.1895     Train Acc:     95.08%      Val Acc:      90.3%
+2023-11-22 05:30:07 INFO     [Epoch 497]   Loss:    0.1888     Train Acc:     95.24%      Val Acc:      90.3%
+2023-11-22 05:30:07 INFO     [Epoch 498]   Loss:    0.1905     Train Acc:     94.82%      Val Acc:      90.3%
+2023-11-22 05:30:07 INFO     [Epoch 499]   Loss:    0.1887     Train Acc:     95.14%      Val Acc:      90.4%
+2023-11-22 05:30:08 INFO     step_size_0.01-batch_size_1000-max_epochs_500-number_of_layers_10
+2023-11-22 05:30:08 INFO     Loaded train: (5000, 784)
+2023-11-22 05:30:08 INFO     Loaded val: (1000, 784)
+2023-11-22 05:30:08 INFO     Loaded test: (4220, 784)
+2023-11-22 05:30:21 INFO     [Epoch 495]   Loss:    0.1363     Train Acc:     96.68%      Val Acc:      90.2%
+2023-11-22 05:30:21 INFO     [Epoch 496]   Loss:    0.1333     Train Acc:     96.84%      Val Acc:      89.5%
+2023-11-22 05:30:21 INFO     [Epoch 497]   Loss:    0.1381     Train Acc:     96.56%      Val Acc:      90.5%
+2023-11-22 05:30:21 INFO     [Epoch 498]   Loss:    0.1425     Train Acc:     96.28%      Val Acc:      90.1%
+2023-11-22 05:30:21 INFO     [Epoch 499]   Loss:    0.1348     Train Acc:     96.76%      Val Acc:      89.9%
+2023-11-22 05:30:22 INFO     step_size_0.01-batch_size_1000-max_epochs_1000-number_of_layers_2
+2023-11-22 05:30:23 INFO     Loaded train: (5000, 784)
+2023-11-22 05:30:23 INFO     Loaded val: (1000, 784)
+2023-11-22 05:30:23 INFO     Loaded test: (4220, 784)
+2023-11-22 05:30:44 INFO     [Epoch 995]   Loss:    0.2351     Train Acc:     93.82%      Val Acc:      91.5%
+2023-11-22 05:30:44 INFO     [Epoch 996]   Loss:    0.2351     Train Acc:     93.82%      Val Acc:      91.5%
+2023-11-22 05:30:44 INFO     [Epoch 997]   Loss:    0.2351     Train Acc:     93.76%      Val Acc:      91.5%
+2023-11-22 05:30:44 INFO     [Epoch 998]   Loss:    0.2348     Train Acc:     93.76%      Val Acc:      91.5%
+2023-11-22 05:30:44 INFO     [Epoch 999]   Loss:    0.2348     Train Acc:      93.8%      Val Acc:      91.5%
+2023-11-22 05:30:44 INFO     step_size_0.01-batch_size_1000-max_epochs_1000-number_of_layers_5
+2023-11-22 05:30:45 INFO     Loaded train: (5000, 784)
+2023-11-22 05:30:45 INFO     Loaded val: (1000, 784)
+2023-11-22 05:30:45 INFO     Loaded test: (4220, 784)
+2023-11-22 05:31:09 INFO     [Epoch 995]   Loss:    0.1026     Train Acc:     97.48%      Val Acc:      91.7%
+2023-11-22 05:31:09 INFO     [Epoch 996]   Loss:     0.104     Train Acc:      97.5%      Val Acc:      91.9%
+2023-11-22 05:31:09 INFO     [Epoch 997]   Loss:    0.1029     Train Acc:     97.46%      Val Acc:      91.9%
+2023-11-22 05:31:09 INFO     [Epoch 998]   Loss:    0.1025     Train Acc:     97.48%      Val Acc:      91.9%
+2023-11-22 05:31:09 INFO     [Epoch 999]   Loss:    0.1036     Train Acc:      97.5%      Val Acc:      91.7%
+2023-11-22 05:31:09 INFO     step_size_0.01-batch_size_1000-max_epochs_1000-number_of_layers_10
+2023-11-22 05:31:10 INFO     Loaded train: (5000, 784)
+2023-11-22 05:31:10 INFO     Loaded val: (1000, 784)
+2023-11-22 05:31:10 INFO     Loaded test: (4220, 784)
+2023-11-22 05:31:36 INFO     [Epoch 995]   Loss:    0.1257     Train Acc:      97.1%      Val Acc:      89.4%
+2023-11-22 05:31:36 INFO     [Epoch 996]   Loss:     0.126     Train Acc:     96.86%      Val Acc:      90.0%
+2023-11-22 05:31:36 INFO     [Epoch 997]   Loss:    0.1317     Train Acc:     96.62%      Val Acc:      89.3%
+2023-11-22 05:31:36 INFO     [Epoch 998]   Loss:    0.1241     Train Acc:     97.12%      Val Acc:      89.4%
+2023-11-22 05:31:36 INFO     [Epoch 999]   Loss:    0.1245     Train Acc:     96.94%      Val Acc:      89.4%
+2023-11-22 05:31:36 INFO     step_size_0.003-batch_size_200-max_epochs_200-number_of_layers_2
+2023-11-22 05:31:37 INFO     Loaded train: (5000, 784)
+2023-11-22 05:31:37 INFO     Loaded val: (1000, 784)
+2023-11-22 05:31:37 INFO     Loaded test: (4220, 784)
+2023-11-22 05:31:43 INFO     [Epoch 195]   Loss:    0.3916     Train Acc:     89.38%      Val Acc:      88.8%
+2023-11-22 05:31:44 INFO     [Epoch 196]   Loss:    0.3907     Train Acc:     89.34%      Val Acc:      88.9%
+2023-11-22 05:31:44 INFO     [Epoch 197]   Loss:    0.3897     Train Acc:      89.4%      Val Acc:      88.8%
+2023-11-22 05:31:44 INFO     [Epoch 198]   Loss:    0.3888     Train Acc:     89.36%      Val Acc:      88.9%
+2023-11-22 05:31:44 INFO     [Epoch 199]   Loss:    0.3879     Train Acc:     89.44%      Val Acc:      89.0%
+2023-11-22 05:31:44 INFO     step_size_0.003-batch_size_200-max_epochs_200-number_of_layers_5
+2023-11-22 05:31:45 INFO     Loaded train: (5000, 784)
+2023-11-22 05:31:45 INFO     Loaded val: (1000, 784)
+2023-11-22 05:31:45 INFO     Loaded test: (4220, 784)
+2023-11-22 05:31:54 INFO     [Epoch 195]   Loss:    0.3719     Train Acc:     89.74%      Val Acc:      86.3%
+2023-11-22 05:31:54 INFO     [Epoch 196]   Loss:    0.3709     Train Acc:      89.6%      Val Acc:      87.2%
+2023-11-22 05:31:54 INFO     [Epoch 197]   Loss:    0.3701     Train Acc:     89.62%      Val Acc:      86.6%
+2023-11-22 05:31:54 INFO     [Epoch 198]   Loss:     0.369     Train Acc:     89.86%      Val Acc:      86.9%
+2023-11-22 05:31:54 INFO     [Epoch 199]   Loss:    0.3675     Train Acc:     89.58%      Val Acc:      87.2%
+2023-11-22 05:31:54 INFO     step_size_0.003-batch_size_200-max_epochs_200-number_of_layers_10
+2023-11-22 05:31:55 INFO     Loaded train: (5000, 784)
+2023-11-22 05:31:55 INFO     Loaded val: (1000, 784)
+2023-11-22 05:31:55 INFO     Loaded test: (4220, 784)
+2023-11-22 05:32:04 INFO     [Epoch 195]   Loss:    0.3869     Train Acc:      87.6%      Val Acc:      86.7%
+2023-11-22 05:32:04 INFO     [Epoch 196]   Loss:    0.3213     Train Acc:     90.26%      Val Acc:      87.2%
+2023-11-22 05:32:04 INFO     [Epoch 197]   Loss:    0.3062     Train Acc:     91.24%      Val Acc:      87.8%
+2023-11-22 05:32:04 INFO     [Epoch 198]   Loss:     0.317     Train Acc:     90.38%      Val Acc:      83.2%
+2023-11-22 05:32:04 INFO     [Epoch 199]   Loss:    0.3143     Train Acc:     90.52%      Val Acc:      85.9%
+2023-11-22 05:32:05 INFO     step_size_0.003-batch_size_200-max_epochs_500-number_of_layers_2
+2023-11-22 05:32:06 INFO     Loaded train: (5000, 784)
+2023-11-22 05:32:06 INFO     Loaded val: (1000, 784)
+2023-11-22 05:32:06 INFO     Loaded test: (4220, 784)
+2023-11-22 05:32:23 INFO     [Epoch 495]   Loss:    0.2642     Train Acc:      92.9%      Val Acc:      90.9%
+2023-11-22 05:32:23 INFO     [Epoch 496]   Loss:     0.264     Train Acc:     92.96%      Val Acc:      90.9%
+2023-11-22 05:32:23 INFO     [Epoch 497]   Loss:    0.2639     Train Acc:     92.98%      Val Acc:      90.9%
+2023-11-22 05:32:23 INFO     [Epoch 498]   Loss:    0.2636     Train Acc:     92.98%      Val Acc:      90.9%
+2023-11-22 05:32:24 INFO     [Epoch 499]   Loss:    0.2635     Train Acc:     92.96%      Val Acc:      91.0%
+2023-11-22 05:32:24 INFO     step_size_0.003-batch_size_200-max_epochs_500-number_of_layers_5
+2023-11-22 05:32:25 INFO     Loaded train: (5000, 784)
+2023-11-22 05:32:25 INFO     Loaded val: (1000, 784)
+2023-11-22 05:32:25 INFO     Loaded test: (4220, 784)
+2023-11-22 05:32:45 INFO     [Epoch 495]   Loss:    0.1625     Train Acc:     95.74%      Val Acc:      91.1%
+2023-11-22 05:32:45 INFO     [Epoch 496]   Loss:    0.1625     Train Acc:     95.86%      Val Acc:      90.7%
+2023-11-22 05:32:45 INFO     [Epoch 497]   Loss:     0.163     Train Acc:     95.66%      Val Acc:      90.9%
+2023-11-22 05:32:45 INFO     [Epoch 498]   Loss:    0.1631     Train Acc:     95.68%      Val Acc:      90.7%
+2023-11-22 05:32:45 INFO     [Epoch 499]   Loss:    0.1611     Train Acc:     95.84%      Val Acc:      91.1%
+2023-11-22 05:32:45 INFO     step_size_0.003-batch_size_200-max_epochs_500-number_of_layers_10
+2023-11-22 05:32:46 INFO     Loaded train: (5000, 784)
+2023-11-22 05:32:46 INFO     Loaded val: (1000, 784)
+2023-11-22 05:32:46 INFO     Loaded test: (4220, 784)
+2023-11-22 05:33:11 INFO     [Epoch 495]   Loss:   0.05961     Train Acc:     98.72%      Val Acc:      90.3%
+2023-11-22 05:33:11 INFO     [Epoch 496]   Loss:   0.05902     Train Acc:     98.72%      Val Acc:      89.9%
+2023-11-22 05:33:11 INFO     [Epoch 497]   Loss:   0.05769     Train Acc:     98.66%      Val Acc:      89.8%
+2023-11-22 05:33:11 INFO     [Epoch 498]   Loss:   0.05861     Train Acc:     98.82%      Val Acc:      90.0%
+2023-11-22 05:33:11 INFO     [Epoch 499]   Loss:   0.05835     Train Acc:     98.86%      Val Acc:      90.2%
+2023-11-22 05:33:11 INFO     step_size_0.003-batch_size_200-max_epochs_1000-number_of_layers_2
+2023-11-22 05:33:12 INFO     Loaded train: (5000, 784)
+2023-11-22 05:33:12 INFO     Loaded val: (1000, 784)
+2023-11-22 05:33:12 INFO     Loaded test: (4220, 784)
+2023-11-22 05:33:47 INFO     [Epoch 995]   Loss:    0.2035     Train Acc:     94.72%      Val Acc:      91.7%
+2023-11-22 05:33:47 INFO     [Epoch 996]   Loss:    0.2034     Train Acc:     94.74%      Val Acc:      91.7%
+2023-11-22 05:33:47 INFO     [Epoch 997]   Loss:    0.2032     Train Acc:     94.66%      Val Acc:      91.7%
+2023-11-22 05:33:47 INFO     [Epoch 998]   Loss:    0.2032     Train Acc:      94.7%      Val Acc:      91.7%
+2023-11-22 05:33:47 INFO     [Epoch 999]   Loss:    0.2031     Train Acc:     94.72%      Val Acc:      91.7%
+2023-11-22 05:33:48 INFO     step_size_0.003-batch_size_200-max_epochs_1000-number_of_layers_5
+2023-11-22 05:33:49 INFO     Loaded train: (5000, 784)
+2023-11-22 05:33:49 INFO     Loaded val: (1000, 784)
+2023-11-22 05:33:49 INFO     Loaded test: (4220, 784)
+2023-11-22 05:34:31 INFO     [Epoch 995]   Loss:   0.05479     Train Acc:     99.22%      Val Acc:      90.7%
+2023-11-22 05:34:31 INFO     [Epoch 996]   Loss:   0.05467     Train Acc:     99.22%      Val Acc:      90.7%
+2023-11-22 05:34:31 INFO     [Epoch 997]   Loss:   0.05467     Train Acc:      99.2%      Val Acc:      90.8%
+2023-11-22 05:34:31 INFO     [Epoch 998]   Loss:   0.05403     Train Acc:      99.3%      Val Acc:      90.7%
+2023-11-22 05:34:31 INFO     [Epoch 999]   Loss:   0.05457     Train Acc:      99.2%      Val Acc:      91.1%
+2023-11-22 05:34:32 INFO     step_size_0.003-batch_size_200-max_epochs_1000-number_of_layers_10
+2023-11-22 05:34:32 INFO     Loaded train: (5000, 784)
+2023-11-22 05:34:32 INFO     Loaded val: (1000, 784)
+2023-11-22 05:34:32 INFO     Loaded test: (4220, 784)
+2023-11-22 05:35:20 INFO     [Epoch 995]   Loss:   0.03218     Train Acc:     99.34%      Val Acc:      88.1%
+2023-11-22 05:35:20 INFO     [Epoch 996]   Loss:   0.03272     Train Acc:      99.3%      Val Acc:      88.4%
+2023-11-22 05:35:20 INFO     [Epoch 997]   Loss:   0.03244     Train Acc:     99.32%      Val Acc:      88.5%
+2023-11-22 05:35:20 INFO     [Epoch 998]   Loss:   0.03214     Train Acc:     99.36%      Val Acc:      88.0%
+2023-11-22 05:35:20 INFO     [Epoch 999]   Loss:   0.03222     Train Acc:     99.36%      Val Acc:      88.5%
+2023-11-22 05:35:20 INFO     step_size_0.003-batch_size_300-max_epochs_200-number_of_layers_2
+2023-11-22 05:35:22 INFO     Loaded train: (5000, 784)
+2023-11-22 05:35:22 INFO     Loaded val: (1000, 784)
+2023-11-22 05:35:22 INFO     Loaded test: (4220, 784)
+2023-11-22 05:35:28 INFO     [Epoch 195]   Loss:    0.4689     Train Acc:      88.3%      Val Acc:      87.4%
+2023-11-22 05:35:28 INFO     [Epoch 196]   Loss:    0.4677     Train Acc:      88.3%      Val Acc:      87.6%
+2023-11-22 05:35:28 INFO     [Epoch 197]   Loss:    0.4665     Train Acc:     88.38%      Val Acc:      87.4%
+2023-11-22 05:35:28 INFO     [Epoch 198]   Loss:    0.4653     Train Acc:     88.38%      Val Acc:      87.8%
+2023-11-22 05:35:28 INFO     [Epoch 199]   Loss:     0.464     Train Acc:     88.32%      Val Acc:      87.7%
+2023-11-22 05:35:28 INFO     step_size_0.003-batch_size_300-max_epochs_200-number_of_layers_5
+2023-11-22 05:35:29 INFO     Loaded train: (5000, 784)
+2023-11-22 05:35:29 INFO     Loaded val: (1000, 784)
+2023-11-22 05:35:29 INFO     Loaded test: (4220, 784)
+2023-11-22 05:35:37 INFO     [Epoch 195]   Loss:    0.3773     Train Acc:     88.82%      Val Acc:      87.6%
+2023-11-22 05:35:37 INFO     [Epoch 196]   Loss:    0.3764     Train Acc:     88.84%      Val Acc:      88.0%
+2023-11-22 05:35:37 INFO     [Epoch 197]   Loss:    0.3749     Train Acc:     88.92%      Val Acc:      87.4%
+2023-11-22 05:35:37 INFO     [Epoch 198]   Loss:    0.3736     Train Acc:     88.86%      Val Acc:      87.7%
+2023-11-22 05:35:37 INFO     [Epoch 199]   Loss:    0.3725     Train Acc:     89.04%      Val Acc:      87.7%
+2023-11-22 05:35:37 INFO     step_size_0.003-batch_size_300-max_epochs_200-number_of_layers_10
+2023-11-22 05:35:38 INFO     Loaded train: (5000, 784)
+2023-11-22 05:35:38 INFO     Loaded val: (1000, 784)
+2023-11-22 05:35:38 INFO     Loaded test: (4220, 784)
+2023-11-22 05:35:46 INFO     [Epoch 195]   Loss:    0.3596     Train Acc:     90.18%      Val Acc:      86.5%
+2023-11-22 05:35:46 INFO     [Epoch 196]   Loss:      0.36     Train Acc:     90.08%      Val Acc:      85.6%
+2023-11-22 05:35:46 INFO     [Epoch 197]   Loss:    0.3738     Train Acc:     89.44%      Val Acc:      87.1%
+2023-11-22 05:35:46 INFO     [Epoch 198]   Loss:    0.3553     Train Acc:     89.92%      Val Acc:      85.1%
+2023-11-22 05:35:46 INFO     [Epoch 199]   Loss:     0.363     Train Acc:     90.02%      Val Acc:      87.1%
+2023-11-22 05:35:46 INFO     step_size_0.003-batch_size_300-max_epochs_500-number_of_layers_2
+2023-11-22 05:35:47 INFO     Loaded train: (5000, 784)
+2023-11-22 05:35:47 INFO     Loaded val: (1000, 784)
+2023-11-22 05:35:47 INFO     Loaded test: (4220, 784)
+2023-11-22 05:36:02 INFO     [Epoch 495]   Loss:    0.3157     Train Acc:     91.26%      Val Acc:      90.4%
+2023-11-22 05:36:02 INFO     [Epoch 496]   Loss:    0.3154     Train Acc:      91.3%      Val Acc:      90.4%
+2023-11-22 05:36:02 INFO     [Epoch 497]   Loss:    0.3152     Train Acc:     91.34%      Val Acc:      90.4%
+2023-11-22 05:36:02 INFO     [Epoch 498]   Loss:    0.3149     Train Acc:      91.4%      Val Acc:      90.3%
+2023-11-22 05:36:02 INFO     [Epoch 499]   Loss:    0.3147     Train Acc:     91.44%      Val Acc:      90.4%
+2023-11-22 05:36:02 INFO     step_size_0.003-batch_size_300-max_epochs_500-number_of_layers_5
+2023-11-22 05:36:03 INFO     Loaded train: (5000, 784)
+2023-11-22 05:36:03 INFO     Loaded val: (1000, 784)
+2023-11-22 05:36:03 INFO     Loaded test: (4220, 784)
+2023-11-22 05:36:20 INFO     [Epoch 495]   Loss:    0.2667     Train Acc:      92.5%      Val Acc:      88.7%
+2023-11-22 05:36:20 INFO     [Epoch 496]   Loss:    0.2655     Train Acc:      92.6%      Val Acc:      89.2%
+2023-11-22 05:36:20 INFO     [Epoch 497]   Loss:    0.2654     Train Acc:      92.4%      Val Acc:      88.7%
+2023-11-22 05:36:20 INFO     [Epoch 498]   Loss:    0.2653     Train Acc:     92.68%      Val Acc:      88.8%
+2023-11-22 05:36:20 INFO     [Epoch 499]   Loss:     0.264     Train Acc:     92.62%      Val Acc:      88.7%
+2023-11-22 05:36:21 INFO     step_size_0.003-batch_size_300-max_epochs_500-number_of_layers_10
+2023-11-22 05:36:22 INFO     Loaded train: (5000, 784)
+2023-11-22 05:36:22 INFO     Loaded val: (1000, 784)
+2023-11-22 05:36:22 INFO     Loaded test: (4220, 784)
+2023-11-22 05:36:41 INFO     [Epoch 495]   Loss:    0.1575     Train Acc:     95.38%      Val Acc:      89.9%
+2023-11-22 05:36:41 INFO     [Epoch 496]   Loss:    0.1346     Train Acc:      96.6%      Val Acc:      89.7%
+2023-11-22 05:36:41 INFO     [Epoch 497]   Loss:    0.1554     Train Acc:     95.46%      Val Acc:      89.7%
+2023-11-22 05:36:41 INFO     [Epoch 498]   Loss:    0.1395     Train Acc:      96.2%      Val Acc:      89.9%
+2023-11-22 05:36:41 INFO     [Epoch 499]   Loss:    0.5172     Train Acc:     86.22%      Val Acc:      89.7%
+2023-11-22 05:36:41 INFO     step_size_0.003-batch_size_300-max_epochs_1000-number_of_layers_2
+2023-11-22 05:36:42 INFO     Loaded train: (5000, 784)
+2023-11-22 05:36:42 INFO     Loaded val: (1000, 784)
+2023-11-22 05:36:42 INFO     Loaded test: (4220, 784)
+2023-11-22 05:37:12 INFO     [Epoch 995]   Loss:    0.2408     Train Acc:     93.48%      Val Acc:      91.7%
+2023-11-22 05:37:12 INFO     [Epoch 996]   Loss:    0.2407     Train Acc:     93.38%      Val Acc:      91.7%
+2023-11-22 05:37:12 INFO     [Epoch 997]   Loss:    0.2406     Train Acc:      93.4%      Val Acc:      91.7%
+2023-11-22 05:37:12 INFO     [Epoch 998]   Loss:    0.2406     Train Acc:     93.46%      Val Acc:      91.8%
+2023-11-22 05:37:12 INFO     [Epoch 999]   Loss:    0.2405     Train Acc:      93.4%      Val Acc:      91.8%
+2023-11-22 05:37:12 INFO     step_size_0.003-batch_size_300-max_epochs_1000-number_of_layers_5
+2023-11-22 05:37:13 INFO     Loaded train: (5000, 784)
+2023-11-22 05:37:13 INFO     Loaded val: (1000, 784)
+2023-11-22 05:37:13 INFO     Loaded test: (4220, 784)
+2023-11-22 05:37:46 INFO     [Epoch 995]   Loss:   0.08156     Train Acc:     98.28%      Val Acc:      89.9%
+2023-11-22 05:37:46 INFO     [Epoch 996]   Loss:   0.08178     Train Acc:     98.22%      Val Acc:      89.8%
+2023-11-22 05:37:46 INFO     [Epoch 997]   Loss:   0.08147     Train Acc:     98.24%      Val Acc:      89.7%
+2023-11-22 05:37:46 INFO     [Epoch 998]   Loss:   0.08035     Train Acc:     98.32%      Val Acc:      90.1%
+2023-11-22 05:37:46 INFO     [Epoch 999]   Loss:   0.08084     Train Acc:      98.3%      Val Acc:      89.7%
+2023-11-22 05:37:47 INFO     step_size_0.003-batch_size_300-max_epochs_1000-number_of_layers_10
+2023-11-22 05:37:47 INFO     Loaded train: (5000, 784)
+2023-11-22 05:37:47 INFO     Loaded val: (1000, 784)
+2023-11-22 05:37:47 INFO     Loaded test: (4220, 784)
+2023-11-22 05:38:27 INFO     [Epoch 995]   Loss:   0.03506     Train Acc:     99.32%      Val Acc:      87.9%
+2023-11-22 05:38:27 INFO     [Epoch 996]   Loss:   0.03429     Train Acc:      99.3%      Val Acc:      87.9%
+2023-11-22 05:38:27 INFO     [Epoch 997]   Loss:   0.03387     Train Acc:     99.24%      Val Acc:      88.1%
+2023-11-22 05:38:27 INFO     [Epoch 998]   Loss:   0.03371     Train Acc:     99.32%      Val Acc:      88.0%
+2023-11-22 05:38:27 INFO     [Epoch 999]   Loss:   0.03349     Train Acc:     99.28%      Val Acc:      88.0%
+2023-11-22 05:38:27 INFO     step_size_0.003-batch_size_500-max_epochs_200-number_of_layers_2
+2023-11-22 05:38:28 INFO     Loaded train: (5000, 784)
+2023-11-22 05:38:28 INFO     Loaded val: (1000, 784)
+2023-11-22 05:38:28 INFO     Loaded test: (4220, 784)
+2023-11-22 05:38:33 INFO     [Epoch 195]   Loss:    0.6147     Train Acc:     85.12%      Val Acc:      87.5%
+2023-11-22 05:38:33 INFO     [Epoch 196]   Loss:    0.6128     Train Acc:     85.12%      Val Acc:      87.3%
+2023-11-22 05:38:33 INFO     [Epoch 197]   Loss:    0.6109     Train Acc:     85.28%      Val Acc:      87.0%
+2023-11-22 05:38:33 INFO     [Epoch 198]   Loss:    0.6091     Train Acc:     85.26%      Val Acc:      87.3%
+2023-11-22 05:38:33 INFO     [Epoch 199]   Loss:    0.6072     Train Acc:     85.26%      Val Acc:      87.4%
+2023-11-22 05:38:33 INFO     step_size_0.003-batch_size_500-max_epochs_200-number_of_layers_5
+2023-11-22 05:38:34 INFO     Loaded train: (5000, 784)
+2023-11-22 05:38:34 INFO     Loaded val: (1000, 784)
+2023-11-22 05:38:34 INFO     Loaded test: (4220, 784)
+2023-11-22 05:38:40 INFO     [Epoch 195]   Loss:    0.4802     Train Acc:     85.88%      Val Acc:      86.0%
+2023-11-22 05:38:40 INFO     [Epoch 196]   Loss:    0.4789     Train Acc:     86.18%      Val Acc:      86.0%
+2023-11-22 05:38:40 INFO     [Epoch 197]   Loss:    0.4782     Train Acc:     86.08%      Val Acc:      85.7%
+2023-11-22 05:38:40 INFO     [Epoch 198]   Loss:    0.4766     Train Acc:     86.28%      Val Acc:      86.0%
+2023-11-22 05:38:40 INFO     [Epoch 199]   Loss:    0.4754     Train Acc:     86.32%      Val Acc:      86.3%
+2023-11-22 05:38:40 INFO     step_size_0.003-batch_size_500-max_epochs_200-number_of_layers_10
+2023-11-22 05:38:41 INFO     Loaded train: (5000, 784)
+2023-11-22 05:38:41 INFO     Loaded val: (1000, 784)
+2023-11-22 05:38:41 INFO     Loaded test: (4220, 784)
+2023-11-22 05:38:47 INFO     [Epoch 195]   Loss:    0.4814     Train Acc:     85.92%      Val Acc:      83.6%
+2023-11-22 05:38:47 INFO     [Epoch 196]   Loss:    0.4738     Train Acc:     86.36%      Val Acc:      82.4%
+2023-11-22 05:38:47 INFO     [Epoch 197]   Loss:    0.4693     Train Acc:     86.32%      Val Acc:      83.0%
+2023-11-22 05:38:47 INFO     [Epoch 198]   Loss:    0.4759     Train Acc:     86.38%      Val Acc:      83.0%
+2023-11-22 05:38:47 INFO     [Epoch 199]   Loss:    0.4695     Train Acc:     86.02%      Val Acc:      84.0%
+2023-11-22 05:38:47 INFO     step_size_0.003-batch_size_500-max_epochs_500-number_of_layers_2
+2023-11-22 05:38:48 INFO     Loaded train: (5000, 784)
+2023-11-22 05:38:48 INFO     Loaded val: (1000, 784)
+2023-11-22 05:38:48 INFO     Loaded test: (4220, 784)
+2023-11-22 05:38:59 INFO     [Epoch 495]   Loss:    0.4075     Train Acc:     89.46%      Val Acc:      88.3%
+2023-11-22 05:38:59 INFO     [Epoch 496]   Loss:    0.4072     Train Acc:      89.5%      Val Acc:      88.4%
+2023-11-22 05:38:59 INFO     [Epoch 497]   Loss:    0.4067     Train Acc:      89.5%      Val Acc:      88.4%
+2023-11-22 05:38:59 INFO     [Epoch 498]   Loss:    0.4064     Train Acc:     89.46%      Val Acc:      88.4%
+2023-11-22 05:38:59 INFO     [Epoch 499]   Loss:     0.406     Train Acc:     89.52%      Val Acc:      88.4%
+2023-11-22 05:39:00 INFO     step_size_0.003-batch_size_500-max_epochs_500-number_of_layers_5
+2023-11-22 05:39:01 INFO     Loaded train: (5000, 784)
+2023-11-22 05:39:01 INFO     Loaded val: (1000, 784)
+2023-11-22 05:39:01 INFO     Loaded test: (4220, 784)
+2023-11-22 05:39:12 INFO     [Epoch 495]   Loss:    0.3122     Train Acc:      91.5%      Val Acc:      87.5%
+2023-11-22 05:39:12 INFO     [Epoch 496]   Loss:    0.3114     Train Acc:     91.42%      Val Acc:      87.8%
+2023-11-22 05:39:13 INFO     [Epoch 497]   Loss:    0.3105     Train Acc:     91.48%      Val Acc:      88.0%
+2023-11-22 05:39:13 INFO     [Epoch 498]   Loss:    0.3105     Train Acc:     91.36%      Val Acc:      87.9%
+2023-11-22 05:39:13 INFO     [Epoch 499]   Loss:    0.3097     Train Acc:     91.36%      Val Acc:      87.8%
+2023-11-22 05:39:13 INFO     step_size_0.003-batch_size_500-max_epochs_500-number_of_layers_10
+2023-11-22 05:39:14 INFO     Loaded train: (5000, 784)
+2023-11-22 05:39:14 INFO     Loaded val: (1000, 784)
+2023-11-22 05:39:14 INFO     Loaded test: (4220, 784)
+2023-11-22 05:39:27 INFO     [Epoch 495]   Loss:    0.3843     Train Acc:     88.54%      Val Acc:      84.1%
+2023-11-22 05:39:27 INFO     [Epoch 496]   Loss:    0.3714     Train Acc:     89.34%      Val Acc:      86.4%
+2023-11-22 05:39:27 INFO     [Epoch 497]   Loss:    0.3702     Train Acc:     89.38%      Val Acc:      84.4%
+2023-11-22 05:39:27 INFO     [Epoch 498]   Loss:    0.3615     Train Acc:     89.36%      Val Acc:      84.2%
+2023-11-22 05:39:27 INFO     [Epoch 499]   Loss:    0.3709     Train Acc:     89.04%      Val Acc:      85.2%
+2023-11-22 05:39:28 INFO     step_size_0.003-batch_size_500-max_epochs_1000-number_of_layers_2
+2023-11-22 05:39:28 INFO     Loaded train: (5000, 784)
+2023-11-22 05:39:28 INFO     Loaded val: (1000, 784)
+2023-11-22 05:39:28 INFO     Loaded test: (4220, 784)
+2023-11-22 05:39:48 INFO     [Epoch 995]   Loss:    0.3064     Train Acc:     91.34%      Val Acc:      91.0%
+2023-11-22 05:39:48 INFO     [Epoch 996]   Loss:    0.3063     Train Acc:     91.32%      Val Acc:      91.0%
+2023-11-22 05:39:48 INFO     [Epoch 997]   Loss:    0.3061     Train Acc:      91.3%      Val Acc:      91.0%
+2023-11-22 05:39:48 INFO     [Epoch 998]   Loss:     0.306     Train Acc:     91.34%      Val Acc:      91.0%
+2023-11-22 05:39:48 INFO     [Epoch 999]   Loss:    0.3058     Train Acc:     91.32%      Val Acc:      91.1%
+2023-11-22 05:39:48 INFO     step_size_0.003-batch_size_500-max_epochs_1000-number_of_layers_5
+2023-11-22 05:39:49 INFO     Loaded train: (5000, 784)
+2023-11-22 05:39:49 INFO     Loaded val: (1000, 784)
+2023-11-22 05:39:49 INFO     Loaded test: (4220, 784)
+2023-11-22 05:40:11 INFO     [Epoch 995]   Loss:    0.2642     Train Acc:     92.46%      Val Acc:      89.6%
+2023-11-22 05:40:11 INFO     [Epoch 996]   Loss:     0.264     Train Acc:      92.3%      Val Acc:      89.3%
+2023-11-22 05:40:11 INFO     [Epoch 997]   Loss:    0.2636     Train Acc:     92.32%      Val Acc:      89.4%
+2023-11-22 05:40:11 INFO     [Epoch 998]   Loss:    0.2632     Train Acc:     92.22%      Val Acc:      89.3%
+2023-11-22 05:40:11 INFO     [Epoch 999]   Loss:    0.2635     Train Acc:     92.32%      Val Acc:      89.3%
+2023-11-22 05:40:12 INFO     step_size_0.003-batch_size_500-max_epochs_1000-number_of_layers_10
+2023-11-22 05:40:13 INFO     Loaded train: (5000, 784)
+2023-11-22 05:40:13 INFO     Loaded val: (1000, 784)
+2023-11-22 05:40:13 INFO     Loaded test: (4220, 784)
+2023-11-22 05:40:39 INFO     [Epoch 995]   Loss:     1.351     Train Acc:     71.76%      Val Acc:      75.2%
+2023-11-22 05:40:39 INFO     [Epoch 996]   Loss:    0.4281     Train Acc:     87.58%      Val Acc:      89.5%
+2023-11-22 05:40:39 INFO     [Epoch 997]   Loss:    0.1375     Train Acc:     96.12%      Val Acc:      89.3%
+2023-11-22 05:40:39 INFO     [Epoch 998]   Loss:    0.1319     Train Acc:     96.14%      Val Acc:      90.3%
+2023-11-22 05:40:39 INFO     [Epoch 999]   Loss:    0.1249     Train Acc:     96.62%      Val Acc:      89.9%
+2023-11-22 05:40:39 INFO     step_size_0.003-batch_size_1000-max_epochs_200-number_of_layers_2
+2023-11-22 05:40:40 INFO     Loaded train: (5000, 784)
+2023-11-22 05:40:40 INFO     Loaded val: (1000, 784)
+2023-11-22 05:40:40 INFO     Loaded test: (4220, 784)
+2023-11-22 05:40:43 INFO     [Epoch 195]   Loss:     1.071     Train Acc:     74.96%      Val Acc:      76.7%
+2023-11-22 05:40:43 INFO     [Epoch 196]   Loss:     1.067     Train Acc:     75.06%      Val Acc:      77.1%
+2023-11-22 05:40:43 INFO     [Epoch 197]   Loss:     1.064     Train Acc:     75.04%      Val Acc:      77.2%
+2023-11-22 05:40:43 INFO     [Epoch 198]   Loss:      1.06     Train Acc:     75.16%      Val Acc:      77.3%
+2023-11-22 05:40:43 INFO     [Epoch 199]   Loss:     1.057     Train Acc:     75.24%      Val Acc:      77.4%
+2023-11-22 05:40:43 INFO     step_size_0.003-batch_size_1000-max_epochs_200-number_of_layers_5
+2023-11-22 05:40:44 INFO     Loaded train: (5000, 784)
+2023-11-22 05:40:44 INFO     Loaded val: (1000, 784)
+2023-11-22 05:40:44 INFO     Loaded test: (4220, 784)
+2023-11-22 05:40:48 INFO     [Epoch 195]   Loss:    0.7808     Train Acc:     75.82%      Val Acc:      73.7%
+2023-11-22 05:40:48 INFO     [Epoch 196]   Loss:     0.779     Train Acc:      75.8%      Val Acc:      73.7%
+2023-11-22 05:40:48 INFO     [Epoch 197]   Loss:    0.7765     Train Acc:     75.94%      Val Acc:      73.5%
+2023-11-22 05:40:48 INFO     [Epoch 198]   Loss:     0.775     Train Acc:     76.04%      Val Acc:      73.6%
+2023-11-22 05:40:48 INFO     [Epoch 199]   Loss:    0.7729     Train Acc:      75.7%      Val Acc:      73.7%
+2023-11-22 05:40:48 INFO     step_size_0.003-batch_size_1000-max_epochs_200-number_of_layers_10
+2023-11-22 05:40:49 INFO     Loaded train: (5000, 784)
+2023-11-22 05:40:49 INFO     Loaded val: (1000, 784)
+2023-11-22 05:40:49 INFO     Loaded test: (4220, 784)
+2023-11-22 05:40:54 INFO     [Epoch 195]   Loss:    0.7796     Train Acc:     74.44%      Val Acc:      73.6%
+2023-11-22 05:40:54 INFO     [Epoch 196]   Loss:    0.8235     Train Acc:     72.86%      Val Acc:      72.8%
+2023-11-22 05:40:54 INFO     [Epoch 197]   Loss:     0.803     Train Acc:     73.56%      Val Acc:      72.1%
+2023-11-22 05:40:54 INFO     [Epoch 198]   Loss:    0.7858     Train Acc:     74.62%      Val Acc:      75.2%
+2023-11-22 05:40:54 INFO     [Epoch 199]   Loss:    0.7625     Train Acc:     74.86%      Val Acc:      74.2%
+2023-11-22 05:40:55 INFO     step_size_0.003-batch_size_1000-max_epochs_500-number_of_layers_2
+2023-11-22 05:40:56 INFO     Loaded train: (5000, 784)
+2023-11-22 05:40:56 INFO     Loaded val: (1000, 784)
+2023-11-22 05:40:56 INFO     Loaded test: (4220, 784)
+2023-11-22 05:41:03 INFO     [Epoch 495]   Loss:    0.5352     Train Acc:     86.96%      Val Acc:      88.8%
+2023-11-22 05:41:03 INFO     [Epoch 496]   Loss:    0.5346     Train Acc:      86.9%      Val Acc:      88.7%
+2023-11-22 05:41:03 INFO     [Epoch 497]   Loss:     0.534     Train Acc:     86.96%      Val Acc:      88.7%
+2023-11-22 05:41:03 INFO     [Epoch 498]   Loss:    0.5334     Train Acc:     86.98%      Val Acc:      88.7%
+2023-11-22 05:41:03 INFO     [Epoch 499]   Loss:    0.5328     Train Acc:      87.0%      Val Acc:      88.7%
+2023-11-22 05:41:03 INFO     step_size_0.003-batch_size_1000-max_epochs_500-number_of_layers_5
+2023-11-22 05:41:04 INFO     Loaded train: (5000, 784)
+2023-11-22 05:41:04 INFO     Loaded val: (1000, 784)
+2023-11-22 05:41:04 INFO     Loaded test: (4220, 784)
+2023-11-22 05:41:13 INFO     [Epoch 495]   Loss:     0.494     Train Acc:     86.14%      Val Acc:      84.6%
+2023-11-22 05:41:13 INFO     [Epoch 496]   Loss:    0.4934     Train Acc:     86.06%      Val Acc:      85.2%
+2023-11-22 05:41:13 INFO     [Epoch 497]   Loss:    0.4926     Train Acc:     86.22%      Val Acc:      85.3%
+2023-11-22 05:41:13 INFO     [Epoch 498]   Loss:    0.4916     Train Acc:     86.16%      Val Acc:      85.3%
+2023-11-22 05:41:13 INFO     [Epoch 499]   Loss:    0.4908     Train Acc:     85.98%      Val Acc:      85.2%
+2023-11-22 05:41:13 INFO     step_size_0.003-batch_size_1000-max_epochs_500-number_of_layers_10
+2023-11-22 05:41:14 INFO     Loaded train: (5000, 784)
+2023-11-22 05:41:14 INFO     Loaded val: (1000, 784)
+2023-11-22 05:41:14 INFO     Loaded test: (4220, 784)
+2023-11-22 05:41:25 INFO     [Epoch 495]   Loss:    0.5645     Train Acc:     83.08%      Val Acc:      81.6%
+2023-11-22 05:41:25 INFO     [Epoch 496]   Loss:    0.5737     Train Acc:     82.56%      Val Acc:      84.1%
+2023-11-22 05:41:25 INFO     [Epoch 497]   Loss:    0.5685     Train Acc:      82.5%      Val Acc:      83.6%
+2023-11-22 05:41:25 INFO     [Epoch 498]   Loss:     0.555     Train Acc:     83.36%      Val Acc:      83.9%
+2023-11-22 05:41:25 INFO     [Epoch 499]   Loss:    0.5647     Train Acc:      83.2%      Val Acc:      79.9%
+2023-11-22 05:41:26 INFO     step_size_0.003-batch_size_1000-max_epochs_1000-number_of_layers_2
+2023-11-22 05:41:26 INFO     Loaded train: (5000, 784)
+2023-11-22 05:41:26 INFO     Loaded val: (1000, 784)
+2023-11-22 05:41:26 INFO     Loaded test: (4220, 784)
+2023-11-22 05:41:42 INFO     [Epoch 995]   Loss:    0.3853     Train Acc:     89.84%      Val Acc:      89.3%
+2023-11-22 05:41:42 INFO     [Epoch 996]   Loss:    0.3852     Train Acc:     89.88%      Val Acc:      89.3%
+2023-11-22 05:41:42 INFO     [Epoch 997]   Loss:     0.385     Train Acc:     89.84%      Val Acc:      89.3%
+2023-11-22 05:41:42 INFO     [Epoch 998]   Loss:    0.3848     Train Acc:     89.88%      Val Acc:      89.3%
+2023-11-22 05:41:42 INFO     [Epoch 999]   Loss:    0.3847     Train Acc:     89.86%      Val Acc:      89.3%
+2023-11-22 05:41:42 INFO     step_size_0.003-batch_size_1000-max_epochs_1000-number_of_layers_5
+2023-11-22 05:41:43 INFO     Loaded train: (5000, 784)
+2023-11-22 05:41:43 INFO     Loaded val: (1000, 784)
+2023-11-22 05:41:43 INFO     Loaded test: (4220, 784)
+2023-11-22 05:42:00 INFO     [Epoch 995]   Loss:    0.3277     Train Acc:     90.94%      Val Acc:      89.1%
+2023-11-22 05:42:00 INFO     [Epoch 996]   Loss:     0.328     Train Acc:      91.1%      Val Acc:      89.0%
+2023-11-22 05:42:00 INFO     [Epoch 997]   Loss:    0.3277     Train Acc:     91.04%      Val Acc:      88.4%
+2023-11-22 05:42:00 INFO     [Epoch 998]   Loss:    0.3272     Train Acc:     91.04%      Val Acc:      88.9%
+2023-11-22 05:42:00 INFO     [Epoch 999]   Loss:    0.3272     Train Acc:     91.08%      Val Acc:      88.5%
+2023-11-22 05:42:00 INFO     step_size_0.003-batch_size_1000-max_epochs_1000-number_of_layers_10
+2023-11-22 05:42:01 INFO     Loaded train: (5000, 784)
+2023-11-22 05:42:01 INFO     Loaded val: (1000, 784)
+2023-11-22 05:42:01 INFO     Loaded test: (4220, 784)
+2023-11-22 05:42:21 INFO     [Epoch 995]   Loss:    0.3169     Train Acc:     91.76%      Val Acc:      87.2%
+2023-11-22 05:42:21 INFO     [Epoch 996]   Loss:    0.3161     Train Acc:     91.36%      Val Acc:      86.5%
+2023-11-22 05:42:22 INFO     [Epoch 997]   Loss:    0.3236     Train Acc:      91.2%      Val Acc:      87.4%
+2023-11-22 05:42:22 INFO     [Epoch 998]   Loss:    0.3229     Train Acc:     91.32%      Val Acc:      86.6%
+2023-11-22 05:42:22 INFO     [Epoch 999]   Loss:     0.315     Train Acc:      91.4%      Val Acc:      86.5%
+2023-11-22 05:42:22 INFO     step_size_0.001-batch_size_200-max_epochs_200-number_of_layers_2
+2023-11-22 05:42:23 INFO     Loaded train: (5000, 784)
+2023-11-22 05:42:23 INFO     Loaded val: (1000, 784)
+2023-11-22 05:42:23 INFO     Loaded test: (4220, 784)
+2023-11-22 05:42:28 INFO     [Epoch 195]   Loss:    0.6774     Train Acc:     82.76%      Val Acc:      85.8%
+2023-11-22 05:42:28 INFO     [Epoch 196]   Loss:    0.6755     Train Acc:      82.8%      Val Acc:      85.8%
+2023-11-22 05:42:28 INFO     [Epoch 197]   Loss:    0.6735     Train Acc:     82.84%      Val Acc:      85.8%
+2023-11-22 05:42:28 INFO     [Epoch 198]   Loss:    0.6717     Train Acc:      82.8%      Val Acc:      85.8%
+2023-11-22 05:42:28 INFO     [Epoch 199]   Loss:    0.6698     Train Acc:     82.86%      Val Acc:      86.0%
+2023-11-22 05:42:29 INFO     step_size_0.001-batch_size_200-max_epochs_200-number_of_layers_5
+2023-11-22 05:42:29 INFO     Loaded train: (5000, 784)
+2023-11-22 05:42:29 INFO     Loaded val: (1000, 784)
+2023-11-22 05:42:29 INFO     Loaded test: (4220, 784)
+2023-11-22 05:42:36 INFO     [Epoch 195]   Loss:     0.813     Train Acc:     75.72%      Val Acc:      76.1%
+2023-11-22 05:42:36 INFO     [Epoch 196]   Loss:    0.8094     Train Acc:     75.74%      Val Acc:      76.3%
+2023-11-22 05:42:36 INFO     [Epoch 197]   Loss:    0.8055     Train Acc:     75.98%      Val Acc:      76.9%
+2023-11-22 05:42:36 INFO     [Epoch 198]   Loss:    0.8024     Train Acc:      76.1%      Val Acc:      76.8%
+2023-11-22 05:42:36 INFO     [Epoch 199]   Loss:    0.7983     Train Acc:     76.32%      Val Acc:      76.8%
+2023-11-22 05:42:36 INFO     step_size_0.001-batch_size_200-max_epochs_200-number_of_layers_10
+2023-11-22 05:42:37 INFO     Loaded train: (5000, 784)
+2023-11-22 05:42:37 INFO     Loaded val: (1000, 784)
+2023-11-22 05:42:37 INFO     Loaded test: (4220, 784)
+2023-11-22 05:42:45 INFO     [Epoch 195]   Loss:    0.5351     Train Acc:     84.32%      Val Acc:      81.6%
+2023-11-22 05:42:45 INFO     [Epoch 196]   Loss:    0.5282     Train Acc:     84.34%      Val Acc:      82.2%
+2023-11-22 05:42:45 INFO     [Epoch 197]   Loss:    0.5308     Train Acc:      84.1%      Val Acc:      82.1%
+2023-11-22 05:42:45 INFO     [Epoch 198]   Loss:    0.5302     Train Acc:      84.4%      Val Acc:      81.4%
+2023-11-22 05:42:45 INFO     [Epoch 199]   Loss:    0.5247     Train Acc:     84.38%      Val Acc:      82.3%
+2023-11-22 05:42:45 INFO     step_size_0.001-batch_size_200-max_epochs_500-number_of_layers_2
+2023-11-22 05:42:46 INFO     Loaded train: (5000, 784)
+2023-11-22 05:42:46 INFO     Loaded val: (1000, 784)
+2023-11-22 05:42:46 INFO     Loaded test: (4220, 784)
+2023-11-22 05:42:59 INFO     [Epoch 495]   Loss:    0.4054     Train Acc:     89.26%      Val Acc:      90.3%
+2023-11-22 05:42:59 INFO     [Epoch 496]   Loss:     0.405     Train Acc:     89.32%      Val Acc:      90.3%
+2023-11-22 05:42:59 INFO     [Epoch 497]   Loss:    0.4046     Train Acc:      89.3%      Val Acc:      90.1%
+2023-11-22 05:42:59 INFO     [Epoch 498]   Loss:    0.4042     Train Acc:     89.32%      Val Acc:      90.1%
+2023-11-22 05:42:59 INFO     [Epoch 499]   Loss:    0.4038     Train Acc:     89.32%      Val Acc:      90.4%
+2023-11-22 05:43:00 INFO     step_size_0.001-batch_size_200-max_epochs_500-number_of_layers_5
+2023-11-22 05:43:00 INFO     Loaded train: (5000, 784)
+2023-11-22 05:43:00 INFO     Loaded val: (1000, 784)
+2023-11-22 05:43:00 INFO     Loaded test: (4220, 784)
+2023-11-22 05:43:17 INFO     [Epoch 495]   Loss:    0.3801     Train Acc:     89.12%      Val Acc:      87.5%
+2023-11-22 05:43:17 INFO     [Epoch 496]   Loss:    0.3797     Train Acc:     89.24%      Val Acc:      87.9%
+2023-11-22 05:43:17 INFO     [Epoch 497]   Loss:    0.3785     Train Acc:     88.96%      Val Acc:      88.1%
+2023-11-22 05:43:17 INFO     [Epoch 498]   Loss:    0.3785     Train Acc:      89.1%      Val Acc:      87.6%
+2023-11-22 05:43:17 INFO     [Epoch 499]   Loss:    0.3778     Train Acc:      89.1%      Val Acc:      88.3%
+2023-11-22 05:43:17 INFO     step_size_0.001-batch_size_200-max_epochs_500-number_of_layers_10
+2023-11-22 05:43:18 INFO     Loaded train: (5000, 784)
+2023-11-22 05:43:18 INFO     Loaded val: (1000, 784)
+2023-11-22 05:43:18 INFO     Loaded test: (4220, 784)
+2023-11-22 05:43:37 INFO     [Epoch 495]   Loss:    0.2864     Train Acc:     92.24%      Val Acc:      89.6%
+2023-11-22 05:43:37 INFO     [Epoch 496]   Loss:    0.2855     Train Acc:     92.12%      Val Acc:      89.4%
+2023-11-22 05:43:37 INFO     [Epoch 497]   Loss:    0.2846     Train Acc:     92.24%      Val Acc:      90.0%
+2023-11-22 05:43:37 INFO     [Epoch 498]   Loss:    0.2836     Train Acc:     92.06%      Val Acc:      89.3%
+2023-11-22 05:43:37 INFO     [Epoch 499]   Loss:    0.2827     Train Acc:      92.2%      Val Acc:      89.8%
+2023-11-22 05:43:37 INFO     step_size_0.001-batch_size_200-max_epochs_1000-number_of_layers_2
+2023-11-22 05:43:38 INFO     Loaded train: (5000, 784)
+2023-11-22 05:43:38 INFO     Loaded val: (1000, 784)
+2023-11-22 05:43:38 INFO     Loaded test: (4220, 784)
+2023-11-22 05:44:05 INFO     [Epoch 995]   Loss:    0.3139     Train Acc:     91.62%      Val Acc:      89.8%
+2023-11-22 05:44:05 INFO     [Epoch 996]   Loss:    0.3138     Train Acc:     91.64%      Val Acc:      89.8%
+2023-11-22 05:44:05 INFO     [Epoch 997]   Loss:    0.3136     Train Acc:     91.64%      Val Acc:      89.8%
+2023-11-22 05:44:05 INFO     [Epoch 998]   Loss:    0.3136     Train Acc:     91.66%      Val Acc:      89.8%
+2023-11-22 05:44:05 INFO     [Epoch 999]   Loss:    0.3134     Train Acc:     91.66%      Val Acc:      89.8%
+2023-11-22 05:44:05 INFO     step_size_0.001-batch_size_200-max_epochs_1000-number_of_layers_5
+2023-11-22 05:44:06 INFO     Loaded train: (5000, 784)
+2023-11-22 05:44:06 INFO     Loaded val: (1000, 784)
+2023-11-22 05:44:06 INFO     Loaded test: (4220, 784)
+2023-11-22 05:44:38 INFO     [Epoch 995]   Loss:    0.2025     Train Acc:     94.76%      Val Acc:      90.3%
+2023-11-22 05:44:38 INFO     [Epoch 996]   Loss:    0.2028     Train Acc:     94.82%      Val Acc:      90.2%
+2023-11-22 05:44:39 INFO     [Epoch 997]   Loss:    0.2024     Train Acc:     94.72%      Val Acc:      90.5%
+2023-11-22 05:44:39 INFO     [Epoch 998]   Loss:    0.2019     Train Acc:     94.76%      Val Acc:      90.2%
+2023-11-22 05:44:39 INFO     [Epoch 999]   Loss:    0.2024     Train Acc:      94.7%      Val Acc:      90.4%
+2023-11-22 05:44:39 INFO     step_size_0.001-batch_size_200-max_epochs_1000-number_of_layers_10
+2023-11-22 05:44:40 INFO     Loaded train: (5000, 784)
+2023-11-22 05:44:40 INFO     Loaded val: (1000, 784)
+2023-11-22 05:44:40 INFO     Loaded test: (4220, 784)
+2023-11-22 05:45:18 INFO     [Epoch 995]   Loss:    0.1435     Train Acc:     96.32%      Val Acc:      88.8%
+2023-11-22 05:45:18 INFO     [Epoch 996]   Loss:    0.1409     Train Acc:     96.62%      Val Acc:      88.7%
+2023-11-22 05:45:18 INFO     [Epoch 997]   Loss:    0.1415     Train Acc:     96.54%      Val Acc:      88.7%
+2023-11-22 05:45:18 INFO     [Epoch 998]   Loss:     0.142     Train Acc:     96.64%      Val Acc:      88.3%
+2023-11-22 05:45:18 INFO     [Epoch 999]   Loss:    0.1423     Train Acc:     96.58%      Val Acc:      88.4%
+2023-11-22 05:45:19 INFO     step_size_0.001-batch_size_300-max_epochs_200-number_of_layers_2
+2023-11-22 05:45:20 INFO     Loaded train: (5000, 784)
+2023-11-22 05:45:20 INFO     Loaded val: (1000, 784)
+2023-11-22 05:45:20 INFO     Loaded test: (4220, 784)
+2023-11-22 05:45:24 INFO     [Epoch 195]   Loss:    0.8399     Train Acc:     79.74%      Val Acc:      81.7%
+2023-11-22 05:45:24 INFO     [Epoch 196]   Loss:    0.8374     Train Acc:     79.76%      Val Acc:      81.9%
+2023-11-22 05:45:24 INFO     [Epoch 197]   Loss:    0.8348     Train Acc:     79.84%      Val Acc:      82.0%
+2023-11-22 05:45:24 INFO     [Epoch 198]   Loss:    0.8322     Train Acc:     79.74%      Val Acc:      82.1%
+2023-11-22 05:45:24 INFO     [Epoch 199]   Loss:    0.8297     Train Acc:     80.02%      Val Acc:      82.4%
+2023-11-22 05:45:24 INFO     step_size_0.001-batch_size_300-max_epochs_200-number_of_layers_5
+2023-11-22 05:45:25 INFO     Loaded train: (5000, 784)
+2023-11-22 05:45:25 INFO     Loaded val: (1000, 784)
+2023-11-22 05:45:25 INFO     Loaded test: (4220, 784)
+2023-11-22 05:45:31 INFO     [Epoch 195]   Loss:    0.8012     Train Acc:     77.78%      Val Acc:      78.8%
+2023-11-22 05:45:31 INFO     [Epoch 196]   Loss:    0.7984     Train Acc:     77.82%      Val Acc:      79.2%
+2023-11-22 05:45:31 INFO     [Epoch 197]   Loss:    0.7956     Train Acc:     77.78%      Val Acc:      79.0%
+2023-11-22 05:45:31 INFO     [Epoch 198]   Loss:    0.7931     Train Acc:      78.0%      Val Acc:      78.9%
+2023-11-22 05:45:31 INFO     [Epoch 199]   Loss:    0.7904     Train Acc:     78.26%      Val Acc:      79.2%
+2023-11-22 05:45:31 INFO     step_size_0.001-batch_size_300-max_epochs_200-number_of_layers_10
+2023-11-22 05:45:32 INFO     Loaded train: (5000, 784)
+2023-11-22 05:45:32 INFO     Loaded val: (1000, 784)
+2023-11-22 05:45:32 INFO     Loaded test: (4220, 784)
+2023-11-22 05:45:38 INFO     [Epoch 195]   Loss:    0.8313     Train Acc:     73.76%      Val Acc:      73.4%
+2023-11-22 05:45:38 INFO     [Epoch 196]   Loss:    0.8267     Train Acc:      73.6%      Val Acc:      73.0%
+2023-11-22 05:45:38 INFO     [Epoch 197]   Loss:    0.8234     Train Acc:     73.98%      Val Acc:      73.0%
+2023-11-22 05:45:38 INFO     [Epoch 198]   Loss:    0.8206     Train Acc:      73.9%      Val Acc:      73.4%
+2023-11-22 05:45:38 INFO     [Epoch 199]   Loss:    0.8174     Train Acc:      74.3%      Val Acc:      73.0%
+2023-11-22 05:45:38 INFO     step_size_0.001-batch_size_300-max_epochs_500-number_of_layers_2
+2023-11-22 05:45:39 INFO     Loaded train: (5000, 784)
+2023-11-22 05:45:39 INFO     Loaded val: (1000, 784)
+2023-11-22 05:45:39 INFO     Loaded test: (4220, 784)
+2023-11-22 05:45:50 INFO     [Epoch 495]   Loss:    0.5181     Train Acc:     87.32%      Val Acc:      88.9%
+2023-11-22 05:45:50 INFO     [Epoch 496]   Loss:    0.5176     Train Acc:     87.32%      Val Acc:      88.9%
+2023-11-22 05:45:50 INFO     [Epoch 497]   Loss:     0.517     Train Acc:     87.36%      Val Acc:      88.9%
+2023-11-22 05:45:50 INFO     [Epoch 498]   Loss:    0.5164     Train Acc:     87.42%      Val Acc:      88.9%
+2023-11-22 05:45:50 INFO     [Epoch 499]   Loss:    0.5159     Train Acc:     87.34%      Val Acc:      88.9%
+2023-11-22 05:45:51 INFO     step_size_0.001-batch_size_300-max_epochs_500-number_of_layers_5
+2023-11-22 05:45:51 INFO     Loaded train: (5000, 784)
+2023-11-22 05:45:51 INFO     Loaded val: (1000, 784)
+2023-11-22 05:45:51 INFO     Loaded test: (4220, 784)
+2023-11-22 05:46:05 INFO     [Epoch 495]   Loss:    0.4112     Train Acc:     88.92%      Val Acc:      87.7%
+2023-11-22 05:46:05 INFO     [Epoch 496]   Loss:    0.4106     Train Acc:     89.12%      Val Acc:      87.8%
+2023-11-22 05:46:05 INFO     [Epoch 497]   Loss:    0.4102     Train Acc:     89.06%      Val Acc:      87.9%
+2023-11-22 05:46:05 INFO     [Epoch 498]   Loss:    0.4095     Train Acc:     89.18%      Val Acc:      87.6%
+2023-11-22 05:46:05 INFO     [Epoch 499]   Loss:    0.4088     Train Acc:     89.24%      Val Acc:      87.5%
+2023-11-22 05:46:05 INFO     step_size_0.001-batch_size_300-max_epochs_500-number_of_layers_10
+2023-11-22 05:46:06 INFO     Loaded train: (5000, 784)
+2023-11-22 05:46:06 INFO     Loaded val: (1000, 784)
+2023-11-22 05:46:06 INFO     Loaded test: (4220, 784)
+2023-11-22 05:46:22 INFO     [Epoch 495]   Loss:    0.7227     Train Acc:      76.4%      Val Acc:      73.8%
+2023-11-22 05:46:22 INFO     [Epoch 496]   Loss:    0.7222     Train Acc:     76.12%      Val Acc:      74.1%
+2023-11-22 05:46:22 INFO     [Epoch 497]   Loss:    0.7218     Train Acc:     76.18%      Val Acc:      73.7%
+2023-11-22 05:46:23 INFO     [Epoch 498]   Loss:    0.7218     Train Acc:      76.2%      Val Acc:      73.8%
+2023-11-22 05:46:23 INFO     [Epoch 499]   Loss:    0.7311     Train Acc:     75.62%      Val Acc:      73.9%
+2023-11-22 05:46:23 INFO     step_size_0.001-batch_size_300-max_epochs_1000-number_of_layers_2
+2023-11-22 05:46:24 INFO     Loaded train: (5000, 784)
+2023-11-22 05:46:24 INFO     Loaded val: (1000, 784)
+2023-11-22 05:46:24 INFO     Loaded test: (4220, 784)
+2023-11-22 05:46:46 INFO     [Epoch 995]   Loss:    0.3694     Train Acc:     90.28%      Val Acc:      89.6%
+2023-11-22 05:46:46 INFO     [Epoch 996]   Loss:    0.3693     Train Acc:     90.18%      Val Acc:      89.7%
+2023-11-22 05:46:46 INFO     [Epoch 997]   Loss:    0.3691     Train Acc:     90.22%      Val Acc:      89.8%
+2023-11-22 05:46:46 INFO     [Epoch 998]   Loss:    0.3689     Train Acc:     90.26%      Val Acc:      89.8%
+2023-11-22 05:46:46 INFO     [Epoch 999]   Loss:    0.3688     Train Acc:     90.26%      Val Acc:      89.8%
+2023-11-22 05:46:47 INFO     step_size_0.001-batch_size_300-max_epochs_1000-number_of_layers_5
+2023-11-22 05:46:47 INFO     Loaded train: (5000, 784)
+2023-11-22 05:46:47 INFO     Loaded val: (1000, 784)
+2023-11-22 05:46:47 INFO     Loaded test: (4220, 784)
+2023-11-22 05:47:15 INFO     [Epoch 995]   Loss:    0.2411     Train Acc:      93.4%      Val Acc:      90.4%
+2023-11-22 05:47:15 INFO     [Epoch 996]   Loss:    0.2408     Train Acc:     93.48%      Val Acc:      90.3%
+2023-11-22 05:47:15 INFO     [Epoch 997]   Loss:    0.2406     Train Acc:     93.54%      Val Acc:      90.4%
+2023-11-22 05:47:15 INFO     [Epoch 998]   Loss:    0.2405     Train Acc:     93.54%      Val Acc:      90.4%
+2023-11-22 05:47:15 INFO     [Epoch 999]   Loss:    0.2404     Train Acc:      93.5%      Val Acc:      90.4%
+2023-11-22 05:47:15 INFO     step_size_0.001-batch_size_300-max_epochs_1000-number_of_layers_10
+2023-11-22 05:47:16 INFO     Loaded train: (5000, 784)
+2023-11-22 05:47:16 INFO     Loaded val: (1000, 784)
+2023-11-22 05:47:16 INFO     Loaded test: (4220, 784)
+2023-11-22 05:47:48 INFO     [Epoch 995]   Loss:    0.1939     Train Acc:      95.0%      Val Acc:      88.0%
+2023-11-22 05:47:48 INFO     [Epoch 996]   Loss:    0.1936     Train Acc:     94.86%      Val Acc:      87.3%
+2023-11-22 05:47:48 INFO     [Epoch 997]   Loss:    0.1949     Train Acc:     94.94%      Val Acc:      87.6%
+2023-11-22 05:47:48 INFO     [Epoch 998]   Loss:    0.1945     Train Acc:     95.04%      Val Acc:      88.1%
+2023-11-22 05:47:49 INFO     [Epoch 999]   Loss:    0.1931     Train Acc:     94.98%      Val Acc:      88.2%
+2023-11-22 05:47:49 INFO     step_size_0.001-batch_size_500-max_epochs_200-number_of_layers_2
+2023-11-22 05:47:50 INFO     Loaded train: (5000, 784)
+2023-11-22 05:47:50 INFO     Loaded val: (1000, 784)
+2023-11-22 05:47:50 INFO     Loaded test: (4220, 784)
+2023-11-22 05:47:53 INFO     [Epoch 195]   Loss:     1.196     Train Acc:      72.5%      Val Acc:      72.4%
+2023-11-22 05:47:53 INFO     [Epoch 196]   Loss:     1.193     Train Acc:     72.56%      Val Acc:      72.6%
+2023-11-22 05:47:53 INFO     [Epoch 197]   Loss:     1.189     Train Acc:      72.6%      Val Acc:      72.9%
+2023-11-22 05:47:53 INFO     [Epoch 198]   Loss:     1.186     Train Acc:     72.72%      Val Acc:      73.0%
+2023-11-22 05:47:53 INFO     [Epoch 199]   Loss:     1.182     Train Acc:     72.78%      Val Acc:      73.1%
+2023-11-22 05:47:53 INFO     step_size_0.001-batch_size_500-max_epochs_200-number_of_layers_5
+2023-11-22 05:47:54 INFO     Loaded train: (5000, 784)
+2023-11-22 05:47:54 INFO     Loaded val: (1000, 784)
+2023-11-22 05:47:54 INFO     Loaded test: (4220, 784)
+2023-11-22 05:47:59 INFO     [Epoch 195]   Loss:     1.114     Train Acc:     66.72%      Val Acc:      70.2%
+2023-11-22 05:47:59 INFO     [Epoch 196]   Loss:      1.11     Train Acc:     66.76%      Val Acc:      70.3%
+2023-11-22 05:47:59 INFO     [Epoch 197]   Loss:     1.106     Train Acc:     66.94%      Val Acc:      70.0%
+2023-11-22 05:47:59 INFO     [Epoch 198]   Loss:     1.102     Train Acc:      66.9%      Val Acc:      70.1%
+2023-11-22 05:47:59 INFO     [Epoch 199]   Loss:     1.098     Train Acc:     67.04%      Val Acc:      70.0%
+2023-11-22 05:47:59 INFO     step_size_0.001-batch_size_500-max_epochs_200-number_of_layers_10
+2023-11-22 05:48:00 INFO     Loaded train: (5000, 784)
+2023-11-22 05:48:00 INFO     Loaded val: (1000, 784)
+2023-11-22 05:48:00 INFO     Loaded test: (4220, 784)
+2023-11-22 05:48:05 INFO     [Epoch 195]   Loss:     1.347     Train Acc:     52.46%      Val Acc:      52.9%
+2023-11-22 05:48:05 INFO     [Epoch 196]   Loss:     1.342     Train Acc:     52.82%      Val Acc:      52.8%
+2023-11-22 05:48:05 INFO     [Epoch 197]   Loss:     1.337     Train Acc:     52.82%      Val Acc:      53.0%
+2023-11-22 05:48:05 INFO     [Epoch 198]   Loss:     1.332     Train Acc:     52.96%      Val Acc:      53.2%
+2023-11-22 05:48:05 INFO     [Epoch 199]   Loss:     1.327     Train Acc:     53.04%      Val Acc:      52.8%
+2023-11-22 05:48:05 INFO     step_size_0.001-batch_size_500-max_epochs_500-number_of_layers_2
+2023-11-22 05:48:06 INFO     Loaded train: (5000, 784)
+2023-11-22 05:48:06 INFO     Loaded val: (1000, 784)
+2023-11-22 05:48:06 INFO     Loaded test: (4220, 784)
+2023-11-22 05:48:16 INFO     [Epoch 495]   Loss:     0.661     Train Acc:     84.74%      Val Acc:      84.3%
+2023-11-22 05:48:16 INFO     [Epoch 496]   Loss:    0.6602     Train Acc:     84.74%      Val Acc:      84.3%
+2023-11-22 05:48:16 INFO     [Epoch 497]   Loss:    0.6593     Train Acc:     84.76%      Val Acc:      84.3%
+2023-11-22 05:48:16 INFO     [Epoch 498]   Loss:    0.6585     Train Acc:      84.8%      Val Acc:      84.3%
+2023-11-22 05:48:16 INFO     [Epoch 499]   Loss:    0.6577     Train Acc:     84.76%      Val Acc:      84.3%
+2023-11-22 05:48:16 INFO     step_size_0.001-batch_size_500-max_epochs_500-number_of_layers_5
+2023-11-22 05:48:17 INFO     Loaded train: (5000, 784)
+2023-11-22 05:48:17 INFO     Loaded val: (1000, 784)
+2023-11-22 05:48:17 INFO     Loaded test: (4220, 784)

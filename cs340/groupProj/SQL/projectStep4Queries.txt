@@ -1,0 +1,85 @@
+#CREATING TABLES
+
+CREATE TABLE Users(
+	userID INT AUTO_INCREMENT PRIMARY KEY,
+	username nvarchar(30) NOT NULL,
+	email nvarchar(255) NOT NULL
+) ENGINE=INNODB;
+
+CREATE TABLE Ingredients(
+	ingredientID INT AUTO_INCREMENT PRIMARY KEY,
+	ingredientName nvarchar(63) NOT NULL
+) ENGINE=INNODB;
+
+CREATE TABLE Recipes(
+	recipeID INT AUTO_INCREMENT PRIMARY KEY,
+	recipeName nvarchar(255) NOT NULL,
+	recipeDescription nvarchar(511) NOT NULL,
+	recipeDisplay varchar(2047),
+	recipeInstructions nvarchar(4095) NOT NULL,
+	cookingTime FLOAT NOT NULL, #minutes
+	views INT UNSIGNED DEFAULT 0,
+	rating FLOAT,
+	userID INT,
+	FOREIGN KEY (userID) REFERENCES Users(userID)
+) ENGINE=INNODB;
+
+CREATE TABLE RecipeIngredients(
+	ingredientID INT,
+	recipeID INT,
+	PRIMARY KEY (ingredientID, recipeID),
+	FOREIGN KEY (ingredientID) REFERENCES Ingredients(ingredientID),
+	FOREIGN KEY (recipeID) REFERENCES Recipes(recipeID)
+) ENGINE=INNODB;
+
+CREATE TABLE Reviews(
+	reviewID INT AUTO_INCREMENT PRIMARY KEY,
+	rating TINYINT(3) UNSIGNED NOT NULL,
+	comment nvarchar(1023),
+	image BLOB,
+	recipeID INT,
+	userID INT,
+	FOREIGN KEY (recipeID) REFERENCES Recipes(recipeID),
+	FOREIGN KEY (userID) REFERENCES Users(userID)
+) ENGINE=INNODB;
+
+
+#DESCRIBE ALL TABLES
+
+DESCRIBE Users;
+DESCRIBE Ingredients;
+DESCRIBE Recipes;
+DESCRIBE RecipeIngredients;
+DESCRIBE Reviews;
+
+
+#INSERTING SAMPLE DATA
+
+INSERT INTO Users(username, email) VALUES('potatoBaker78', 'john@example.com');
+INSERT INTO Users(username, email) VALUES('bestCookEver', 'sally@example.com');
+INSERT INTO Users(username, email) VALUES('masterChef', 'GordanRamsey@example.com');
+
+INSERT INTO Ingredients(ingredientName) VALUES('Potato');
+
+INSERT INTO Recipes(recipeName, recipeDescription, recipeDisplay, recipeInstructions, cookingTime, views, rating, userID) VALUES('Baked Potato', 'A potato baked in the oven', 'Potato', 'Bake a potato in the oven' , 20, 2, 5, (SELECT userID FROM Users WHERE username='potatoBaker78'));
+
+INSERT INTO RecipeIngredients(recipeID, ingredientID) VALUES((SELECT recipeID FROM Recipes WHERE recipeName='Baked Potato'), (SELECT ingredientID FROM Ingredients WHERE ingredientName='Potato'));
+
+INSERT INTO Reviews(rating, comment, recipeID, userID) VALUES(
+	4,
+	'It was delicious',
+	(SELECT recipeID FROM Recipes WHERE recipeName='Baked Potato'),
+	(SELECT userID FROM Users WHERE username='potatoBaker78')
+);
+INSERT INTO Reviews(rating, comment, recipeID, userID) VALUES(
+	3,
+	'I hated it',
+	(SELECT recipeID FROM Recipes WHERE recipeName='Baked Potato'),
+	(SELECT userID FROM Users WHERE username='bestCookEver')
+);
+INSERT INTO Reviews(rating, comment, recipeID, userID) VALUES(
+	1,
+	'My grandma\'s favorite',
+	(SELECT recipeID FROM Recipes WHERE recipeName='Baked Potato'),
+	(SELECT userID FROM Users WHERE username='masterChef')
+);
