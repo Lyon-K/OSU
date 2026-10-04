@@ -1,0 +1,7 @@
+Model summary: 157 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 12/12 [00:10<00:00,  1.12it/s]
+                   all        746       6007      0.997      0.991      0.993      0.936
+                   can        746       1932      0.996      0.992      0.994      0.908
+              milk_jug        746       1821      0.997      0.997      0.995      0.964
+         non_white_jug        746        703          1      0.986       0.99      0.945
+        plastic_bottle        746       1551      0.997       0.99      0.994      0.928

@@ -1,0 +1,71 @@
+TEAM MEETING - 10/27/2023
+team lead - ability to shuffle members
+plant - far west recycling
+start building give&takes:
+ - cloud team (make sure data team can run algo in cloud)
+ - data team (ensure good confidence levels and few false positives)
+ - deployment team (grading data eng team???)
+milk bottle(done) -> can -> brand recognition
+
+LEARN:
+ - web sockets / RESTFUL API
+ - mlops azure udemy(dont buy) https://www.udemy.com/course/mlops-course/
+data augmentation: https://github.com/albumentations-team/albumentations
+OPEN3D
+ - open source 3D -> 2D
+
+MAIN TASK:
+	- HOW TO RUN YOLO ON MLOPS
+
+this week tasks:
+	- get resources
+	- 
+
+ASK:
+ - OSU -> free Azure account? (3 things needed)
+	- 
+	- MLOps
+	- power bi
+		- help you build UI on things like #cans #bottles
+ - SDP (DUE Nov 19)
+	- what process are you looking to have and what software? (kanban + 2-week sprints? & weekly meeting)
+	- documentation software(what needs to be documented)
+	- Version Control system software? (github?)
+	- environments? (do we have staging? when will prod be up?)
+	- release cycle for prod/staging
+
+ - general
+	- YOLOv4? YOLOv8? v5 maybe v8
+	- resources for training with 3D object (found paper tracing back in 2018/2019)
+	- software used to store files between teams(dropbox?)
+
+SOURCECODE:
+"""
+take obj file and try
+"""
+python
+import os
+import random
+from pywavefront import Wavefront
+from PIL import Image
+# Function to extract 2D images from a 3D object at random orientations
+def extract_2d_images(obj_file, output_dir, num_images):
+    # Load the OBJ file
+    obj = Wavefront(obj_file)
+    # Create the output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
+    # Extract random 2D images
+    for i in range(num_images):
+        # Randomly select an orientation
+        rotation = (random.uniform(0, 360), random.uniform(0, 360), random.uniform(0, 360))
+        # Render the object with the specified rotation
+        image = obj.scene.render(rotation=rotation)
+        # Save the image
+        image_path = os.path.join(output_dir, f"image_{i+1}.png")
+        image.save(image_path)
+        print(f"Image {i+1} saved.")
+# Usage example
+obj_file = "path/to/your/3d.obj"
+output_dir = "path/to/output/images"
+num_images = 5
+extract_2d_images(obj_file, output_dir, num_images)

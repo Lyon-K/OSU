@@ -1,0 +1,14 @@
+OSU Capstone
+
+azure ML-Ops (read about this / courses?)
+
+obj:
+detecting the object
+picking up the object
+
+training algo:
+yolo - you only look once (courses available on coursera)
+
+AUSTIN - gpu cluster with rob hess
+
+data augmentaton by the data team

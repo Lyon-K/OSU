@@ -1,0 +1,6 @@
+REQUIREMENTS:
+
+deployment team:
+	- ability to be notified to pull weights when they are available
+	- upload image
+data team:

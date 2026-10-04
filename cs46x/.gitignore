@@ -1,0 +1,25 @@
+# Credentials / secrets
+*.pem
+*.key
+.env
+.env.*
+**/aws.env
+
+# Large generated/model artifacts
+*.zip
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
+**/runs/
+code/ai-recycling/check_openvino_model/
+
+# Downloaded/generated datasets
+**/datasets/
+
+# OS / editor files
+.DS_Store
+__pycache__/
+*.pyc
+

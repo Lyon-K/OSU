@@ -1,0 +1,27 @@
+nTEAM MEETING - 11/3/2023
+
+shown on whiteboard: Training Data Set(1) --> ML-Training(3)(cloud) <--> Model (2)
+
+1 -> 3: API-1
+3 -> 2: API-2
+2 -> 3: Register
+
+Look into: 
+	- Transfer learning
+		- convolutional learning (retrains last 10 layers)
+	- 
+
+works(decie who works on what):
+	- api-1 development
+	- api-2 development
+	- register api development
+	- inform (notification) api development
+	- data storage
+	- setting up MLOps
+
+todo:
+	- restful api/sockets
+	- once we get accounts, learn about how to setup the azure etc
+Azure Setup / Sys Admin, ML Ops, Yolo Training, ResTful API Development (Node.JS etc), Web Sockets, Tools for Front-ERnd Development
+	- front end build requirements document
+		- talk to team 1 and team 2 about their requirements, any ui needed?

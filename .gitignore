@@ -1,6 +1,3 @@
-openAIKey.txt
-openAIKey-keelyon2000.txt
-
 # Personal files / folders
 CV_Resumes/
 The Google Resume.pdf
@@ -8,6 +5,30 @@ Transcript.pdf
 OSU 1828293_eDiploma.pdf
 misc/
 
+# Credentials / secrets
+openAIKey*.txt
+*.pem
+*.key
+.env
+.env.*
+**/aws.env
+
+# Large generated/model artifacts
+*.zip
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
+**/runs/
+**/datasets/
+
+# OS / editor files
+.DS_Store
+__pycache__/
+*.pyc
+
 # Datasets
 cs499-INFORMATION-RETRIEVAL/HW*/yelp/
 cs499-INFORMATION-RETRIEVAL/HW*/yelp_sample/
+

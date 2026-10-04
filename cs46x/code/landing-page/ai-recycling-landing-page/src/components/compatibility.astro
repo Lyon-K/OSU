@@ -1,0 +1,46 @@
+---
+import CompatibilityList from "~/components/compatibility-list.astro";
+import ContentSection from "~/components/content-section.astro";
+import type { CompatibilityItem } from "~/types";
+
+const frameworks: Array<CompatibilityItem> = [
+  {
+    title: "YOLOv5",
+    icon: "frameworks/yolo",
+    url: "https://github.com/ultralytics/yolov5",
+  },
+  {
+    title: "Python",
+    icon: "frameworks/python-4",
+    url: "https://www.python.org/",
+  },
+  {
+    title: "AWS",
+    icon: "frameworks/aws",
+    url: "https://aws.amazon.com/",
+  },
+  {
+    title: "Docker",
+    icon: "frameworks/docker",
+    url: "https://www.docker.com/",
+  },
+  {
+    title: "CycleGAN",
+    icon: "frameworks/bair",
+    url: "https://github.com/junyanz/CycleGAN",
+  },
+  {
+    title: "OpenVINO",
+    icon: "frameworks/openvino",
+    url: "https://docs.openvino.ai/2022.3/home.html",
+  },
+];
+---
+
+<ContentSection title="Tools" id="compatibility">
+  <CompatibilityList
+    items={frameworks}
+    title="Frameworks"
+    url="https://docs.astro.build/core-concepts/framework-components/"
+  />
+</ContentSection>

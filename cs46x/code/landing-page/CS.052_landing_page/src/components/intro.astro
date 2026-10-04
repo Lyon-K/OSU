@@ -1,0 +1,23 @@
+---
+import { Icon } from "astro-icon/components";
+import ContentSection from "~/components/content-section.astro";
+---
+
+<ContentSection title="Less hands, More robots" id="intro">
+  <Fragment slot="lead">
+    Our capstone project aims to 
+    <span class="text-primary">improve</span>
+    the 
+    <span class="text-primary">computer vision model</span>
+
+    used in Portland's 
+    recycling plants to improve the accuracy of 
+    <span class="text-primary">automatic waste sorting. </span>
+  </Fragment>
+  <div class="grid grid-cols-1 gap-2 sm:grid-cols-2">
+   Our capstone project aims to improve the computer vision model used in Portland's recycling plants to improve the accuracy of automatic waste sorting. The current system's main challenges include the need for manual labeling of additional training data and the underrepresentation of certain recyclable classes, such as plastic jugs, which limits classification accuracy.
+
+To address these issues, our feature engineering team developed a technique to synthesize training images and automatically generate labels. We utilized CycleGAN, a generative adversarial network framework, to create realistic-looking synthetic data from scratch. The process involves:
+
+  </div>
+</ContentSection>

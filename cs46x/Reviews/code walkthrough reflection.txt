@@ -1,0 +1,20 @@
+Reflection: I got nervous during the presentation so it would be better for me to go through the presentation to be more familiar with it. When the nerves came, even with notes, I do tend to skip many things and I forgot to mention alot of things regarding the architecture of our project which is what my group focuses on. However, this isn't too bad because I was running short on time near the end and it was helpful to not spend too much time going into details of what things are.
+
+Improvement:
+on the video demo, provide an explanation as to where to look and what I am doing with each window because they are not familiar with the project so they dont know what to be looking at and what they are seeing.
+
+Impression on other presenters/projects:
+Everyone was able to condense their technical project into a presentation that is easy to understand as a layman. Video often helped and so do presentation slides.
+
+FEEDBACKS
+Robert:
++ great videoshowcase and well in-depth code explaination
+- could pick out specific parts/concepts of the code to elaborate on since most things are too technical and hard to explain.
+
+Amanda:
++ great presentation + code + app showcase
+- Spend a little more time on presenting aspects of the code, and what you guys have implemented such as storage/interceptors/resolvers/AuthGuards etc...
+
+Trenton:
++ Great in-depth showcase of webpage, nothing much to improve on it addressed the concerns with other presenters
+- Time was a concern, it could be shortened to the targetted 7-9 mins but every part of the presentation was very meaningful

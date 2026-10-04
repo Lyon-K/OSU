@@ -1,0 +1,60 @@
+---
+import { Icon } from "astro-icon/components";
+import ContentSection from "~/components/content-section.astro";
+import type { FeatureItem } from "~/types";
+
+const features: Array<FeatureItem> = [
+  {
+    title: "Deployment",
+    description:
+      "Models trained in the cloud need to be deployed to devices in recycling centers. After downloading a model from the server on AWS, we use OpenVINO to convert the downloaded model to an ONNX format for use on the IGPU. Then, the IGPU can be used to identify and count types of recycled objects in the live recycling video feed. When counting object types, deployment uses a library named Supervision (with a Kalman filter underneath) to keep accurate counts and report those to the cloud. After estimating which objects are occluding other objects, the program determines the optimal pickup order for a potential robotic arm that may assist in sorting recycling in the future.",
+    icon: "mdi:rocket-launch",
+  },
+  {
+    title: "Cloud",
+    description:
+      "Over the course of the year our team has streamlined the machine learning pipeline for optimal efficiency by automating the entire process from data retrieval to model deployment. We use MongoDB to fetch training data from the feature engineering team, which is then processed in a High-Performance Computing (HPC) Cluster. An MLFlow server on AWS EC2 manages the model training, ensuring precision and tracking experiments. Models are benchmarked against predecessors, with successful ones sent to deployment and others archived. Throughout the year, we integrated MLFlow, leveraged MongoDB and AWS for data storage and cloud operations, and accelerated model training with the YOLOv5 algorithm for object detection. Additionally, we developed APIs to download model weights and transfer datasets to the HPC cluster, enhancing collaboration and efficiency. This systematic approach has significantly improved our machine learning operations.",
+    icon: "mdi:cloud",
+  },
+  {
+    title: "Feature Engineering",
+    description:
+    "Starting with a 3D scan of a recyclable object using a custom scanning platform with ArUco-labeled corners for automatic extraction.\n" +
+    "Applying a physics model in Blender to partially crush objects, depending on their class.\n" +
+    "Generating background-free images from the 3D models for image augmentation.\n" +
+    "Training a CycleGAN model with existing recycling data to improve data quality by making synthetic object images resemble real data.\n" +
+    "Superimposing processed object images onto existing images of the recycling conveyor belt and generating label sets from existing bounding boxes without human intervention.\n" +
+    "Synthetic Data Generation:\n\n" +
+    "Highlighting the growing importance of training data availability as computer vision models become more powerful.\n" +
+    "Emphasizing that synthetic data generation can mitigate the high costs and diminishing returns of expanding datasets.\n" +
+    "Suggesting that similar synthetic data techniques could benefit other AI tools, such as large language models (LLMs).\n",
+    icon: "mdi:psychology",
+  },
+];
+---
+
+<ContentSection title="Who's Who?" id="features">
+  <Fragment slot="lead">
+    Our capstone project is comprised of
+    <span class="text-secondary">12 students</span>
+      split into
+      <span class="text-secondary">3</span> teams.
+    We have the 
+    <span class="text-primary">Feature engineering</span> team, the
+    <span class="text-primary">Cloud</span> team & the
+    <span class="text-primary">Deployment</span> team.
+  </Fragment>
+  <ul class="grid max-w-6xl grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+    {
+      features.map(({ title, description, icon }) => (
+        <li class="flex flex-col items-center gap-4 border border-default bg-offset p-6">
+          <div class="size-16 rounded-full border-2 border-current p-3">
+            <Icon name={icon} class="size-full" />
+          </div>
+          <p class="text-center font-extrabold text-xl">{title}</p>
+          <p class="text-center text-offset text-sm">{description}</p>
+        </li>
+      ))
+    }
+  </ul>
+</ContentSection>

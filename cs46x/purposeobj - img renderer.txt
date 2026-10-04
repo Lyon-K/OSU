@@ -1,0 +1,29 @@
+purpose:obj -> img renderer
+input: obj, num_images
+process: python file provided
+output: list of images
+
+purpose: img distortion (refer to paper)
+input: image, distortion type(gaussian blur, greyscale)
+process:
+output:
+
+purpose: train
+input: images, k fold
+process: yolov5/yolov8
+output: model weights
+
+purpose: upload video to cloud
+input:
+process:
+output:
+
+purpose: download video from cloud
+input:
+process:
+output:
+
+purpose: insert data into db
+input: type
+process:
+output:

@@ -1,0 +1,36 @@
+---
+import ContentSection from "~/components/content-section.astro";
+
+const contributors: Array<string> = [
+  "Austin Whitesky", "Andrew Chester", "Jack Stevenson", "Nigel Higgs", 
+  "Ramish Mohammad", "Dillon Baldwin", "Gervasius Juanda", "Robert Vincent", 
+  "Joon Chong", "Lyon Kee", "Jin Park", "Evan Mrazik"
+  ];
+---
+<ContentSection title="Contributors" id="contributors">
+  <Fragment slot="lead">
+    <h2 class="text-2xl font-bold ">Team Information</h2>
+    <div >
+      <h3 class="text-lg font-semibold">Team Members:</h3>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-4 list-disc list-inside">
+        {contributors.map(name => <li>{name}</li>)}
+      </ul>
+    </div>
+    <div >
+        <h3 class="text-lg font-semibold">Project Partner:</h3>
+        <p>Rahul Khanna</p>
+    </div>
+    <div >
+        <h3 class="text-lg font-semibold">Project Codebase:</h3>
+        <p><a href="https://github.com/osu-ai-recycling/ai-recycling" class="text-blue-500 hover:underline">Github</a></p>
+    </div>
+    <div >
+        <h3 class="text-lg font-semibold">Project Documentation:</h3>
+        <p><a href="https://github.com/osu-ai-recycling/ai-recycling" class="text-blue-500 hover:underline">Documentation</a></p>
+    </div>
+    <div >
+        <h3 class="text-lg font-semibold">Contact Info:</h3>
+        <p><a href="mailto:rahul@remote-x.ai" class="text-blue-500 hover:underline">rahul@remote-x.ai</a></p>
+    </div>
+  </Fragment>
+</ContentSection>
